@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (1)" breakable="true" interior="0" alpha="255" dimension="0" model="356" scale="1" doublesided="false" collisions="true" frozen="false" posX="2490.8" posY="-1664.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Police LV) (1)" sirens="false" landingGearDown="false" plate="A18K ROJ" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="598" collisions="true" posX="2488.3999" posY="-1668" posZ="13.5" rotX="0" rotY="0" rotZ="0" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+    <vehicle id="vehicle (Police LS) (1)" sirens="false" landingGearDown="false" plate="1KHV QB9" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="596" collisions="true" posX="2485.7" posY="-1667.7" posZ="13.8" rotX="0" rotY="0" rotZ="0" color="0,0,0,245,245,245,0,0,0,0,0,0"></vehicle>
+</map>

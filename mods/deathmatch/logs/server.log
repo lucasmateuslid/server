@@ -1,0 +1,504 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-29 17:19:23] File 'settings.xml' not present, creating new node.
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-30 14:36:22] Compacting accounts database 'internal.db' ...
+[2021-09-30 14:36:39] Resources: 191 loaded, 0 failed
+[2021-09-30 14:36:39] Compacting database 'registry.db' ...
+[2021-09-30 14:36:40] Starting resources...
+[2021-09-30 14:36:40] Admin access list successfully updated 
+[2021-09-30 14:36:40] INFO: Admin added 506 missing rights
+[2021-09-30 14:36:40] Server minclientversion is now 1.3.0-9.04311
+[2021-09-30 14:36:41] Server minclientversion is now 1.5.6-9.16362
+[2021-09-30 14:36:41] Gamemode 'play' started.
+[2021-09-30 14:36:41] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-09-30 14:36:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-09-30 14:36:41] WARNING: <owner_email_address> not set
+[2021-09-30 14:36:41] Server started and is ready to accept connections!
+[2021-09-30 14:36:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-09-30 14:36:41] Type 'help' for a list of commands.
+[2021-09-30 14:37:42] start: Requested by Console
+[2021-09-30 14:37:42] Starting [BGR]Fall
+[2021-09-30 14:37:42] start: Resource '[BGR]Fall' started
+[2021-09-30 14:37:50] Server stopped!
+[2021-09-30 14:37:50] Stopping resources........................
+[2021-09-30 14:37:50] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-30 14:38:35] Resources: 191 loaded, 0 failed
+[2021-09-30 14:38:35] Starting resources...
+[2021-09-30 14:38:35] Server minclientversion is now 1.5.8-9.20927.0
+[2021-09-30 14:38:35] Gamemode 'play' started.
+[2021-09-30 14:38:35] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-09-30 14:38:35] WARNING: <owner_email_address> not set
+[2021-09-30 14:38:35] Server started and is ready to accept connections!
+[2021-09-30 14:38:35] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-09-30 14:38:35] Type 'help' for a list of commands.
+[2021-09-30 14:38:35] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-09-30 14:54:06] start: Requested by Console
+[2021-09-30 14:54:07] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 14:54:07] Starting [BGR]Fall
+[2021-09-30 14:54:07] start: Resource '[BGR]Fall' started
+[2021-09-30 14:54:48] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.8-9.20957.0)
+[2021-09-30 14:54:49] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-09-30 14:55:06] ADMIN: Renan|B|EB registered account 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-09-30 14:55:16] LOGIN: (Everyone, Console) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-09-30 14:55:57] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 14:55:57] Stopping [BGR]Fall
+[2021-09-30 14:55:58] Starting [BGR]Fall
+[2021-09-30 14:55:58] [BGR]Fall restarted successfully
+[2021-09-30 14:56:34] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 14:56:34] Stopping [BGR]Fall
+[2021-09-30 14:56:35] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 14:56:35] Starting [BGR]Fall
+[2021-09-30 14:56:35] [BGR]Fall restarted successfully
+[2021-09-30 14:56:49] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-09-30 14:58:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 14:58:05] Stopping [BGR]Fall
+[2021-09-30 14:58:05] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 14:58:05] Starting [BGR]Fall
+[2021-09-30 14:58:05] [BGR]Fall restarted successfully
+[2021-09-30 15:09:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 15:09:02] Stopping [BGR]Fall
+[2021-09-30 15:09:02] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 15:09:02] Starting [BGR]Fall
+[2021-09-30 15:09:02] [BGR]Fall restarted successfully
+[2021-09-30 15:09:07] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-09-30 15:09:18] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-09-30 15:09:24] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-09-30 15:10:48] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 15:10:48] Stopping [BGR]Fall
+[2021-09-30 15:10:49] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 15:10:49] Starting [BGR]Fall
+[2021-09-30 15:10:49] [BGR]Fall restarted successfully
+[2021-09-30 15:12:09] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 15:12:09] Stopping [BGR]Fall
+[2021-09-30 15:12:09] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 15:12:09] Starting [BGR]Fall
+[2021-09-30 15:12:09] [BGR]Fall restarted successfully
+[2021-09-30 15:16:03] restart: Requested by Renan|B|EB(Lucas)
+[2021-09-30 15:16:03] Stopping [BGR]Fall
+[2021-09-30 15:16:03] Resource '[BGR]Fall' changed, reloading and starting
+[2021-09-30 15:16:03] Starting [BGR]Fall
+[2021-09-30 15:16:03] [BGR]Fall restarted successfully
+[2021-09-30 15:18:20] QUIT: Renan|B|EB left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-01 17:44:05] ERROR: no such table: write_test
+[2021-10-01 17:44:05] ERROR: Errors were encountered updating 'internal.db' database
+[2021-10-01 17:44:05] ERROR: Database might have incorrect file permissions, or locked by another process, or damaged.
+[2021-10-01 17:44:05] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2021-10-01 17:44:05] ERROR: ************************
+[2021-10-01 17:44:06] Server stopped!
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-01 17:48:05] Resources: 191 loaded, 0 failed
+[2021-10-01 17:48:05] Starting resources...
+[2021-10-01 17:48:05] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-01 17:48:06] Gamemode 'play' started.
+[2021-10-01 17:48:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-01 17:48:06] WARNING: <owner_email_address> not set
+[2021-10-01 17:48:06] Server started and is ready to accept connections!
+[2021-10-01 17:48:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-01 17:48:06] Type 'help' for a list of commands.
+[2021-10-01 17:48:06] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-01 17:51:28] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.8-9.20957.0)
+[2021-10-01 17:51:31] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-01 17:51:45] LOGIN: (Everyone, Console) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-01 17:51:52] Starting [BGR]Fall
+[2021-10-01 17:51:52] startResource: Resource '[BGR]Fall' started
+[2021-10-01 17:51:52] ADMIN: Resource '[BGR]Fall' started by Renan|B|EB(Lucas)
+[2021-10-01 17:52:10] ADMIN: Resource 'freeroam' stopped by Renan|B|EB(Lucas)
+[2021-10-01 17:52:10] Stopping freeroam
+[2021-10-01 18:01:31] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:01:31] Stopping [BGR]Fall
+[2021-10-01 18:01:31] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:01:31] Starting [BGR]Fall
+[2021-10-01 18:01:31] [BGR]Fall restarted successfully
+[2021-10-01 18:02:26] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:02:26] Stopping [BGR]Fall
+[2021-10-01 18:02:26] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:02:27] Starting [BGR]Fall
+[2021-10-01 18:02:27] [BGR]Fall restarted successfully
+[2021-10-01 18:02:40] Starting editor
+[2021-10-01 18:02:40] Starting edf
+[2021-10-01 18:02:41] Starting editor_main
+[2021-10-01 18:02:41] Starting freecam
+[2021-10-01 18:02:41] Starting move_freecam
+[2021-10-01 18:02:41] Starting move_cursor
+[2021-10-01 18:02:41] Starting move_keyboard
+[2021-10-01 18:02:41] Starting editor_gui
+[2021-10-01 18:02:41] Starting msgbox
+[2021-10-01 18:02:41] Starting tooltip
+[2021-10-01 18:02:41] startResource: Resource 'editor' started
+[2021-10-01 18:02:41] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-01 18:02:41] Stopping play
+[2021-10-01 18:05:35] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:05:35] Stopping [BGR]Fall
+[2021-10-01 18:05:35] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:05:35] Starting [BGR]Fall
+[2021-10-01 18:05:35] [BGR]Fall restarted successfully
+[2021-10-01 18:12:32] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:12:32] Stopping [BGR]Fall
+[2021-10-01 18:12:32] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:12:33] Starting [BGR]Fall
+[2021-10-01 18:12:33] [BGR]Fall restarted successfully
+[2021-10-01 18:15:31] New resource 'F10' loaded
+[2021-10-01 18:15:31] Resources: 193 loaded, 0 failed
+[2021-10-01 18:15:34] start: Requested by Console
+[2021-10-01 18:15:34] Starting F10
+[2021-10-01 18:15:34] start: Resource 'F10' started
+[2021-10-01 18:15:53] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-01 18:15:59] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-10-01 18:16:45] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:16:45] Stopping [BGR]Fall
+[2021-10-01 18:16:46] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:16:46] Starting [BGR]Fall
+[2021-10-01 18:16:46] [BGR]Fall restarted successfully
+[2021-10-01 18:25:06] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:25:06] Stopping [BGR]Fall
+[2021-10-01 18:25:06] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:25:06] Starting [BGR]Fall
+[2021-10-01 18:25:06] [BGR]Fall restarted successfully
+[2021-10-01 18:31:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:31:17] Stopping [BGR]Fall
+[2021-10-01 18:31:17] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:31:17] Starting [BGR]Fall
+[2021-10-01 18:31:17] [BGR]Fall restarted successfully
+[2021-10-01 18:32:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:32:11] Stopping [BGR]Fall
+[2021-10-01 18:32:11] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:32:11] Starting [BGR]Fall
+[2021-10-01 18:32:12] [BGR]Fall restarted successfully
+[2021-10-01 18:32:41] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:32:41] Stopping [BGR]Fall
+[2021-10-01 18:32:41] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:32:41] Starting [BGR]Fall
+[2021-10-01 18:32:41] [BGR]Fall restarted successfully
+[2021-10-01 18:32:50] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-10-01 18:33:11] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-01 18:37:45] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.8-9.20957.0)
+[2021-10-01 18:37:45] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-01 18:38:08] LOGIN: (Everyone, Console) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-01 18:39:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:39:02] Stopping [BGR]Fall
+[2021-10-01 18:39:02] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:39:02] Starting [BGR]Fall
+[2021-10-01 18:39:02] [BGR]Fall restarted successfully
+[2021-10-01 18:40:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:40:17] Stopping [BGR]Fall
+[2021-10-01 18:40:17] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:40:17] Starting [BGR]Fall
+[2021-10-01 18:40:18] [BGR]Fall restarted successfully
+[2021-10-01 18:40:27] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-10-01 18:41:50] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:41:50] Stopping [BGR]Fall
+[2021-10-01 18:41:50] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:41:51] Starting [BGR]Fall
+[2021-10-01 18:41:51] [BGR]Fall restarted successfully
+[2021-10-01 18:42:32] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:42:32] Stopping [BGR]Fall
+[2021-10-01 18:42:32] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:42:32] Starting [BGR]Fall
+[2021-10-01 18:42:32] [BGR]Fall restarted successfully
+[2021-10-01 18:43:01] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-01 18:43:27] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:43:27] Stopping [BGR]Fall
+[2021-10-01 18:43:27] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:43:27] Starting [BGR]Fall
+[2021-10-01 18:43:27] [BGR]Fall restarted successfully
+[2021-10-01 18:43:43] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 18:43:43] Stopping [BGR]Fall
+[2021-10-01 18:43:44] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 18:43:44] Starting [BGR]Fall
+[2021-10-01 18:43:44] [BGR]Fall restarted successfully
+[2021-10-01 18:57:17] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-01 19:00:52] Server stopped!
+[2021-10-01 19:00:52] Stopping resources.........................
+[2021-10-01 19:00:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-01 21:06:24] Resources: 193 loaded, 0 failed
+[2021-10-01 21:06:24] Starting resources...
+[2021-10-01 21:06:25] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-01 21:06:26] Gamemode 'play' started.
+[2021-10-01 21:06:26] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-01 21:06:26] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-01 21:06:26] WARNING: <owner_email_address> not set
+[2021-10-01 21:06:26] Server started and is ready to accept connections!
+[2021-10-01 21:06:26] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-01 21:06:26] Type 'help' for a list of commands.
+[2021-10-01 21:06:52] start: Requested by Console
+[2021-10-01 21:06:52] Starting F10
+[2021-10-01 21:06:52] start: Resource 'F10' started
+[2021-10-01 21:06:59] start: Requested by Console
+[2021-10-01 21:06:59] Starting [BGR]Fall
+[2021-10-01 21:06:59] start: Resource '[BGR]Fall' started
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-01 21:10:30] Resources: 193 loaded, 0 failed
+[2021-10-01 21:10:30] Starting resources...
+[2021-10-01 21:10:30] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-01 21:10:31] Gamemode 'play' started.
+[2021-10-01 21:10:31] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-01 21:10:31] WARNING: <owner_email_address> not set
+[2021-10-01 21:10:31] Server started and is ready to accept connections!
+[2021-10-01 21:10:31] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-01 21:10:31] Type 'help' for a list of commands.
+[2021-10-01 21:10:31] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-01 21:34:01] start: Requested by Console
+[2021-10-01 21:34:01] Starting [BGR]Fall
+[2021-10-01 21:34:01] start: Resource '[BGR]Fall' started
+[2021-10-01 21:34:46] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.8-9.20957.0)
+[2021-10-01 21:34:47] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-01 21:35:08] LOGIN: (Everyone, Console) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-01 21:35:14] Starting F10
+[2021-10-01 21:35:14] startResource: Resource 'F10' started
+[2021-10-01 21:35:14] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-01 21:37:23] Starting editor
+[2021-10-01 21:37:23] Starting edf
+[2021-10-01 21:37:23] Starting editor_main
+[2021-10-01 21:37:23] Starting freecam
+[2021-10-01 21:37:23] Starting move_freecam
+[2021-10-01 21:37:23] Starting move_cursor
+[2021-10-01 21:37:23] Starting move_keyboard
+[2021-10-01 21:37:23] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-01 21:37:24] Starting editor_gui
+[2021-10-01 21:37:24] Starting msgbox
+[2021-10-01 21:37:24] Starting tooltip
+[2021-10-01 21:37:24] startResource: Resource 'editor' started
+[2021-10-01 21:37:24] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-01 21:37:24] Stopping play
+[2021-10-01 21:37:24] Stopping freeroam
+[2021-10-01 21:37:52] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-01 21:37:52] Stopping [BGR]Fall
+[2021-10-01 21:37:52] Resource '[BGR]Fall' changed, reloading and starting
+[2021-10-01 21:37:52] Starting [BGR]Fall
+[2021-10-01 21:37:53] [BGR]Fall restarted successfully
+[2021-10-01 21:42:06] start: Resource could not be found
+[2021-10-01 21:42:09] New resource '[CARE]CAR1' loaded
+[2021-10-01 21:42:09] New resource '[CARE]CAR2' loaded
+[2021-10-01 21:42:09] Resources: 195 loaded, 0 failed
+[2021-10-01 21:42:22] start: Requested by Console
+[2021-10-01 21:42:22] Starting [CARE]CAR1
+[2021-10-01 21:42:22] start: Resource '[CARE]CAR1' started
+[2021-10-01 21:42:24] start: Requested by Console
+[2021-10-01 21:42:24] Starting [CARE]CAR2
+[2021-10-01 21:42:24] start: Resource '[CARE]CAR2' started
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-03 21:38:25] Compacting accounts database 'internal.db' ...
+[2021-10-03 21:38:25] ERROR: [2021-10-03 21:38:25] ERROR: SQL logic error
+[2021-10-03 21:38:25] ERROR: Errors were encountered compacting 'internal.db' database
+[2021-10-03 21:38:25] ERROR: Maybe now is the perfect time to panic.
+[2021-10-03 21:38:25] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2021-10-03 21:38:25] ERROR: ************************
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-03 21:38:25] ERROR: no such table: write_test
+[2021-10-03 21:38:25] ERROR: Errors were encountered updating 'internal.db' database
+[2021-10-03 21:38:25] ERROR: Database might have incorrect file permissions, or locked by another process, or damaged.
+[2021-10-03 21:38:25] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2021-10-03 21:38:25] ERROR: ************************
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-03 21:38:25] Compacting accounts database 'internal.db' ...
+[2021-10-03 21:38:25] ERROR: [2021-10-03 21:38:25] ERROR: SQL logic error
+[2021-10-03 21:38:25] ERROR: Errors were encountered compacting 'internal.db' database
+[2021-10-03 21:38:25] ERROR: Maybe now is the perfect time to panic.
+[2021-10-03 21:38:25] ERROR: See - http://wiki.multitheftauto.com/wiki/fixdb
+[2021-10-03 21:38:25] ERROR: ************************
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-03 21:38:48] Resources: 195 loaded, 0 failed
+[2021-10-03 21:38:48] Starting resources...
+[2021-10-03 21:38:49] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-03 21:38:49] Gamemode 'play' started.
+[2021-10-03 21:38:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-03 21:38:49] WARNING: <owner_email_address> not set
+[2021-10-03 21:38:49] Server started and is ready to accept connections!
+[2021-10-03 21:38:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-03 21:38:49] Type 'help' for a list of commands.
+[2021-10-03 21:38:49] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-03 21:39:00] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21002.0)
+[2021-10-03 21:39:00] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-03 21:39:18] LOGIN: (Everyone, Console) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-03 21:39:20] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:22] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:23] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:26] CHAT: Renan|B|EB: #FFFF00Saia do Local ou Sera Preso #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:27] CHAT: Renan|B|EB: #FFFF00Sua Comunica√ß√£o esta sendo Retirada #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:28] CHAT: Renan|B|EB: #FFFF00Abordagem Militar Encoste na Parede #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:30] CHAT: Renan|B|EB: #FFFF00Abordagem Militar Encoste na Parede #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:32] CHAT: Renan|B|EB: #FFFF00Abordagem Militar Encoste na Parede #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:32] CHAT: Renan|B|EB: #FFFF00Abordagem Militar Encoste na Parede #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:33] CHAT: Renan|B|EB: #FFFF00Abordagem Militar Encoste na Parede #008000„Äå 1¬∞ Batalh√£o de A√ß√µes de Comandos „Äç
+[2021-10-03 21:39:34] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:34] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:34] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:34] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: #000000Ì†ΩÌ±âÌ†ºÌøª#800080‚ù§Ô∏è#000000Ì†ΩÌ±àÌ†ºÌøª
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:35] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK¬Ø\_(„ÉÑ)_/
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:36] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:37] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:38] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:38] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:38] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:38] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:39:38] CHAT: Renan|B|EB: #00FF00„Äå E.B „Äç#FF0000 ‚úØ ..It√°lia ‚ù§ #00FF00„Äå E.B„Äç
+[2021-10-03 21:40:13] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-03 22:00:09] Server stopped!
+[2021-10-03 22:00:09] Stopping resources.......................
+[2021-10-03 22:00:10] Closing SQLite3 database
