@@ -1,7 +1,0 @@
-<meta>
-  <info author="Lucas Mateus" version="0.0.3" name="BGR FALL" description="Arma desenvolvida para os servidores do brasil gaming realista, todos os direitos reservados ao Brasil Gaming Realista " />
-
-  <script src="script.lua" type="client"/>
-  <file src="BGRFALL.dff"/>
-  <file src="BGRFALL.txd" />
-</meta>

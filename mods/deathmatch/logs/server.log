@@ -502,3 +502,1036 @@
 [2021-10-03 22:00:09] Server stopped!
 [2021-10-03 22:00:09] Stopping resources.......................
 [2021-10-03 22:00:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-05 00:19:37] Resources: 197 loaded, 0 failed
+[2021-10-05 00:19:37] Starting resources...
+[2021-10-05 00:19:37] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-05 00:19:38] Gamemode 'play' started.
+[2021-10-05 00:19:38] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-05 00:19:38] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-05 00:19:38] WARNING: <owner_email_address> not set
+[2021-10-05 00:19:38] Server started and is ready to accept connections!
+[2021-10-05 00:19:38] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-05 00:19:38] Type 'help' for a list of commands.
+[2021-10-05 00:20:07] start: Resource could not be found
+[2021-10-05 00:20:16] start: Requested by Console
+[2021-10-05 00:20:16] Starting asPainelVipDesc
+[2021-10-05 00:20:16] INFO: resource foi iniciado com sucesso
+[2021-10-05 00:20:16] INFO: Criação database sucess
+[2021-10-05 00:20:16] Criação database sucess
+[2021-10-05 00:20:16] start: Resource 'asPainelVipDesc' started
+[2021-10-05 00:20:30] start: Requested by Console
+[2021-10-05 00:20:30] Starting object_preview
+[2021-10-05 00:20:30] start: Resource 'object_preview' started
+[2021-10-05 00:24:24] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-05 00:24:25] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-05 00:24:32] LOGIN: (Everyone, Console) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-05 00:24:33] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:33] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:33] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:33] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:39] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:45] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:51] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:24:57] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:03] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] ACL: admin: Group 'Bronze' created
+[2021-10-05 00:25:06] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] created Group Bronze
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:338: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:06] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:11] ACL: admin: Group 'Prata' created
+[2021-10-05 00:25:11] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] created Group Prata
+[2021-10-05 00:25:11] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:343: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x2]
+[2021-10-05 00:25:11] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x2]
+[2021-10-05 00:25:11] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x2]
+[2021-10-05 00:25:11] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:11] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:16] ACL: admin: Group 'Ouro' created
+[2021-10-05 00:25:16] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] created Group Ouro
+[2021-10-05 00:25:17] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:348: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:17] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x3]
+[2021-10-05 00:25:17] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]
+[2021-10-05 00:25:21] ACL: admin: Group 'Diamante' created
+[2021-10-05 00:25:21] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] created Group Diamante
+[2021-10-05 00:25:23] WARNING: [PainelVip]\asPainelVipDesc\astoServer.lua:353: Bad argument @ 'isObjectInACLGroup' [Expected acl-group at argument 2, got boolean]  [DUP x2]
+[2021-10-05 00:25:27] ACL: admin: Object 'user.Lucas' added to group 'Prata'
+[2021-10-05 00:25:27] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] added user.Lucas to ACL Group Prata
+[2021-10-05 00:25:37] ACL: admin: Object 'user.Lucas' added to group 'Bronze'
+[2021-10-05 00:25:37] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] added user.Lucas to ACL Group Bronze
+[2021-10-05 00:25:47] ACL: admin: Object 'user.Lucas' added to group 'Ouro'
+[2021-10-05 00:25:47] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] added user.Lucas to ACL Group Ouro
+[2021-10-05 00:25:56] ACL: admin: Object 'user.Lucas' added to group 'Diamante'
+[2021-10-05 00:25:56] ACL: EB|09-B|3SGT.Renan[Lucas] [57AC3496D00DC498B3DAF40CF91806F3] [192.168.1.2] added user.Lucas to ACL Group Diamante
+[2021-10-05 00:26:08] restart: Requested by Console
+[2021-10-05 00:26:08] restart: Resource restarting...
+[2021-10-05 00:26:08] Stopping asPainelVipDesc
+[2021-10-05 00:26:08] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-05 00:26:08] Starting asPainelVipDesc
+[2021-10-05 00:26:08] INFO: resource foi iniciado com sucesso
+[2021-10-05 00:26:08] INFO: Criação database sucess
+[2021-10-05 00:26:08] Criação database sucess
+[2021-10-05 00:26:08] asPainelVipDesc restarted successfully
+[2021-10-05 00:30:37] NICK: EB|09-B|3SGT.Renan is now known as Renan|B|EB
+[2021-10-05 00:30:42] NICK: Renan|B|EB is now known as EB|09-B|3SGT.Renan
+[2021-10-05 00:30:47] NICK: EB|09-B|3SGT.Renan is now known as Renan|B|EB
+[2021-10-05 00:32:43] restart: Requested by Console
+[2021-10-05 00:32:43] restart: Resource restarting...
+[2021-10-05 00:32:43] Stopping asPainelVipDesc
+[2021-10-05 00:32:43] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-05 00:32:43] Starting asPainelVipDesc
+[2021-10-05 00:32:43] INFO: resource foi iniciado com sucesso
+[2021-10-05 00:32:43] INFO: Criação database sucess
+[2021-10-05 00:32:43] Criação database sucess
+[2021-10-05 00:32:43] asPainelVipDesc restarted successfully
+[2021-10-05 00:33:12] restart: Requested by Console
+[2021-10-05 00:33:12] restart: Resource restarting...
+[2021-10-05 00:33:12] Stopping asPainelVipDesc
+[2021-10-05 00:33:12] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-05 00:33:12] Starting asPainelVipDesc
+[2021-10-05 00:33:12] INFO: resource foi iniciado com sucesso
+[2021-10-05 00:33:12] Criação database sucess
+[2021-10-05 00:33:12] asPainelVipDesc restarted successfully
+[2021-10-05 00:33:18] INFO: Criação database sucess
+[2021-10-05 00:41:44] Server stopped!
+[2021-10-05 00:41:44] Stopping resources.........................
+[2021-10-05 00:41:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-05 03:05:20] Resources: 197 loaded, 0 failed
+[2021-10-05 03:05:20] Starting resources...
+[2021-10-05 03:05:20] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-05 03:05:21] Gamemode 'play' started.
+[2021-10-05 03:05:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-05 03:05:21] WARNING: <owner_email_address> not set
+[2021-10-05 03:05:21] Server started and is ready to accept connections!
+[2021-10-05 03:05:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-05 03:05:21] Type 'help' for a list of commands.
+[2021-10-05 03:05:21] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-05 03:05:42] Resource '[BGR]Fall' has been removed, unloading
+[2021-10-05 03:05:42] New resource '[BGR]Armas' loaded
+[2021-10-05 03:05:42] Resources: 197 loaded, 0 failed
+[2021-10-05 03:05:53] start: Requested by Console
+[2021-10-05 03:05:53] Starting [BGR]Armas
+[2021-10-05 03:05:53] start: Resource '[BGR]Armas' started
+[2021-10-05 03:06:04] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-05 03:06:05] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-05 03:06:20] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-05 03:07:08] Starting editor
+[2021-10-05 03:07:08] Starting edf
+[2021-10-05 03:07:08] Starting editor_main
+[2021-10-05 03:07:09] Starting freecam
+[2021-10-05 03:07:09] Starting move_freecam
+[2021-10-05 03:07:09] Starting move_cursor
+[2021-10-05 03:07:09] Starting move_keyboard
+[2021-10-05 03:07:09] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-05 03:07:09] Starting editor_gui
+[2021-10-05 03:07:09] Starting msgbox
+[2021-10-05 03:07:09] Starting tooltip
+[2021-10-05 03:07:09] startResource: Resource 'editor' started
+[2021-10-05 03:07:09] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-05 03:07:09] Stopping play
+[2021-10-05 03:07:09] Stopping freeroam
+[2021-10-05 03:07:32] start: Requested by Renan|B|EB(Lucas)
+[2021-10-05 03:07:32] Starting F10
+[2021-10-05 03:13:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 0000008D
+[2021-10-05 03:25:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-05 03:25:36] Stopping [BGR]Armas
+[2021-10-05 03:25:38] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-05 03:25:38] Starting [BGR]Armas
+[2021-10-05 03:25:39] [BGR]Armas restarted successfully
+[2021-10-05 03:26:28] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-05 03:26:28] Stopping [BGR]Armas
+[2021-10-05 03:26:28] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-05 03:26:28] Starting [BGR]Armas
+[2021-10-05 03:26:28] [BGR]Armas restarted successfully
+[2021-10-05 03:27:48] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-05 03:28:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:29:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:30:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:31:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:32:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:33:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:34:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:35:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:36:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:37:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:38:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:39:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:40:10] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:41:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:42:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:43:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:44:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:45:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:46:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:47:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:48:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:49:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:50:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:51:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:52:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:53:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:54:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:55:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:56:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:57:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:58:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 03:59:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:00:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:01:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:02:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:03:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:04:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:05:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:06:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:07:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:08:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:09:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:10:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:11:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:12:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:13:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:14:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:15:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:16:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:17:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:18:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:19:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:20:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:21:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:22:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:23:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:24:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:25:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:26:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:27:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:28:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:29:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:30:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:31:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:32:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:33:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:34:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:35:11] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:36:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:37:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:38:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:39:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:40:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:41:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:42:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:43:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:44:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:45:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:46:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:47:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:48:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:49:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:50:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:51:12] WARNING: editor_main\server\saveloadtest_server.lua:667: Using getElementPosition as bad element data for userdata: 00000093
+[2021-10-05 04:51:36] Server stopped!
+[2021-10-05 04:51:37] Stopping resources.........................
+[2021-10-05 04:51:43] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-06 15:07:58] Resources: 197 loaded, 0 failed
+[2021-10-06 15:07:58] Starting resources...
+[2021-10-06 15:07:58] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-06 15:07:59] Gamemode 'play' started.
+[2021-10-06 15:07:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-06 15:07:59] WARNING: <owner_email_address> not set
+[2021-10-06 15:07:59] Server started and is ready to accept connections!
+[2021-10-06 15:07:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-06 15:07:59] Type 'help' for a list of commands.
+[2021-10-06 15:07:59] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-06 15:10:31] start: Requested by Console
+[2021-10-06 15:10:32] Starting [BGR]Armas
+[2021-10-06 15:10:32] start: Resource '[BGR]Armas' started
+[2021-10-06 15:17:38] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 15:17:38] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 15:17:52] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 15:17:57] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-06 15:21:51] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:21:51] Stopping [BGR]Armas
+[2021-10-06 15:21:51] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:21:51] Starting [BGR]Armas
+[2021-10-06 15:21:52] [BGR]Armas restarted successfully
+[2021-10-06 15:22:36] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-06 15:23:11] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 15:23:12] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 15:23:28] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 15:23:38] Starting F10
+[2021-10-06 15:23:38] startResource: Resource 'F10' started
+[2021-10-06 15:23:38] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-06 15:26:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:26:17] Stopping [BGR]Armas
+[2021-10-06 15:26:17] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:26:18] Starting [BGR]Armas
+[2021-10-06 15:26:18] [BGR]Armas restarted successfully
+[2021-10-06 15:27:44] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:27:44] Stopping [BGR]Armas
+[2021-10-06 15:27:44] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:27:44] Starting [BGR]Armas
+[2021-10-06 15:27:44] [BGR]Armas restarted successfully
+[2021-10-06 15:28:47] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:28:47] Stopping [BGR]Armas
+[2021-10-06 15:28:47] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:28:48] Starting [BGR]Armas
+[2021-10-06 15:28:48] [BGR]Armas restarted successfully
+[2021-10-06 15:29:00] Starting editor
+[2021-10-06 15:29:00] Starting edf
+[2021-10-06 15:29:00] Starting editor_main
+[2021-10-06 15:29:00] Starting freecam
+[2021-10-06 15:29:00] Starting move_freecam
+[2021-10-06 15:29:00] Starting move_cursor
+[2021-10-06 15:29:00] Starting move_keyboard
+[2021-10-06 15:29:00] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-06 15:29:01] Starting editor_gui
+[2021-10-06 15:29:01] Starting msgbox
+[2021-10-06 15:29:01] Starting tooltip
+[2021-10-06 15:29:01] startResource: Resource 'editor' started
+[2021-10-06 15:29:01] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-06 15:29:01] Stopping play
+[2021-10-06 15:29:01] Stopping freeroam
+[2021-10-06 15:30:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:30:59] Stopping [BGR]Armas
+[2021-10-06 15:30:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:30:59] Starting [BGR]Armas
+[2021-10-06 15:30:59] [BGR]Armas restarted successfully
+[2021-10-06 15:31:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:31:36] Stopping [BGR]Armas
+[2021-10-06 15:31:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:31:36] Starting [BGR]Armas
+[2021-10-06 15:31:36] [BGR]Armas restarted successfully
+[2021-10-06 15:44:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:44:59] Stopping [BGR]Armas
+[2021-10-06 15:44:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:44:59] Starting [BGR]Armas
+[2021-10-06 15:44:59] [BGR]Armas restarted successfully
+[2021-10-06 15:45:26] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:45:26] Stopping [BGR]Armas
+[2021-10-06 15:45:26] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:45:26] Starting [BGR]Armas
+[2021-10-06 15:45:26] [BGR]Armas restarted successfully
+[2021-10-06 15:46:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:46:36] Stopping [BGR]Armas
+[2021-10-06 15:46:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:46:37] Starting [BGR]Armas
+[2021-10-06 15:46:37] [BGR]Armas restarted successfully
+[2021-10-06 15:47:15] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:47:15] Stopping [BGR]Armas
+[2021-10-06 15:47:16] Starting [BGR]Armas
+[2021-10-06 15:47:16] [BGR]Armas restarted successfully
+[2021-10-06 15:47:52] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:47:52] Stopping [BGR]Armas
+[2021-10-06 15:47:52] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:47:52] Starting [BGR]Armas
+[2021-10-06 15:47:53] [BGR]Armas restarted successfully
+[2021-10-06 15:52:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:52:59] Stopping [BGR]Armas
+[2021-10-06 15:52:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:52:59] Starting [BGR]Armas
+[2021-10-06 15:53:00] [BGR]Armas restarted successfully
+[2021-10-06 15:54:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:54:02] Stopping [BGR]Armas
+[2021-10-06 15:54:02] Starting [BGR]Armas
+[2021-10-06 15:54:02] [BGR]Armas restarted successfully
+[2021-10-06 15:54:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:54:11] Stopping [BGR]Armas
+[2021-10-06 15:54:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:54:11] Starting [BGR]Armas
+[2021-10-06 15:54:11] [BGR]Armas restarted successfully
+[2021-10-06 15:54:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:54:59] Stopping [BGR]Armas
+[2021-10-06 15:54:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:54:59] Starting [BGR]Armas
+[2021-10-06 15:54:59] [BGR]Armas restarted successfully
+[2021-10-06 15:56:43] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 15:56:43] Stopping [BGR]Armas
+[2021-10-06 15:56:43] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 15:56:43] Starting [BGR]Armas
+[2021-10-06 15:56:43] [BGR]Armas restarted successfully
+[2021-10-06 16:03:46] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:03:46] Stopping [BGR]Armas
+[2021-10-06 16:03:46] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:03:46] Starting [BGR]Armas
+[2021-10-06 16:03:46] [BGR]Armas restarted successfully
+[2021-10-06 16:04:57] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:04:57] Stopping [BGR]Armas
+[2021-10-06 16:04:57] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:04:57] Starting [BGR]Armas
+[2021-10-06 16:04:57] [BGR]Armas restarted successfully
+[2021-10-06 16:07:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:07:53] Stopping [BGR]Armas
+[2021-10-06 16:07:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:07:53] Starting [BGR]Armas
+[2021-10-06 16:07:53] [BGR]Armas restarted successfully
+[2021-10-06 16:12:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:12:59] Stopping [BGR]Armas
+[2021-10-06 16:12:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:12:59] Starting [BGR]Armas
+[2021-10-06 16:12:59] [BGR]Armas restarted successfully
+[2021-10-06 16:16:14] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:16:14] Stopping [BGR]Armas
+[2021-10-06 16:16:14] Starting [BGR]Armas
+[2021-10-06 16:16:14] [BGR]Armas restarted successfully
+[2021-10-06 16:16:29] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:16:29] Stopping [BGR]Armas
+[2021-10-06 16:16:29] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:16:30] Starting [BGR]Armas
+[2021-10-06 16:16:30] [BGR]Armas restarted successfully
+[2021-10-06 16:18:23] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:18:23] Stopping [BGR]Armas
+[2021-10-06 16:18:23] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:18:23] Starting [BGR]Armas
+[2021-10-06 16:18:23] [BGR]Armas restarted successfully
+[2021-10-06 16:19:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:19:53] Stopping [BGR]Armas
+[2021-10-06 16:19:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:19:53] Starting [BGR]Armas
+[2021-10-06 16:19:54] [BGR]Armas restarted successfully
+[2021-10-06 16:20:38] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:20:38] Stopping [BGR]Armas
+[2021-10-06 16:20:38] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:20:39] Starting [BGR]Armas
+[2021-10-06 16:20:39] [BGR]Armas restarted successfully
+[2021-10-06 16:21:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:21:59] Stopping [BGR]Armas
+[2021-10-06 16:22:00] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:22:00] Starting [BGR]Armas
+[2021-10-06 16:22:00] [BGR]Armas restarted successfully
+[2021-10-06 16:25:32] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 16:25:32] Stopping [BGR]Armas
+[2021-10-06 16:25:32] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 16:25:32] Starting [BGR]Armas
+[2021-10-06 16:25:32] [BGR]Armas restarted successfully
+[2021-10-06 16:29:25] QUIT: Renan|B|EB left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-06 17:25:24] Resources: 197 loaded, 0 failed
+[2021-10-06 17:25:24] Starting resources...
+[2021-10-06 17:25:25] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-06 17:25:25] Gamemode 'play' started.
+[2021-10-06 17:25:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-06 17:25:25] WARNING: <owner_email_address> not set
+[2021-10-06 17:25:25] Server started and is ready to accept connections!
+[2021-10-06 17:25:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-06 17:25:25] Type 'help' for a list of commands.
+[2021-10-06 17:25:25] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-06 17:38:00] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 17:38:02] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 17:38:41] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 17:38:47] Starting [BGR]Armas
+[2021-10-06 17:38:47] startResource: Resource '[BGR]Armas' started
+[2021-10-06 17:38:47] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-06 17:38:48] Starting F10
+[2021-10-06 17:38:48] startResource: Resource 'F10' started
+[2021-10-06 17:38:48] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-06 17:39:09] Starting editor
+[2021-10-06 17:39:09] Starting edf
+[2021-10-06 17:39:10] Starting editor_main
+[2021-10-06 17:39:10] Starting freecam
+[2021-10-06 17:39:10] Starting move_freecam
+[2021-10-06 17:39:10] Starting move_cursor
+[2021-10-06 17:39:10] Starting move_keyboard
+[2021-10-06 17:39:10] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-06 17:39:10] Starting editor_gui
+[2021-10-06 17:39:10] Starting msgbox
+[2021-10-06 17:39:10] Starting tooltip
+[2021-10-06 17:39:11] startResource: Resource 'editor' started
+[2021-10-06 17:39:11] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-06 17:39:11] Stopping play
+[2021-10-06 17:39:11] Stopping freeroam
+[2021-10-06 17:43:58] QUIT: Renan|B|EB left the game [Timed out]
+[2021-10-06 17:44:17] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 17:44:18] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 17:44:42] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-06 17:44:49] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 17:44:50] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 17:44:50] Stopping [BGR]Armas
+[2021-10-06 17:44:51] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 17:44:51] Starting [BGR]Armas
+[2021-10-06 17:44:51] [BGR]Armas restarted successfully
+[2021-10-06 17:49:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 17:49:05] Stopping [BGR]Armas
+[2021-10-06 17:49:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 17:49:07] Starting [BGR]Armas
+[2021-10-06 17:49:07] [BGR]Armas restarted successfully
+[2021-10-06 18:04:56] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-06 18:14:39] Server stopped!
+[2021-10-06 18:14:40] Stopping resources.........................
+[2021-10-06 18:14:40] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-06 19:07:28] Resources: 197 loaded, 0 failed
+[2021-10-06 19:07:28] Starting resources...
+[2021-10-06 19:07:28] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-06 19:07:29] Gamemode 'play' started.
+[2021-10-06 19:07:29] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-06 19:07:29] WARNING: <owner_email_address> not set
+[2021-10-06 19:07:29] Server started and is ready to accept connections!
+[2021-10-06 19:07:29] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-06 19:07:29] Type 'help' for a list of commands.
+[2021-10-06 19:07:29] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-06 19:09:29] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 19:09:30] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 19:09:37] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 19:09:42] Starting [BGR]Armas
+[2021-10-06 19:09:43] startResource: Resource '[BGR]Armas' started
+[2021-10-06 19:09:43] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-06 19:09:44] Starting F10
+[2021-10-06 19:09:44] startResource: Resource 'F10' started
+[2021-10-06 19:09:44] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-06 19:09:48] Starting editor
+[2021-10-06 19:09:48] Starting edf
+[2021-10-06 19:09:48] Starting editor_main
+[2021-10-06 19:09:48] Starting freecam
+[2021-10-06 19:09:48] Starting move_freecam
+[2021-10-06 19:09:48] Starting move_cursor
+[2021-10-06 19:09:48] Starting move_keyboard
+[2021-10-06 19:09:48] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-06 19:09:48] Starting editor_gui
+[2021-10-06 19:09:48] Starting msgbox
+[2021-10-06 19:09:48] Starting tooltip
+[2021-10-06 19:09:48] startResource: Resource 'editor' started
+[2021-10-06 19:09:48] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-06 19:09:49] Stopping play
+[2021-10-06 19:09:49] Stopping freeroam
+[2021-10-06 19:12:20] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-06 22:57:53] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-06 22:57:53] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-06 23:15:42] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-06 23:15:49] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-06 23:15:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:15:53] Stopping [BGR]Armas
+[2021-10-06 23:15:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:15:54] Starting [BGR]Armas
+[2021-10-06 23:15:54] [BGR]Armas restarted successfully
+[2021-10-06 23:17:00] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-06 23:21:08] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:21:08] Stopping [BGR]Armas
+[2021-10-06 23:21:09] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:21:09] Starting [BGR]Armas
+[2021-10-06 23:21:09] [BGR]Armas restarted successfully
+[2021-10-06 23:22:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:22:11] Stopping [BGR]Armas
+[2021-10-06 23:22:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:22:12] Starting [BGR]Armas
+[2021-10-06 23:22:12] [BGR]Armas restarted successfully
+[2021-10-06 23:23:07] ADMIN: Renan|B|EB has given Renan|B|EB 'Colt 45'
+[2021-10-06 23:23:07] ADMIN: Renan|B|EB has given Renan|B|EB 'Colt 45'
+[2021-10-06 23:23:07] ADMIN: Renan|B|EB has given Renan|B|EB 'Colt 45'
+[2021-10-06 23:23:07] ADMIN: Renan|B|EB has given Renan|B|EB 'Colt 45'
+[2021-10-06 23:36:21] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:36:21] Stopping editor
+[2021-10-06 23:36:21] Stopping edf
+[2021-10-06 23:36:21] Stopping editor_main
+[2021-10-06 23:36:21] Stopping freecam
+[2021-10-06 23:36:21] Stopping move_freecam
+[2021-10-06 23:36:21] Stopping move_cursor
+[2021-10-06 23:36:21] Stopping move_keyboard
+[2021-10-06 23:36:21] Stopping editor_gui
+[2021-10-06 23:36:21] Stopping msgbox
+[2021-10-06 23:36:21] Stopping tooltip
+[2021-10-06 23:36:21] Starting editor
+[2021-10-06 23:36:21] Starting edf
+[2021-10-06 23:36:21] Starting editor_main
+[2021-10-06 23:36:21] Starting freecam
+[2021-10-06 23:36:21] Starting move_freecam
+[2021-10-06 23:36:21] Starting move_cursor
+[2021-10-06 23:36:21] Starting move_keyboard
+[2021-10-06 23:36:21] Starting editor_gui
+[2021-10-06 23:36:21] Starting msgbox
+[2021-10-06 23:36:21] Starting tooltip
+[2021-10-06 23:36:21] editor restarted successfully
+[2021-10-06 23:36:43] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:36:43] Stopping [BGR]Armas
+[2021-10-06 23:36:44] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:36:44] Starting [BGR]Armas
+[2021-10-06 23:36:44] [BGR]Armas restarted successfully
+[2021-10-06 23:38:40] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:38:40] Stopping [BGR]Armas
+[2021-10-06 23:38:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:38:40] Starting [BGR]Armas
+[2021-10-06 23:38:40] [BGR]Armas restarted successfully
+[2021-10-06 23:42:16] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:42:16] Stopping [BGR]Armas
+[2021-10-06 23:42:16] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:42:16] Starting [BGR]Armas
+[2021-10-06 23:42:16] [BGR]Armas restarted successfully
+[2021-10-06 23:42:54] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:42:54] Stopping [BGR]Armas
+[2021-10-06 23:42:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:42:54] Starting [BGR]Armas
+[2021-10-06 23:42:54] [BGR]Armas restarted successfully
+[2021-10-06 23:44:29] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:44:29] Stopping [BGR]Armas
+[2021-10-06 23:44:29] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:44:29] Starting [BGR]Armas
+[2021-10-06 23:44:29] [BGR]Armas restarted successfully
+[2021-10-06 23:50:33] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:50:33] Stopping [BGR]Armas
+[2021-10-06 23:50:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:50:34] Starting [BGR]Armas
+[2021-10-06 23:50:34] [BGR]Armas restarted successfully
+[2021-10-06 23:51:57] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-06 23:51:57] Stopping [BGR]Armas
+[2021-10-06 23:51:57] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-06 23:51:57] Starting [BGR]Armas
+[2021-10-06 23:51:57] [BGR]Armas restarted successfully
+[2021-10-07 00:40:26] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-07 01:10:31] Server stopped!
+[2021-10-07 01:10:31] Stopping resources.........................
+[2021-10-07 01:10:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-07 14:54:33] Compacting accounts database 'internal.db' ...
+[2021-10-07 14:54:55] Resources: 197 loaded, 0 failed
+[2021-10-07 14:54:55] Compacting database 'registry.db' ...
+[2021-10-07 14:54:55] Starting resources...
+[2021-10-07 14:54:55] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-07 14:54:55] Gamemode 'play' started.
+[2021-10-07 14:54:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-07 14:54:55] WARNING: <owner_email_address> not set
+[2021-10-07 14:54:55] Server started and is ready to accept connections!
+[2021-10-07 14:54:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-07 14:54:55] Type 'help' for a list of commands.
+[2021-10-07 14:54:55] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-07 14:56:46] start: Requested by Console
+[2021-10-07 14:56:47] Starting [BGR]Armas
+[2021-10-07 14:56:47] start: Resource '[BGR]Armas' started
+[2021-10-07 14:56:53] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-07 14:56:56] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-07 14:56:57] start: Requested by Console
+[2021-10-07 14:56:57] Starting F10
+[2021-10-07 14:56:57] start: Resource 'F10' started
+[2021-10-07 14:57:01] start: Requested by Console
+[2021-10-07 14:57:01] Starting editor
+[2021-10-07 14:57:01] Starting edf
+[2021-10-07 14:57:02] Starting editor_main
+[2021-10-07 14:57:02] Starting freecam
+[2021-10-07 14:57:02] Starting move_freecam
+[2021-10-07 14:57:02] Starting move_cursor
+[2021-10-07 14:57:02] Starting move_keyboard
+[2021-10-07 14:57:02] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-07 14:57:02] Starting editor_gui
+[2021-10-07 14:57:02] Starting msgbox
+[2021-10-07 14:57:02] Starting tooltip
+[2021-10-07 14:57:03] start: Resource 'editor' started
+[2021-10-07 14:57:03] Stopping play
+[2021-10-07 14:57:03] Stopping freeroam
+[2021-10-07 15:04:23] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-07 15:04:41] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-07 15:04:48] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-07 15:04:49] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:04:49] Stopping [BGR]Armas
+[2021-10-07 15:04:50] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:04:51] Starting [BGR]Armas
+[2021-10-07 15:04:51] [BGR]Armas restarted successfully
+[2021-10-07 15:07:52] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-07 15:07:58] ADMIN: Renan|B|EB has set game speed to '0'
+[2021-10-07 15:08:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:08:37] Stopping [BGR]Armas
+[2021-10-07 15:08:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:08:37] Starting [BGR]Armas
+[2021-10-07 15:08:38] [BGR]Armas restarted successfully
+[2021-10-07 15:09:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:09:37] Stopping [BGR]Armas
+[2021-10-07 15:09:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:09:38] Starting [BGR]Armas
+[2021-10-07 15:09:38] [BGR]Armas restarted successfully
+[2021-10-07 15:10:07] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:10:07] Stopping [BGR]Armas
+[2021-10-07 15:10:09] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:10:10] Starting [BGR]Armas
+[2021-10-07 15:10:11] [BGR]Armas restarted successfully
+[2021-10-07 15:10:48] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:10:48] Stopping [BGR]Armas
+[2021-10-07 15:10:49] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:10:49] Starting [BGR]Armas
+[2021-10-07 15:10:50] [BGR]Armas restarted successfully
+[2021-10-07 15:11:30] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:11:30] Stopping [BGR]Armas
+[2021-10-07 15:11:31] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:11:32] Starting [BGR]Armas
+[2021-10-07 15:11:32] [BGR]Armas restarted successfully
+[2021-10-07 15:12:00] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:12:00] Stopping [BGR]Armas
+[2021-10-07 15:12:00] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:12:00] Starting [BGR]Armas
+[2021-10-07 15:12:01] [BGR]Armas restarted successfully
+[2021-10-07 15:12:33] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:12:33] Stopping [BGR]Armas
+[2021-10-07 15:12:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:12:33] Starting [BGR]Armas
+[2021-10-07 15:12:34] [BGR]Armas restarted successfully
+[2021-10-07 15:13:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:13:02] Stopping [BGR]Armas
+[2021-10-07 15:13:02] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:13:02] Starting [BGR]Armas
+[2021-10-07 15:13:03] [BGR]Armas restarted successfully
+[2021-10-07 15:13:38] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:13:38] Stopping [BGR]Armas
+[2021-10-07 15:13:39] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:13:39] Starting [BGR]Armas
+[2021-10-07 15:13:39] [BGR]Armas restarted successfully
+[2021-10-07 15:14:10] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:14:10] Stopping [BGR]Armas
+[2021-10-07 15:14:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:14:11] Starting [BGR]Armas
+[2021-10-07 15:14:12] [BGR]Armas restarted successfully
+[2021-10-07 15:16:21] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:16:21] Stopping [BGR]Armas
+[2021-10-07 15:16:22] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:16:22] Starting [BGR]Armas
+[2021-10-07 15:16:23] [BGR]Armas restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-07 15:21:32] Resources: 197 loaded, 0 failed
+[2021-10-07 15:21:32] Starting resources...
+[2021-10-07 15:21:32] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-07 15:21:33] Gamemode 'play' started.
+[2021-10-07 15:21:33] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-07 15:21:33] WARNING: <owner_email_address> not set
+[2021-10-07 15:21:33] Server started and is ready to accept connections!
+[2021-10-07 15:21:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-07 15:21:33] Type 'help' for a list of commands.
+[2021-10-07 15:21:33] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-07 15:21:45] start: Requested by Console
+[2021-10-07 15:21:45] Starting editor
+[2021-10-07 15:21:45] Starting edf
+[2021-10-07 15:21:45] Starting editor_main
+[2021-10-07 15:21:45] Starting freecam
+[2021-10-07 15:21:45] Starting move_freecam
+[2021-10-07 15:21:45] Starting move_cursor
+[2021-10-07 15:21:45] Starting move_keyboard
+[2021-10-07 15:21:45] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-07 15:21:45] Starting editor_gui
+[2021-10-07 15:21:45] Starting msgbox
+[2021-10-07 15:21:45] Starting tooltip
+[2021-10-07 15:21:45] start: Resource 'editor' started
+[2021-10-07 15:21:45] Stopping play
+[2021-10-07 15:21:45] Stopping freeroam
+[2021-10-07 15:21:48] start: Requested by Console
+[2021-10-07 15:21:48] Starting F10
+[2021-10-07 15:21:48] start: Resource 'f10' started
+[2021-10-07 15:21:53] start: Requested by Console
+[2021-10-07 15:21:53] Starting [BGR]Armas
+[2021-10-07 15:21:54] start: Resource '[BGR]Armas' started
+[2021-10-07 15:22:03] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-07 15:22:04] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-07 15:22:19] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-07 15:23:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:23:11] Stopping [BGR]Armas
+[2021-10-07 15:23:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:23:11] Starting [BGR]Armas
+[2021-10-07 15:23:11] [BGR]Armas restarted successfully
+[2021-10-07 15:25:24] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:25:24] Stopping [BGR]Armas
+[2021-10-07 15:25:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:25:25] Starting [BGR]Armas
+[2021-10-07 15:25:25] [BGR]Armas restarted successfully
+[2021-10-07 15:25:42] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:25:42] Stopping [BGR]Armas
+[2021-10-07 15:25:42] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:25:43] Starting [BGR]Armas
+[2021-10-07 15:25:43] [BGR]Armas restarted successfully
+[2021-10-07 15:26:15] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:26:15] Stopping [BGR]Armas
+[2021-10-07 15:26:16] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:26:16] Starting [BGR]Armas
+[2021-10-07 15:26:16] [BGR]Armas restarted successfully
+[2021-10-07 15:26:40] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:26:40] Stopping [BGR]Armas
+[2021-10-07 15:26:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:26:41] Starting [BGR]Armas
+[2021-10-07 15:26:41] [BGR]Armas restarted successfully
+[2021-10-07 15:27:03] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:27:03] Stopping [BGR]Armas
+[2021-10-07 15:27:04] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:27:04] Starting [BGR]Armas
+[2021-10-07 15:27:04] [BGR]Armas restarted successfully
+[2021-10-07 15:27:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:27:36] Stopping [BGR]Armas
+[2021-10-07 15:27:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:27:36] Starting [BGR]Armas
+[2021-10-07 15:27:37] [BGR]Armas restarted successfully
+[2021-10-07 15:27:54] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 15:27:54] Stopping [BGR]Armas
+[2021-10-07 15:27:55] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 15:27:55] Starting [BGR]Armas
+[2021-10-07 15:27:55] [BGR]Armas restarted successfully
+[2021-10-07 16:34:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:34:59] Stopping [BGR]Armas
+[2021-10-07 16:34:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:34:59] Starting [BGR]Armas
+[2021-10-07 16:35:00] [BGR]Armas restarted successfully
+[2021-10-07 16:36:33] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:36:33] Stopping [BGR]Armas
+[2021-10-07 16:36:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:36:33] Starting [BGR]Armas
+[2021-10-07 16:36:33] [BGR]Armas restarted successfully
+[2021-10-07 16:38:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:38:05] Stopping [BGR]Armas
+[2021-10-07 16:38:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:38:06] Starting [BGR]Armas
+[2021-10-07 16:38:06] [BGR]Armas restarted successfully
+[2021-10-07 16:40:12] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:40:12] Stopping [BGR]Armas
+[2021-10-07 16:40:13] Starting [BGR]Armas
+[2021-10-07 16:40:13] [BGR]Armas restarted successfully
+[2021-10-07 16:40:24] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:40:24] Stopping [BGR]Armas
+[2021-10-07 16:40:25] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:40:25] Starting [BGR]Armas
+[2021-10-07 16:40:25] [BGR]Armas restarted successfully
+[2021-10-07 16:42:35] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:42:35] Stopping [BGR]Armas
+[2021-10-07 16:42:35] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:42:35] Starting [BGR]Armas
+[2021-10-07 16:42:35] [BGR]Armas restarted successfully
+[2021-10-07 16:44:00] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:44:00] Stopping [BGR]Armas
+[2021-10-07 16:44:00] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:44:00] Starting [BGR]Armas
+[2021-10-07 16:44:00] [BGR]Armas restarted successfully
+[2021-10-07 16:48:04] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-07 16:48:09] ADMIN: Renan|B|EB has set game speed to '0'
+[2021-10-07 16:50:39] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:50:39] Stopping [BGR]Armas
+[2021-10-07 16:50:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:50:40] Starting [BGR]Armas
+[2021-10-07 16:50:40] [BGR]Armas restarted successfully
+[2021-10-07 16:51:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:51:36] Stopping [BGR]Armas
+[2021-10-07 16:51:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:51:37] Starting [BGR]Armas
+[2021-10-07 16:51:37] [BGR]Armas restarted successfully
+[2021-10-07 16:56:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-07 16:56:05] Stopping [BGR]Armas
+[2021-10-07 16:56:05] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-07 16:56:05] Starting [BGR]Armas
+[2021-10-07 16:56:05] [BGR]Armas restarted successfully
+[2021-10-07 16:59:30] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-07 16:59:41] Server stopped!
+[2021-10-07 16:59:41] Stopping resources.........................
+[2021-10-07 16:59:41] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-07 19:48:10] Resources: 197 loaded, 0 failed
+[2021-10-07 19:48:11] Starting resources...
+[2021-10-07 19:48:11] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-07 19:48:12] Gamemode 'play' started.
+[2021-10-07 19:48:12] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-07 19:48:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-07 19:48:12] WARNING: <owner_email_address> not set
+[2021-10-07 19:48:12] Server started and is ready to accept connections!
+[2021-10-07 19:48:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-07 19:48:12] Type 'help' for a list of commands.
+[2021-10-07 19:48:42] start: Requested by Console
+[2021-10-07 19:48:42] Starting [BGR]Armas
+[2021-10-07 19:48:42] start: Resource '[BGR]Armas' started
+[2021-10-07 19:48:47] start: Requested by Console
+[2021-10-07 19:48:47] Starting F10
+[2021-10-07 19:48:47] start: Resource 'f10' started
+[2021-10-07 19:48:59] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-07 19:49:02] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-07 19:49:36] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-07 19:51:17] Starting editor
+[2021-10-07 19:51:17] Starting edf
+[2021-10-07 19:51:17] Starting editor_main
+[2021-10-07 19:51:18] Starting freecam
+[2021-10-07 19:51:18] Starting move_freecam
+[2021-10-07 19:51:18] Starting move_cursor
+[2021-10-07 19:51:18] Starting move_keyboard
+[2021-10-07 19:51:18] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-07 19:51:19] Starting editor_gui
+[2021-10-07 19:51:19] Starting msgbox
+[2021-10-07 19:51:19] Starting tooltip
+[2021-10-07 19:51:19] startResource: Resource 'editor' started
+[2021-10-07 19:51:19] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-07 19:51:19] Stopping play
+[2021-10-07 19:51:19] Stopping freeroam
+[2021-10-07 19:52:45] Server stopped!
+[2021-10-07 19:52:45] Stopping resources.........................
+[2021-10-07 19:52:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-07 19:54:46] Resources: 197 loaded, 0 failed
+[2021-10-07 19:54:46] Starting resources...
+[2021-10-07 19:54:46] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-07 19:54:46] Gamemode 'play' started.
+[2021-10-07 19:54:46] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-07 19:54:46] WARNING: <owner_email_address> not set
+[2021-10-07 19:54:46] Server started and is ready to accept connections!
+[2021-10-07 19:54:46] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-07 19:54:46] Type 'help' for a list of commands.
+[2021-10-07 19:54:46] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-07 19:55:09] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-07 19:55:09] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-07 19:55:17] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-07 19:55:21] Starting F10
+[2021-10-07 19:55:21] startResource: Resource 'F10' started
+[2021-10-07 19:55:21] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-07 19:55:24] Starting [BGR]Armas
+[2021-10-07 19:55:24] startResource: Resource '[BGR]Armas' started
+[2021-10-07 19:55:24] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-07 19:55:29] Starting editor
+[2021-10-07 19:55:29] Starting edf
+[2021-10-07 19:55:30] Starting editor_main
+[2021-10-07 19:55:30] Starting freecam
+[2021-10-07 19:55:30] Starting move_freecam
+[2021-10-07 19:55:30] Starting move_cursor
+[2021-10-07 19:55:30] Starting move_keyboard
+[2021-10-07 19:55:30] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-07 19:55:30] Starting editor_gui
+[2021-10-07 19:55:30] Starting msgbox
+[2021-10-07 19:55:31] Starting tooltip
+[2021-10-07 19:55:31] startResource: Resource 'editor' started
+[2021-10-07 19:55:31] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-07 19:55:31] Stopping play
+[2021-10-07 19:55:31] Stopping freeroam
+[2021-10-07 19:56:40] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-07 22:46:50] Server stopped!
+[2021-10-07 22:46:50] Stopping resources.........................
+[2021-10-07 22:46:50] Closing SQLite3 database

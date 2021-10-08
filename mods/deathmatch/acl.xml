@@ -49,6 +49,18 @@
     <group name="DevGroup">
         <acl name="DevACL"></acl>
     </group>
+    <group name="Bronze">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="Prata">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="Ouro">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="Diamante">
+        <object name="user.Lucas"></object>
+    </group>
     <acl name="Default">
         <right name="general.ModifyOtherObjects" access="false"></right>
         <right name="general.http" access="false"></right>

@@ -1,4 +1,4 @@
-servernamer = "ELITE ROLEPLAY ➟ OFICIAL ❖ POLICIAIS ❖ ASSALTOS ❖ GANGS ❖"
+servernamer = "Default MTA Server"
 
 addEventHandler("onResourceStart", resourceRoot, function(resource)
 	if (resource == getThisResource()) then
@@ -26,16 +26,16 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 		if Tipo == "Veiculos" then
 			local x, y, z = getElementPosition(source)
 			local rx, ry, rz = getElementRotation(source)
-			
-			if isTimer(TimerCar) then 
+
+			if isTimer(TimerCar) then
 				outputChatBox("ERRO > #ff0000(Espere 10m para voce pegar o veiculo novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
-			
+
 			if isElement(vehiclesVips[source]) then
 				destroyElement(vehiclesVips[source])
 			end
-			
+
 			if Vip == "Bronze" and ID == 1 then
 				vehiclesVips[source] = createVehicle(configS.bronze.veiculoB_1, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
@@ -94,9 +94,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 		elseif Tipo == "Personagens" then
 
-			if isTimer(TimerSkin) then 
+			if isTimer(TimerSkin) then
 				outputChatBox("ERRO > #ff0000(Espere 5m para voce pegar o skins novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Bronze" and ID == 1 then
@@ -154,9 +154,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 		elseif Tipo == "Armas" then
 
-			if isTimer(TimerWeapon) then 
+			if isTimer(TimerWeapon) then
 				outputChatBox("ERRO > #ff0000(Espere 6m para voce pegar o kit armas novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Bronze" and ID == 1 then
@@ -177,64 +177,64 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				for _, gun in ipairs(configS.prata.kitArmasP_2) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Ouro" and ID == 1 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_1) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Ouro" and ID == 2 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_2) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Ouro" and ID == 3 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_3) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_1) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Diamante" and ID == 2 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_2) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Diamante" and ID == 3 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_3) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 
 			elseif Vip == "Diamante" and ID == 4 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_4) do
 					giveWeapon(source, gun, 200)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas 4, Espere 6m para pegar novamente)", source, 255, 255, 255, true)		
+				outputChatBox("INFO > (Você acaba de pegar um kit de armas 4, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 400000, 1)
 			end
 
 		elseif Tipo == "Vidas" then
 
-			if isTimer(TimerHealth) then 
+			if isTimer(TimerHealth) then
 				outputChatBox("ERRO > #ff0000(Espere 10m para voce pegar o kit vida novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Prata" and ID == 1 then
@@ -255,9 +255,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 		elseif Tipo == "Coletes" then
 
-			if isTimer(TimerArmor) then 
+			if isTimer(TimerArmor) then
 				outputChatBox("ERRO > #ff0000(Espere 10m para voce pegar o colete novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Ouro" and ID == 1 then
@@ -273,9 +273,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 		elseif Tipo == "Estilo Anda" then
 
-			if isTimer(TimerSyle) then 
+			if isTimer(TimerSyle) then
 				outputChatBox("ERRO > #ff0000(Espere 2m para voce mudar seu estilo de anda novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Ouro" and ID == 1 then
@@ -306,9 +306,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 		elseif Tipo == "Estilo Luta" then
 
-			if isTimer(TimerFighting) then 
+			if isTimer(TimerFighting) then
 				outputChatBox("ERRO > #ff0000(Espere 3m para voce mudar seu estilo de luta novamente)", source, 255, 255, 255, true)
-				return 
+				return
 			end
 
 			if Vip == "Diamante" and ID == 1 then
