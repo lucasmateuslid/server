@@ -1535,3 +1535,360 @@
 [2021-10-07 22:46:50] Server stopped!
 [2021-10-07 22:46:50] Stopping resources.........................
 [2021-10-07 22:46:50] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-08 02:57:55] Resources: 197 loaded, 0 failed
+[2021-10-08 02:57:55] Starting resources...
+[2021-10-08 02:57:55] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-08 02:57:55] Gamemode 'play' started.
+[2021-10-08 02:57:55] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-08 02:57:55] WARNING: <owner_email_address> not set
+[2021-10-08 02:57:55] Server started and is ready to accept connections!
+[2021-10-08 02:57:55] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-08 02:57:55] Type 'help' for a list of commands.
+[2021-10-08 02:57:55] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-08 06:01:08] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-08 06:01:09] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-08 06:01:19] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-08 06:01:29] start: Requested by Renan|B|EB(Lucas)
+[2021-10-08 06:01:29] Starting editor
+[2021-10-08 06:01:29] Starting edf
+[2021-10-08 06:01:30] Starting editor_main
+[2021-10-08 06:01:30] Starting freecam
+[2021-10-08 06:01:30] Starting move_freecam
+[2021-10-08 06:01:30] Starting move_cursor
+[2021-10-08 06:01:30] Starting move_keyboard
+[2021-10-08 06:01:30] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-08 06:01:30] Starting editor_gui
+[2021-10-08 06:01:30] Starting msgbox
+[2021-10-08 06:01:30] Starting tooltip
+[2021-10-08 06:01:30] Stopping play
+[2021-10-08 06:01:30] Stopping freeroam
+[2021-10-08 06:01:35] start: Requested by Renan|B|EB(Lucas)
+[2021-10-08 06:01:35] Starting F10
+[2021-10-08 06:01:59] start: Requested by Renan|B|EB(Lucas)
+[2021-10-08 06:01:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 06:02:00] Starting [BGR]Armas
+[2021-10-08 06:09:12] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 06:09:12] Stopping [BGR]Armas
+[2021-10-08 06:09:13] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 06:09:13] Starting [BGR]Armas
+[2021-10-08 06:09:14] [BGR]Armas restarted successfully
+[2021-10-08 06:09:49] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 06:09:49] Stopping [BGR]Armas
+[2021-10-08 06:09:49] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 06:09:49] Starting [BGR]Armas
+[2021-10-08 06:09:50] [BGR]Armas restarted successfully
+[2021-10-08 06:10:45] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-08 06:43:05] Server stopped!
+[2021-10-08 06:43:06] Stopping resources.........................
+[2021-10-08 06:43:10] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-08 16:25:08] Resources: 197 loaded, 0 failed
+[2021-10-08 16:25:08] Starting resources...
+[2021-10-08 16:25:08] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-08 16:25:09] Gamemode 'play' started.
+[2021-10-08 16:25:09] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-08 16:25:09] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-08 16:25:09] WARNING: <owner_email_address> not set
+[2021-10-08 16:25:09] Server started and is ready to accept connections!
+[2021-10-08 16:25:09] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-08 16:25:09] Type 'help' for a list of commands.
+[2021-10-08 16:28:29] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-08 16:28:31] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-08 16:29:01] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-08 16:29:06] Starting F10
+[2021-10-08 16:29:06] startResource: Resource 'F10' started
+[2021-10-08 16:29:06] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-08 16:29:08] Starting [BGR]Armas
+[2021-10-08 16:29:08] startResource: Resource '[BGR]Armas' started
+[2021-10-08 16:29:08] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-08 16:29:15] Starting editor
+[2021-10-08 16:29:15] Starting edf
+[2021-10-08 16:29:16] Starting editor_main
+[2021-10-08 16:29:16] Starting freecam
+[2021-10-08 16:29:16] Starting move_freecam
+[2021-10-08 16:29:16] Starting move_cursor
+[2021-10-08 16:29:16] Starting move_keyboard
+[2021-10-08 16:29:16] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-08 16:29:17] Starting editor_gui
+[2021-10-08 16:29:17] Starting msgbox
+[2021-10-08 16:29:17] Starting tooltip
+[2021-10-08 16:29:17] startResource: Resource 'editor' started
+[2021-10-08 16:29:17] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-08 16:29:17] Stopping play
+[2021-10-08 16:29:17] Stopping freeroam
+[2021-10-08 16:30:46] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:30:46] Stopping [BGR]Armas
+[2021-10-08 16:30:47] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:30:47] Starting [BGR]Armas
+[2021-10-08 16:30:47] [BGR]Armas restarted successfully
+[2021-10-08 16:31:25] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:31:26] Stopping [BGR]Armas
+[2021-10-08 16:31:27] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:31:27] Starting [BGR]Armas
+[2021-10-08 16:31:28] [BGR]Armas restarted successfully
+[2021-10-08 16:32:23] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:32:23] Stopping [BGR]Armas
+[2021-10-08 16:32:25] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:32:25] Starting [BGR]Armas
+[2021-10-08 16:32:26] [BGR]Armas restarted successfully
+[2021-10-08 16:33:04] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:33:04] Stopping [BGR]Armas
+[2021-10-08 16:33:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:33:07] Starting [BGR]Armas
+[2021-10-08 16:33:07] [BGR]Armas restarted successfully
+[2021-10-08 16:40:52] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:40:52] Stopping [BGR]Armas
+[2021-10-08 16:40:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:40:55] Starting [BGR]Armas
+[2021-10-08 16:40:55] [BGR]Armas restarted successfully
+[2021-10-08 16:41:33] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:41:33] Stopping [BGR]Armas
+[2021-10-08 16:41:35] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:41:36] Starting [BGR]Armas
+[2021-10-08 16:41:37] [BGR]Armas restarted successfully
+[2021-10-08 16:42:32] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:42:32] Stopping [BGR]Armas
+[2021-10-08 16:42:34] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:42:34] Starting [BGR]Armas
+[2021-10-08 16:42:35] [BGR]Armas restarted successfully
+[2021-10-08 16:43:19] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 16:43:19] Stopping [BGR]Armas
+[2021-10-08 16:43:20] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 16:43:21] Starting [BGR]Armas
+[2021-10-08 16:43:21] [BGR]Armas restarted successfully
+[2021-10-08 17:37:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 17:37:37] Stopping [BGR]Armas
+[2021-10-08 17:37:38] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 17:37:38] Starting [BGR]Armas
+[2021-10-08 17:37:38] [BGR]Armas restarted successfully
+[2021-10-08 17:48:42] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 17:48:42] Stopping [BGR]Armas
+[2021-10-08 17:48:43] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 17:48:44] Starting [BGR]Armas
+[2021-10-08 17:48:44] [BGR]Armas restarted successfully
+[2021-10-08 17:56:21] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 17:56:21] Stopping [BGR]Armas
+[2021-10-08 17:56:22] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 17:56:22] Starting [BGR]Armas
+[2021-10-08 17:56:22] [BGR]Armas restarted successfully
+[2021-10-08 18:00:51] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 18:00:51] Stopping [BGR]Armas
+[2021-10-08 18:00:51] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 18:00:52] Starting [BGR]Armas
+[2021-10-08 18:00:52] [BGR]Armas restarted successfully
+[2021-10-08 18:02:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 18:02:37] Stopping [BGR]Armas
+[2021-10-08 18:02:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 18:02:37] Starting [BGR]Armas
+[2021-10-08 18:02:38] [BGR]Armas restarted successfully
+[2021-10-08 18:22:47] Server stopped!
+[2021-10-08 18:22:47] Stopping resources.........................
+[2021-10-08 18:22:49] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-08 20:58:04] Resources: 197 loaded, 0 failed
+[2021-10-08 20:58:04] Starting resources...
+[2021-10-08 20:58:04] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-08 20:58:04] Gamemode 'play' started.
+[2021-10-08 20:58:04] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-08 20:58:04] WARNING: <owner_email_address> not set
+[2021-10-08 20:58:04] Server started and is ready to accept connections!
+[2021-10-08 20:58:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-08 20:58:04] Type 'help' for a list of commands.
+[2021-10-08 20:58:04] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-08 21:00:24] start: Requested by Console
+[2021-10-08 21:00:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 21:00:24] Starting [BGR]Armas
+[2021-10-08 21:00:25] start: Resource '[BGR]Armas' started
+[2021-10-08 21:00:27] start: Requested by Console
+[2021-10-08 21:00:27] Starting F10
+[2021-10-08 21:00:27] start: Resource 'f10' started
+[2021-10-08 21:00:29] start: Requested by Console
+[2021-10-08 21:00:29] Starting editor
+[2021-10-08 21:00:29] Starting edf
+[2021-10-08 21:00:30] Starting editor_main
+[2021-10-08 21:00:30] Starting freecam
+[2021-10-08 21:00:30] Starting move_freecam
+[2021-10-08 21:00:30] Starting move_cursor
+[2021-10-08 21:00:30] Starting move_keyboard
+[2021-10-08 21:00:30] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-08 21:00:30] Starting editor_gui
+[2021-10-08 21:00:30] Starting msgbox
+[2021-10-08 21:00:30] Starting tooltip
+[2021-10-08 21:00:30] start: Resource 'editor' started
+[2021-10-08 21:00:30] Stopping play
+[2021-10-08 21:00:30] Stopping freeroam
+[2021-10-08 21:01:03] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-08 21:01:05] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-08 21:10:44] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-08 21:10:52] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-08 21:10:57] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-08 21:10:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-08 21:10:59] Stopping [BGR]Armas
+[2021-10-08 21:10:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-08 21:10:59] Starting [BGR]Armas
+[2021-10-08 21:10:59] [BGR]Armas restarted successfully
+[2021-10-08 21:32:12] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-08 21:42:13] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-08 21:42:14] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-08 21:42:26] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-08 21:52:55] Server stopped!
+[2021-10-08 21:52:55] Stopping resources.........................
+[2021-10-08 21:52:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 01:31:59] Resources: 197 loaded, 0 failed
+[2021-10-09 01:31:59] Starting resources...
+[2021-10-09 01:31:59] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 01:31:59] Gamemode 'play' started.
+[2021-10-09 01:31:59] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 01:31:59] WARNING: <owner_email_address> not set
+[2021-10-09 01:31:59] Server started and is ready to accept connections!
+[2021-10-09 01:31:59] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 01:31:59] Type 'help' for a list of commands.
+[2021-10-09 01:32:00] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 01:35:17] start: Requested by Console
+[2021-10-09 01:35:17] Starting [BGR]Armas
+[2021-10-09 01:35:18] start: Resource '[BGR]Armas' started
+[2021-10-09 01:35:20] start: Requested by Console
+[2021-10-09 01:35:20] Starting F10
+[2021-10-09 01:35:20] start: Resource 'f10' started
+[2021-10-09 01:35:22] start: Requested by Console
+[2021-10-09 01:35:22] Starting editor
+[2021-10-09 01:35:22] Starting edf
+[2021-10-09 01:35:22] Starting editor_main
+[2021-10-09 01:35:22] Starting freecam
+[2021-10-09 01:35:22] Starting move_freecam
+[2021-10-09 01:35:22] Starting move_cursor
+[2021-10-09 01:35:22] Starting move_keyboard
+[2021-10-09 01:35:22] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-09 01:35:23] Starting editor_gui
+[2021-10-09 01:35:23] Starting msgbox
+[2021-10-09 01:35:23] Starting tooltip
+[2021-10-09 01:35:23] start: Resource 'editor' started
+[2021-10-09 01:35:23] Stopping play
+[2021-10-09 01:35:23] Stopping freeroam
+[2021-10-09 01:35:52] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 01:35:53] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 01:36:08] ACL: Denied 'EB|09-B|3SGT.Renan' access to command 'restart'
+[2021-10-09 01:36:12] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 01:36:14] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:36:14] Stopping [BGR]Armas
+[2021-10-09 01:36:14] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:36:14] Starting [BGR]Armas
+[2021-10-09 01:36:14] [BGR]Armas restarted successfully
+[2021-10-09 01:39:07] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:39:07] Stopping [BGR]Armas
+[2021-10-09 01:39:07] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:39:07] Starting [BGR]Armas
+[2021-10-09 01:39:07] [BGR]Armas restarted successfully
+[2021-10-09 01:42:07] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:42:07] Stopping [BGR]Armas
+[2021-10-09 01:42:08] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:42:08] Starting [BGR]Armas
+[2021-10-09 01:42:08] [BGR]Armas restarted successfully
+[2021-10-09 01:42:59] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 01:43:21] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 01:43:22] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 01:44:51] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 01:47:33] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:47:33] Stopping [BGR]Armas
+[2021-10-09 01:47:34] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:47:34] Starting [BGR]Armas
+[2021-10-09 01:47:34] [BGR]Armas restarted successfully
+[2021-10-09 01:48:52] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:48:52] Stopping [BGR]Armas
+[2021-10-09 01:48:52] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:48:52] Starting [BGR]Armas
+[2021-10-09 01:48:52] [BGR]Armas restarted successfully
+[2021-10-09 01:50:28] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:50:28] Stopping [BGR]Armas
+[2021-10-09 01:50:28] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:50:28] Starting [BGR]Armas
+[2021-10-09 01:50:28] [BGR]Armas restarted successfully
+[2021-10-09 01:52:56] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:52:56] Stopping [BGR]Armas
+[2021-10-09 01:52:56] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:52:56] Starting [BGR]Armas
+[2021-10-09 01:52:57] [BGR]Armas restarted successfully
+[2021-10-09 01:53:58] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 01:53:58] Stopping [BGR]Armas
+[2021-10-09 01:53:58] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 01:53:58] Starting [BGR]Armas
+[2021-10-09 01:53:58] [BGR]Armas restarted successfully
+[2021-10-09 02:06:37] New resource '[CARE]CAR3' loaded
+[2021-10-09 02:06:37] Resources: 198 loaded, 0 failed
+[2021-10-09 02:06:43] start: Requested by Console
+[2021-10-09 02:06:44] Starting [CARE]CAR3
+[2021-10-09 02:06:44] start: Resource '[CARE]CAR3' started
+[2021-10-09 02:06:58] stop: Requested by Console
+[2021-10-09 02:06:58] stop: Resource stopping
+[2021-10-09 02:06:58] Stopping editor
+[2021-10-09 02:06:58] Stopping edf
+[2021-10-09 02:06:58] Stopping editor_main
+[2021-10-09 02:06:58] Stopping freecam
+[2021-10-09 02:06:58] Stopping move_freecam
+[2021-10-09 02:06:58] Stopping move_cursor
+[2021-10-09 02:06:58] Stopping move_keyboard
+[2021-10-09 02:06:59] Stopping editor_gui
+[2021-10-09 02:06:59] Stopping msgbox
+[2021-10-09 02:06:59] Stopping tooltip
+[2021-10-09 02:06:59] ERROR: Client (EB|09-B|3SGT.Renan) triggered serverside event doSaveMapSettings, but event is not added serverside
+[2021-10-09 02:07:03] restart: Requested by Console
+[2021-10-09 02:07:03] restart: Resource restarting...
+[2021-10-09 02:07:03] Stopping admin
+[2021-10-09 02:07:03] Starting admin
+[2021-10-09 02:07:04] admin restarted successfully
+[2021-10-09 02:07:12] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 02:07:13] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 02:07:13] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 02:07:32] Server stopped!
+[2021-10-09 02:07:32] Stopping resources........................
+[2021-10-09 02:07:32] Closing SQLite3 database
