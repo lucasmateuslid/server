@@ -1,0 +1,3 @@
+function changeSight(commandName)
+  function()
+    

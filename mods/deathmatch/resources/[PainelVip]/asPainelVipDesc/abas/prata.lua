@@ -13,49 +13,56 @@ function abaPrata()
 		else
 			drawBorde(x*323, y*249, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Personagem |", x*354, y*256, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Viatura Hilux", x*334, y*256, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
 		if cursorPosition(x*323, y*298, x*173, y*35) then
 			drawBorde(x*323, y*298, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
 			drawBorde(x*323, y*298, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Personagem ||", x*354, y*305, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Viatura TrailBlazer", x*334, y*305, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
 		if cursorPosition(x*323, y*347, x*173, y*35) then
 			drawBorde(x*323, y*347, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
 			drawBorde(x*323, y*347, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Veiculo |", x*376, y*354, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Camburão Blindado", x*334, y*354, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
 		if cursorPosition(x*323, y*396, x*173, y*35) then
 			drawBorde(x*323, y*396, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
 			drawBorde(x*323, y*396, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Veiculo ||", x*376, y*403, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Rocam", x*334, y*403, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
-		if cursorPosition(x*323, y*445, x*173, y*35) then
-			drawBorde(x*323, y*445, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
+		if cursorPosition(x*511, y*249, x*173, y*35) then
+			drawBorde(x*511, y*249, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
-			drawBorde(x*323, y*445, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
+			drawBorde(x*511, y*249, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Kit Armas |", x*370, y*452, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Helicoptero 1", x*520, y*256, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
-		if cursorPosition(x*323, y*494, x*173, y*35) then
-			drawBorde(x*323, y*494, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
+		if cursorPosition(x*511, y*298, x*173, y*35) then
+			drawBorde(x*511, y*298, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
-			drawBorde(x*323, y*494, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
+			drawBorde(x*511, y*298, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Kit Armas ||", x*370, y*501, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Helicoptero 2", x*520, y*305, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
-		if cursorPosition(x*323, y*543, x*173, y*35) then
-			drawBorde(x*323, y*543, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
+		if cursorPosition(x*820, y*249, x*173, y*35) then
+			drawBorde(x*820, y*249, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
 		else
-			drawBorde(x*323, y*543, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
+			drawBorde(x*820, y*249, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Kit Vida 50%", x*370, y*550, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Urus", x*830, y*256, x*173, y*35, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		if cursorPosition(x*820, y*298, x*173, y*35) then
+			drawBorde(x*820, y*298, x*173, y*35, tocolor(58,91,154,AlphaVip[1]))
+		else
+			drawBorde(x*820, y*298, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
+		end
+		dxDrawText("Z100", x*830, y*305, x*173, y*35, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+
 
 	end
 
@@ -90,8 +97,11 @@ function abaPrata()
 	dxDrawText("ID: "..ID, x*344, y*148, x*30, y*12, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[2], "left", "top")
 	dxDrawText("Apelido:\n "..Nick, x*344, y*161, x*30, y*12, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[2], "left", "top")
 	--dxDrawText("Cash: "..Cash, x*344, y*174, x*30, y*12, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[2], "left", "top")
+	dxDrawText("Desenvolvido por: ๖̶̶̶ζ͜͡Lima#0132 - Renan|B|EB", x*650, y*580, x*173, y*35, tocolor(99, 99, 99,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "center", "top")
+	dxDrawText("Veiculos Militares", x*465, y*225, x*173, y*35, tocolor(255, 255, 255,AlphaVip[1]), 1.00, fontsVip.robotoVip[4], "left", "top")
+		dxDrawText("Veiculos Civis", x*850, y*225, x*173, y*35, tocolor(255, 255, 255,AlphaVip[1]), 1.00, fontsVip.robotoVip[4], "left", "top")
 
-	dxDrawText("Armas", x*517, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
+	dxDrawText("Armas", x*517, y*154, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
 	dxDrawText("Veiculos", x*681, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
 	dxDrawText("Skins", x*839, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
 	dxDrawText("Outros", x*977, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")

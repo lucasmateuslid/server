@@ -2,7 +2,7 @@ function abaDiamante()
 	drawBorde(x*275, y*133, x*815, y*502, tocolor(11,11,11,AlphaVip[2]))
 	drawBorde(x*275, y*133, x*815, y*67, tocolor(21,21,21,AlphaVip[2]))
 
-	if localPlayer:getData("Vip_Diamante") ~= "Sim" then
+	if localPlayer:getData("Vip_Ouro") ~= "Sim" then
 		drawBorde(x*297, y*222, x*772, y*379, tocolor(21,21,21,AlphaVip[2]))
 		dxDrawText("Você não é Vip Diamante", x*565, y*370, x*62, y*28, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[4], "left", "top")
 	else

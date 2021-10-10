@@ -19,23 +19,9 @@ function setSelect(state)
 	Select = state
 end
 
-function criarPed()
-	local skin = getElementModel(localPlayer)
-	local x1, y1, z1 = getCameraMatrix()
-	ped = createPed(skin, x1, y1, z1)
-	pedSkin = exports['object_preview']:createObjectPreview(ped, 0, 0, 150, x*804, y*191, x*286, y*444, false, true, true)
-end
-
-function destroyPed()
-	exports['object_preview']:destroyObjectPreview(pedSkin)
-	if isElement(ped) then 
-		destroyElement(ped)
-	end
-	ped = false
-end
 
 bindKey(configC.binds.tecla, configC.binds.tipo, function()
-	if isEventHandlerAdded("onClientRender", root, vipMenu) 
+	if isEventHandlerAdded("onClientRender", root, vipMenu)
 		or isEventHandlerAdded("onClientRender", root, abaBronze)
 		or isEventHandlerAdded("onClientRender", root, abaPrata)
 		or isEventHandlerAdded("onClientRender", root, abaOuro)
@@ -43,13 +29,11 @@ bindKey(configC.binds.tecla, configC.binds.tipo, function()
 	then
 		removeEventHandler("onClientRender", root, vipMenu)
 		TickVip = getTickCount()
-		destroyPed()
 		Select = nil
 		showCursor(false)
 	elseif not isEventHandlerAdded("onClientRender", root, vipMenu) then
 		addEventHandler("onClientRender", root, vipMenu)
 		TickVip = getTickCount()
-		criarPed()
 		Select = nil
 		showCursor(true)
 		playSound("assets/sounds/open.ogg")
@@ -83,7 +67,6 @@ addEventHandler("onClientClick", root, function(b, s)
 				removeEventHandler("onClientRender", root, abaDiamante)
 				TickVip = getTickCount()
 				Select = "Bronze"
-				destroyPed()
 				playSound("assets/sounds/click.ogg")
 			elseif cursorPosition(x*630, y*148, x*127, y*38) then
 				addEventHandler("onClientRender", root, abaPrata)
@@ -93,7 +76,6 @@ addEventHandler("onClientClick", root, function(b, s)
 				removeEventHandler("onClientRender", root, abaDiamante)
 				TickVip = getTickCount()
 				Select = "Prata"
-				destroyPed()
 				playSound("assets/sounds/click.ogg")
 			elseif cursorPosition(x*786, y*148, x*127, y*38) then
 				addEventHandler("onClientRender", root, abaOuro)
@@ -103,7 +85,6 @@ addEventHandler("onClientClick", root, function(b, s)
 				removeEventHandler("onClientRender", root, abaDiamante)
 				TickVip = getTickCount()
 				Select = "Ouro"
-				destroyPed()
 				playSound("assets/sounds/click.ogg")
 			elseif cursorPosition(x*942, y*148, x*127, y*38) then
 				addEventHandler("onClientRender", root, abaDiamante)
@@ -113,7 +94,6 @@ addEventHandler("onClientClick", root, function(b, s)
 				removeEventHandler("onClientRender", root, abaOuro)
 				TickVip = getTickCount()
 				Select = "Diamante"
-				destroyPed()
 				playSound("assets/sounds/click.ogg")
 			end
 		end
@@ -125,13 +105,44 @@ addEventHandler("onClientClick", root, function(b, s)
 		if b == "left" and s == "down" then
 			if localPlayer:getData("Vip_Bronze") == "Sim" then
 				if cursorPosition(x*323, y*249, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Bronze", 1)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 1) -- Kit Patrulha
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*323, y*298, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 1)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 2) -- Kit Apaisana
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*323, y*347, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 1)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 3) -- Kit Bandido
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*620, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 4) -- ParaFAl
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*620, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 5) -- Ak-47
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*620, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 6) -- Deagle
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*620, y*396, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 7) -- Taser
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*620, y*445, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 8) -- Glock
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*818, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 9) -- Shotgun
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*818, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 10) -- Combat Shotgun
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*818, y*396, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 12) -- Glock
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*818, y*445, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 13) -- UZI
 					playSound("assets/sounds/click.ogg")
 				end
 			end

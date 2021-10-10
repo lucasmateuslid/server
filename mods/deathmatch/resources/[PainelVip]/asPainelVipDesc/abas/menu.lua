@@ -37,6 +37,7 @@ function vipMenu()
 	end
 
 	dxDrawImage(x*482, y*154, x*487, y*25, "assets/icons/bg.png", 0, 0, 0, tocolor(255,255,255,AlphaVip[1]))
+	
 
 	dxDrawImage(x*292, y*143, x*48, y*48, "assets/avatars/"..Avatar..".png", 0, 0, 0, tocolor(255,255,255,AlphaVip[1]))
 
@@ -49,5 +50,8 @@ function vipMenu()
 	dxDrawText("Skins", x*839, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
 	dxDrawText("Outros", x*977, y*156, x*62, y*23, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "left", "top")
 
-	dxDrawText("Seja muito bem vindo! \nEsse é o novo sistema de Painel VIP\ndo Servidor\n\nSeja VIP!!\n\n Bronze: R$:"..configC.precosV.preco_1.." \n Prata: R$:"..configC.precosV.preco_2.." \n Ouro: R$:"..configC.precosV.preco_3.." \n Diamante: R$:"..configC.precosV.preco_4.." \n\nNosso discord para entra em contato\n"..configC.links.discord.."", x*316, y*286, x*346, y*252, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[3], "left", "top")
+	dxDrawText("Seja muito bem vindo! \nEsse é o novo sistema de Painel de Itens\ndo Servidor de Treino\n\nSe Comporte!!\n\n ", x*316, y*286, x*346, y*252, tocolor(255,255,255,AlphaVip[5]), 1.00, fontsVip.robotoVip[3], "left", "top")
+	dxDrawText("Desenvolvido por: ๖̶̶̶ζ͜͡Lima#0132 - Renan|B|EB", x*650, y*580, x*173, y*35, tocolor(99, 99, 99,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "center", "top")
+
+
 end

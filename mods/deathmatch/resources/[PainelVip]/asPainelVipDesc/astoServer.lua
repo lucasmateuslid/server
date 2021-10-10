@@ -155,79 +155,163 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 		elseif Tipo == "Armas" then
 
 			if isTimer(TimerWeapon) then
-				outputChatBox("ERRO > #ff0000(Espere 6m para voce pegar o kit armas novamente)", source, 255, 255, 255, true)
+				outputChatBox("ERRO > #ff0000(Você não tem Autorização para pegar as Armas)", source, 255, 255, 255, true)
 				return
 			end
 
 			if Vip == "Bronze" and ID == 1 then
 				for _, gun in ipairs(configS.bronze.kitArmasB_1) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma Apaisana)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 2 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_2) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma Patrulha)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 3 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_3) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma Bandido)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 4 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_4) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma ParaFAl)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 5 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_5) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma AK-47)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 6 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_6) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Deagle)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 7 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_7) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Taser)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 8 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_8) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Glock)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 9 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_9) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Shotgun)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 10 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_10) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Combat-Shotgun)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 11 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_11) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma Sawed-OFF)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 12 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_12) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma MP5)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 13 then
+				for _, gun in ipairs(configS.bronze.kitArmasB_13) do
+					giveWeapon(source, gun, 900)
+				end
+				outputChatBox("INFO > (Você Acabou de Pegar uma UZI)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Prata" and ID == 1 then
 				for _, gun in ipairs(configS.prata.kitArmasP_1) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Prata" and ID == 2 then
 				for _, gun in ipairs(configS.prata.kitArmasP_2) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 1 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_1) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 2 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_2) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 3 then
 				for _, gun in ipairs(configS.ouro.kitArmasO_3) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_1) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
-				outputChatBox("INFO > (Você acaba de pegar um kit de armas, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				outputChatBox("INFO > (Você Acabou de Pegar um Kit de Arma)", source, 255, 255, 255, true)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 2 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_2) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 2, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 3 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_3) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 3, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 4 then
 				for _, gun in ipairs(configS.diamante.kitArmasD_4) do
-					giveWeapon(source, gun, 200)
+					giveWeapon(source, gun, 900)
 				end
 				outputChatBox("INFO > (Você acaba de pegar um kit de armas 4, Espere 6m para pegar novamente)", source, 255, 255, 255, true)
-				TimerWeapon = setTimer(function() end, 400000, 1)
+				TimerWeapon = setTimer(function() end, 1, 1)
 			end
 
 		elseif Tipo == "Vidas" then
@@ -291,17 +375,17 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			elseif Vip == "Diamante" and ID == 1 then
 				setPedWalkingStyle(source, configS.diamante.estiloD_1)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de anda)", source, 255, 255, 255, true)
-				TimerSyle = setTimer(function() end, 20000, 1)
+				TimerSyle = setTimer(function() end, 90000, 1)
 
 			elseif Vip == "Diamante" and ID == 2 then
 				setPedWalkingStyle(source, configS.diamante.estiloD_2)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de anda 2)", source, 255, 255, 255, true)
-				TimerSyle = setTimer(function() end, 20000, 1)
+				TimerSyle = setTimer(function() end, 90000, 1)
 
 			elseif Vip == "Diamante" and ID == 3 then
 				setPedWalkingStyle(source, configS.diamante.estiloD_3)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de anda 3)", source, 255, 255, 255, true)
-				TimerSyle = setTimer(function() end, 20000, 1)
+				TimerSyle = setTimer(function() end, 90000, 1)
 			end
 
 		elseif Tipo == "Estilo Luta" then
@@ -314,17 +398,17 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			if Vip == "Diamante" and ID == 1 then
 				setPedFightingStyle(source, configS.diamante.estilolutaD_1)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de luta)", source, 255, 255, 255, true)
-				TimerFighting = setTimer(function() end, 200000, 1)
+				TimerFighting = setTimer(function() end, 900000, 1)
 
 			elseif Vip == "Diamante" and ID == 2 then
 				setPedFightingStyle(source, configS.diamante.estilolutaD_2)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de luta 2)", source, 255, 255, 255, true)
-				TimerFighting = setTimer(function() end, 200000, 1)
+				TimerFighting = setTimer(function() end, 900000, 1)
 
 			elseif Vip == "Diamante" and ID == 3 then
 				setPedFightingStyle(source, configS.diamante.estilolutaD_3)
 				outputChatBox("INFO > #00ff00(Você acaba de mudar o seu estilo de luta 3)", source, 255, 255, 255, true)
-				TimerFighting = setTimer(function() end, 200000, 1)
+				TimerFighting = setTimer(function() end, 900000, 1)
 			end
 		end
 	end
@@ -358,4 +442,4 @@ function loadVips()
 		end
 	end
 end
-setTimer(loadVips, 1500, 0)
+setTimer(loadVips, 1, 0)

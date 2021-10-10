@@ -1892,3 +1892,880 @@
 [2021-10-09 02:07:32] Server stopped!
 [2021-10-09 02:07:32] Stopping resources........................
 [2021-10-09 02:07:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 02:07:40] Resources: 198 loaded, 0 failed
+[2021-10-09 02:07:40] Starting resources...
+[2021-10-09 02:07:40] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 02:07:41] Gamemode 'play' started.
+[2021-10-09 02:07:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 02:07:41] WARNING: <owner_email_address> not set
+[2021-10-09 02:07:41] Server started and is ready to accept connections!
+[2021-10-09 02:07:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 02:07:41] Type 'help' for a list of commands.
+[2021-10-09 02:07:41] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 02:07:49] start: Requested by Console
+[2021-10-09 02:07:49] Starting [CARE]CAR3
+[2021-10-09 02:07:49] start: Resource '[CARE]CAR3' started
+[2021-10-09 02:07:56] start: Requested by Console
+[2021-10-09 02:07:56] Starting [BGR]Armas
+[2021-10-09 02:07:56] start: Resource '[BGR]Armas' started
+[2021-10-09 02:08:00] start: Requested by Console
+[2021-10-09 02:08:00] Starting F10
+[2021-10-09 02:08:00] start: Resource 'f10' started
+[2021-10-09 02:08:08] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 02:08:09] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 02:09:04] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 02:09:21] ADMIN: EB|09-B|3SGT.Renan has changed time to 0:00
+[2021-10-09 02:11:56] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:13:49] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:41] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:42] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:42] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:42] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:42] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:15:42] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:16:46] ADMIN: EB|09-B|3SGT.Renan has fixed vehicle of EB|09-B|3SGT.Renan
+[2021-10-09 02:16:55] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:16:55] Starting editor
+[2021-10-09 02:16:55] Starting edf
+[2021-10-09 02:16:55] Starting editor_main
+[2021-10-09 02:16:55] Starting freecam
+[2021-10-09 02:16:55] Starting move_freecam
+[2021-10-09 02:16:55] Starting move_cursor
+[2021-10-09 02:16:55] Starting move_keyboard
+[2021-10-09 02:16:55] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-09 02:16:56] Starting editor_gui
+[2021-10-09 02:16:56] Starting msgbox
+[2021-10-09 02:16:56] Starting tooltip
+[2021-10-09 02:16:56] Stopping play
+[2021-10-09 02:16:56] Stopping freeroam
+[2021-10-09 02:20:04] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:20:09] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:20:09] Stopping [BGR]Armas
+[2021-10-09 02:20:09] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:20:09] Starting [BGR]Armas
+[2021-10-09 02:20:09] [BGR]Armas restarted successfully
+[2021-10-09 02:21:24] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:21:24] Stopping [BGR]Armas
+[2021-10-09 02:21:25] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:21:25] Starting [BGR]Armas
+[2021-10-09 02:21:25] [BGR]Armas restarted successfully
+[2021-10-09 02:23:58] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:23:58] Stopping [BGR]Armas
+[2021-10-09 02:23:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:23:59] Starting [BGR]Armas
+[2021-10-09 02:23:59] [BGR]Armas restarted successfully
+[2021-10-09 02:24:44] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:24:44] Stopping [BGR]Armas
+[2021-10-09 02:24:45] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:24:45] Starting [BGR]Armas
+[2021-10-09 02:24:45] [BGR]Armas restarted successfully
+[2021-10-09 02:25:13] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:25:13] Stopping [BGR]Armas
+[2021-10-09 02:25:13] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:25:14] Starting [BGR]Armas
+[2021-10-09 02:25:14] [BGR]Armas restarted successfully
+[2021-10-09 02:28:03] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:28:03] Stopping [BGR]Armas
+[2021-10-09 02:28:03] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:28:04] Starting [BGR]Armas
+[2021-10-09 02:28:04] [BGR]Armas restarted successfully
+[2021-10-09 02:30:42] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:30:42] Stopping [BGR]Armas
+[2021-10-09 02:30:42] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:30:43] Starting [BGR]Armas
+[2021-10-09 02:30:43] [BGR]Armas restarted successfully
+[2021-10-09 02:33:32] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:33:32] Stopping [BGR]Armas
+[2021-10-09 02:33:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:33:33] Starting [BGR]Armas
+[2021-10-09 02:33:33] [BGR]Armas restarted successfully
+[2021-10-09 02:44:58] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 02:44:58] Stopping [BGR]Armas
+[2021-10-09 02:44:59] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 02:44:59] Starting [BGR]Armas
+[2021-10-09 02:44:59] [BGR]Armas restarted successfully
+[2021-10-09 03:03:03] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:03:03] Stopping [BGR]Armas
+[2021-10-09 03:03:03] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:03:03] Starting [BGR]Armas
+[2021-10-09 03:03:04] [BGR]Armas restarted successfully
+[2021-10-09 03:04:24] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:04:24] Stopping [BGR]Armas
+[2021-10-09 03:04:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:04:24] Starting [BGR]Armas
+[2021-10-09 03:04:24] [BGR]Armas restarted successfully
+[2021-10-09 03:08:51] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:08:51] Stopping [BGR]Armas
+[2021-10-09 03:08:52] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:08:52] Starting [BGR]Armas
+[2021-10-09 03:08:52] [BGR]Armas restarted successfully
+[2021-10-09 03:11:04] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:11:04] Stopping [BGR]Armas
+[2021-10-09 03:11:05] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:11:05] Starting [BGR]Armas
+[2021-10-09 03:11:05] [BGR]Armas restarted successfully
+[2021-10-09 03:12:27] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:12:27] Stopping [BGR]Armas
+[2021-10-09 03:12:28] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:12:28] Starting [BGR]Armas
+[2021-10-09 03:12:28] [BGR]Armas restarted successfully
+[2021-10-09 03:14:36] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:14:36] Stopping [BGR]Armas
+[2021-10-09 03:14:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:14:36] Starting [BGR]Armas
+[2021-10-09 03:14:36] [BGR]Armas restarted successfully
+[2021-10-09 03:16:55] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:16:55] Stopping [BGR]Armas
+[2021-10-09 03:16:55] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:16:55] Starting [BGR]Armas
+[2021-10-09 03:16:56] [BGR]Armas restarted successfully
+[2021-10-09 03:22:25] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:22:25] Stopping [BGR]Armas
+[2021-10-09 03:22:26] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:22:26] Starting [BGR]Armas
+[2021-10-09 03:22:27] [BGR]Armas restarted successfully
+[2021-10-09 03:24:04] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:24:04] Stopping [BGR]Armas
+[2021-10-09 03:24:05] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:24:05] Starting [BGR]Armas
+[2021-10-09 03:24:05] [BGR]Armas restarted successfully
+[2021-10-09 03:26:47] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:26:47] Stopping [BGR]Armas
+[2021-10-09 03:26:48] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:26:48] Starting [BGR]Armas
+[2021-10-09 03:26:48] [BGR]Armas restarted successfully
+[2021-10-09 03:28:33] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:28:33] Stopping [BGR]Armas
+[2021-10-09 03:28:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:28:34] Starting [BGR]Armas
+[2021-10-09 03:28:34] [BGR]Armas restarted successfully
+[2021-10-09 03:29:53] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:29:53] Stopping [BGR]Armas
+[2021-10-09 03:29:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:29:54] Starting [BGR]Armas
+[2021-10-09 03:29:55] [BGR]Armas restarted successfully
+[2021-10-09 03:30:24] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:30:24] Stopping [BGR]Armas
+[2021-10-09 03:30:25] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:30:25] Starting [BGR]Armas
+[2021-10-09 03:30:25] [BGR]Armas restarted successfully
+[2021-10-09 03:31:33] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:31:33] Stopping [BGR]Armas
+[2021-10-09 03:31:34] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:31:34] Starting [BGR]Armas
+[2021-10-09 03:31:34] [BGR]Armas restarted successfully
+[2021-10-09 03:32:08] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:32:08] Stopping [BGR]Armas
+[2021-10-09 03:32:08] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:32:08] Starting [BGR]Armas
+[2021-10-09 03:32:08] [BGR]Armas restarted successfully
+[2021-10-09 03:33:16] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:33:16] Stopping [BGR]Armas
+[2021-10-09 03:33:16] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:33:16] Starting [BGR]Armas
+[2021-10-09 03:33:16] [BGR]Armas restarted successfully
+[2021-10-09 03:34:17] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:34:17] Stopping [BGR]Armas
+[2021-10-09 03:34:17] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:34:17] Starting [BGR]Armas
+[2021-10-09 03:34:18] [BGR]Armas restarted successfully
+[2021-10-09 03:35:04] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:35:04] Stopping [BGR]Armas
+[2021-10-09 03:35:04] Starting [BGR]Armas
+[2021-10-09 03:35:04] [BGR]Armas restarted successfully
+[2021-10-09 03:35:13] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:35:13] Stopping [BGR]Armas
+[2021-10-09 03:35:15] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:35:15] Starting [BGR]Armas
+[2021-10-09 03:35:15] [BGR]Armas restarted successfully
+[2021-10-09 03:35:48] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:35:48] Stopping [BGR]Armas
+[2021-10-09 03:35:49] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:35:49] Starting [BGR]Armas
+[2021-10-09 03:35:49] [BGR]Armas restarted successfully
+[2021-10-09 03:36:35] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:36:35] Stopping [BGR]Armas
+[2021-10-09 03:36:35] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:36:36] Starting [BGR]Armas
+[2021-10-09 03:36:36] [BGR]Armas restarted successfully
+[2021-10-09 03:37:50] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:37:50] Stopping [BGR]Armas
+[2021-10-09 03:37:50] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:37:51] Starting [BGR]Armas
+[2021-10-09 03:37:51] [BGR]Armas restarted successfully
+[2021-10-09 03:38:34] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:38:34] Stopping [BGR]Armas
+[2021-10-09 03:38:34] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:38:34] Starting [BGR]Armas
+[2021-10-09 03:38:34] [BGR]Armas restarted successfully
+[2021-10-09 03:39:14] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:39:14] Stopping [BGR]Armas
+[2021-10-09 03:39:14] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:39:15] Starting [BGR]Armas
+[2021-10-09 03:39:15] [BGR]Armas restarted successfully
+[2021-10-09 03:40:53] stop: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:40:53] Stopping [BGR]Armas
+[2021-10-09 03:41:23] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:41:23] Starting [BGR]Armas
+[2021-10-09 03:41:25] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:41:25] Stopping [BGR]Armas
+[2021-10-09 03:41:25] Starting [BGR]Armas
+[2021-10-09 03:41:25] [BGR]Armas restarted successfully
+[2021-10-09 03:43:02] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:43:02] Stopping [BGR]Armas
+[2021-10-09 03:43:03] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:43:03] Starting [BGR]Armas
+[2021-10-09 03:43:03] [BGR]Armas restarted successfully
+[2021-10-09 03:45:03] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:45:03] Stopping [BGR]Armas
+[2021-10-09 03:45:04] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:45:04] Starting [BGR]Armas
+[2021-10-09 03:45:04] [BGR]Armas restarted successfully
+[2021-10-09 03:45:38] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 03:45:38] Stopping [BGR]Armas
+[2021-10-09 03:45:39] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 03:45:39] Starting [BGR]Armas
+[2021-10-09 03:45:39] [BGR]Armas restarted successfully
+[2021-10-09 03:49:05] Server stopped!
+[2021-10-09 03:49:05] Stopping resources..........................
+[2021-10-09 03:49:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 18:45:50] Resources: 198 loaded, 0 failed
+[2021-10-09 18:45:51] Starting resources...
+[2021-10-09 18:45:51] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 18:45:51] Gamemode 'play' started.
+[2021-10-09 18:45:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 18:45:51] WARNING: <owner_email_address> not set
+[2021-10-09 18:45:51] Server started and is ready to accept connections!
+[2021-10-09 18:45:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 18:45:51] Type 'help' for a list of commands.
+[2021-10-09 18:45:53] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 18:46:41] start: Requested by Console
+[2021-10-09 18:46:41] Starting [BGR]Armas
+[2021-10-09 18:46:42] start: Resource '[BGR]Armas' started
+[2021-10-09 18:47:46] start: Requested by Console
+[2021-10-09 18:47:46] Starting F10
+[2021-10-09 18:47:46] start: Resource 'f10' started
+[2021-10-09 18:47:58] start: Requested by Console
+[2021-10-09 18:47:58] Starting editor
+[2021-10-09 18:47:58] Starting edf
+[2021-10-09 18:47:58] Starting editor_main
+[2021-10-09 18:47:58] Starting freecam
+[2021-10-09 18:47:58] Starting move_freecam
+[2021-10-09 18:47:58] Starting move_cursor
+[2021-10-09 18:47:58] Starting move_keyboard
+[2021-10-09 18:47:58] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-09 18:47:59] Starting editor_gui
+[2021-10-09 18:47:59] Starting msgbox
+[2021-10-09 18:47:59] Starting tooltip
+[2021-10-09 18:47:59] start: Resource 'editor' started
+[2021-10-09 18:47:59] Stopping play
+[2021-10-09 18:47:59] Stopping freeroam
+[2021-10-09 18:50:44] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 18:50:45] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-09 18:58:49] Server stopped!
+[2021-10-09 18:58:50] Stopping resources.........................
+[2021-10-09 18:58:50] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 19:55:45] Resources: 198 loaded, 0 failed
+[2021-10-09 19:55:45] Starting resources...
+[2021-10-09 19:55:45] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 19:55:45] Gamemode 'play' started.
+[2021-10-09 19:55:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 19:55:45] WARNING: <owner_email_address> not set
+[2021-10-09 19:55:45] Server started and is ready to accept connections!
+[2021-10-09 19:55:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 19:55:45] Type 'help' for a list of commands.
+[2021-10-09 19:55:46] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 19:58:44] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 19:58:46] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-09 19:59:12] LOGIN: Renan|B|EB tried to log in as 'lucas' (Unknown account) (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 19:59:18] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 19:59:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 19:59:24] Starting [BGR]Armas
+[2021-10-09 19:59:24] startResource: Resource '[BGR]Armas' started
+[2021-10-09 19:59:24] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-09 20:00:04] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:00:04] Stopping [BGR]Armas
+[2021-10-09 20:00:04] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:00:05] Starting [BGR]Armas
+[2021-10-09 20:00:05] [BGR]Armas restarted successfully
+[2021-10-09 20:00:44] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:00:44] Stopping [BGR]Armas
+[2021-10-09 20:00:44] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:00:44] Starting [BGR]Armas
+[2021-10-09 20:00:44] [BGR]Armas restarted successfully
+[2021-10-09 20:02:18] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:02:18] Stopping [BGR]Armas
+[2021-10-09 20:02:18] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:02:19] Starting [BGR]Armas
+[2021-10-09 20:02:19] [BGR]Armas restarted successfully
+[2021-10-09 20:04:15] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:04:15] Stopping [BGR]Armas
+[2021-10-09 20:04:16] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:04:16] Starting [BGR]Armas
+[2021-10-09 20:04:16] [BGR]Armas restarted successfully
+[2021-10-09 20:05:55] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-09 20:06:15] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:06:15] Stopping [BGR]Armas
+[2021-10-09 20:06:16] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:06:16] Starting [BGR]Armas
+[2021-10-09 20:06:16] [BGR]Armas restarted successfully
+[2021-10-09 20:06:22] start: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:06:22] Starting editor
+[2021-10-09 20:06:22] Starting edf
+[2021-10-09 20:06:22] Starting editor_main
+[2021-10-09 20:06:22] Starting freecam
+[2021-10-09 20:06:22] Starting move_freecam
+[2021-10-09 20:06:22] Starting move_cursor
+[2021-10-09 20:06:23] Starting move_keyboard
+[2021-10-09 20:06:23] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-09 20:06:23] Starting editor_gui
+[2021-10-09 20:06:23] Starting msgbox
+[2021-10-09 20:06:23] Starting tooltip
+[2021-10-09 20:06:23] Stopping play
+[2021-10-09 20:06:23] Stopping freeroam
+[2021-10-09 20:09:58] start: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:10:00] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:10:00] Stopping [BGR]Armas
+[2021-10-09 20:10:01] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:10:01] Starting [BGR]Armas
+[2021-10-09 20:10:01] [BGR]Armas restarted successfully
+[2021-10-09 20:11:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:11:05] Stopping [BGR]Armas
+[2021-10-09 20:11:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:11:06] Starting [BGR]Armas
+[2021-10-09 20:11:06] [BGR]Armas restarted successfully
+[2021-10-09 20:14:35] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:14:35] Stopping [BGR]Armas
+[2021-10-09 20:14:35] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:14:35] Starting [BGR]Armas
+[2021-10-09 20:14:35] [BGR]Armas restarted successfully
+[2021-10-09 20:15:00] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:15:00] Stopping [BGR]Armas
+[2021-10-09 20:15:00] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:15:01] Starting [BGR]Armas
+[2021-10-09 20:15:01] [BGR]Armas restarted successfully
+[2021-10-09 20:16:14] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-09 20:16:14] Stopping [BGR]Armas
+[2021-10-09 20:16:14] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 20:16:14] Starting [BGR]Armas
+[2021-10-09 20:16:15] [BGR]Armas restarted successfully
+[2021-10-09 20:17:30] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-09 20:17:39] Starting F10
+[2021-10-09 20:17:39] startResource: Resource 'F10' started
+[2021-10-09 20:17:39] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-09 20:19:06] Server stopped!
+[2021-10-09 20:19:06] Stopping resources.........................
+[2021-10-09 20:19:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 21:19:39] Resources: 198 loaded, 0 failed
+[2021-10-09 21:19:39] Starting resources...
+[2021-10-09 21:19:39] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 21:19:40] Gamemode 'play' started.
+[2021-10-09 21:19:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 21:19:40] WARNING: <owner_email_address> not set
+[2021-10-09 21:19:40] Server started and is ready to accept connections!
+[2021-10-09 21:19:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 21:19:40] Type 'help' for a list of commands.
+[2021-10-09 21:19:40] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 21:19:54] start: Resource could not be found
+[2021-10-09 21:19:56] start: Requested by Console
+[2021-10-09 21:19:56] Starting asPainelVipDesc
+[2021-10-09 21:19:56] INFO: resource foi iniciado com sucesso
+[2021-10-09 21:19:56] INFO: Criação database sucess
+[2021-10-09 21:19:56] Criação database sucess
+[2021-10-09 21:19:56] start: Resource 'asPainelVipDesc' started
+[2021-10-09 21:20:03] start: Requested by Console
+[2021-10-09 21:20:03] Starting object_preview
+[2021-10-09 21:20:03] start: Resource 'object_preview' started
+[2021-10-09 21:20:10] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 21:20:10] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 21:20:31] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 21:26:55] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 21:36:51] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 21:36:53] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 21:37:16] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 21:37:23] Starting editor
+[2021-10-09 21:37:23] Starting edf
+[2021-10-09 21:37:24] Starting editor_main
+[2021-10-09 21:37:24] Starting freecam
+[2021-10-09 21:37:24] Starting move_freecam
+[2021-10-09 21:37:24] Starting move_cursor
+[2021-10-09 21:37:24] Starting move_keyboard
+[2021-10-09 21:37:24] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-09 21:37:25] Starting editor_gui
+[2021-10-09 21:37:25] Starting msgbox
+[2021-10-09 21:37:25] Starting tooltip
+[2021-10-09 21:37:25] startResource: Resource 'editor' started
+[2021-10-09 21:37:25] ADMIN: Resource 'editor' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:37:25] Stopping play
+[2021-10-09 21:37:25] Stopping freeroam
+[2021-10-09 21:37:41] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 21:37:41] Starting [BGR]Armas
+[2021-10-09 21:37:41] startResource: Resource '[BGR]Armas' started
+[2021-10-09 21:37:41] ADMIN: Resource '[BGR]Armas' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:42:27] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:42:27] Stopping [BGR]Armas
+[2021-10-09 21:42:27] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 21:42:27] Starting [BGR]Armas
+[2021-10-09 21:42:27] [BGR]Armas restarted successfully
+[2021-10-09 21:43:12] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:43:12] Stopping [BGR]Armas
+[2021-10-09 21:43:13] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 21:43:13] Starting [BGR]Armas
+[2021-10-09 21:43:13] [BGR]Armas restarted successfully
+[2021-10-09 21:44:07] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:44:07] Stopping [BGR]Armas
+[2021-10-09 21:44:07] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-09 21:44:07] Starting [BGR]Armas
+[2021-10-09 21:44:07] [BGR]Armas restarted successfully
+[2021-10-09 21:44:57] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 21:54:51] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 21:54:51] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 21:57:09] ACL: Denied 'EB|09-B|3SGT.Renan' access to command 'stop'
+[2021-10-09 21:57:14] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 21:57:15] stop: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:57:15] Stopping editor
+[2021-10-09 21:57:15] Stopping edf
+[2021-10-09 21:57:15] Stopping editor_main
+[2021-10-09 21:57:15] Stopping freecam
+[2021-10-09 21:57:15] Stopping move_freecam
+[2021-10-09 21:57:15] Stopping move_cursor
+[2021-10-09 21:57:15] Stopping move_keyboard
+[2021-10-09 21:57:15] Stopping editor_gui
+[2021-10-09 21:57:15] Stopping msgbox
+[2021-10-09 21:57:15] Stopping tooltip
+[2021-10-09 21:57:15] ERROR: Client (EB|09-B|3SGT.Renan) triggered serverside event doSaveMapSettings, but event is not added serverside
+[2021-10-09 21:57:17] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 21:57:18] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 21:57:18] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 21:58:11] Server stopped!
+[2021-10-09 21:58:11] Stopping resources........................
+[2021-10-09 21:58:12] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 21:58:19] Resources: 198 loaded, 0 failed
+[2021-10-09 21:58:20] Starting resources...
+[2021-10-09 21:58:20] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 21:58:20] Gamemode 'play' started.
+[2021-10-09 21:58:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 21:58:20] WARNING: <owner_email_address> not set
+[2021-10-09 21:58:20] Server started and is ready to accept connections!
+[2021-10-09 21:58:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 21:58:20] Type 'help' for a list of commands.
+[2021-10-09 21:58:20] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 21:59:05] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 21:59:05] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-09 21:59:12] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-09 21:59:19] Starting asPainelVipDesc
+[2021-10-09 21:59:19] INFO: resource foi iniciado com sucesso
+[2021-10-09 21:59:19] INFO: Criação database sucess
+[2021-10-09 21:59:19] Criação database sucess
+[2021-10-09 21:59:19] startResource: Resource 'asPainelVipDesc' started
+[2021-10-09 21:59:19] ADMIN: Resource 'asPainelVipDesc' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 21:59:28] Starting object_preview
+[2021-10-09 21:59:28] startResource: Resource 'object_preview' started
+[2021-10-09 21:59:28] ADMIN: Resource 'object_preview' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:00:02] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:00:02] Stopping asPainelVipDesc
+[2021-10-09 22:00:02] Starting asPainelVipDesc
+[2021-10-09 22:00:02] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:00:02] INFO: Criação database sucess
+[2021-10-09 22:00:02] Criação database sucess
+[2021-10-09 22:00:03] asPainelVipDesc restarted successfully
+[2021-10-09 22:01:00] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:01:00] Stopping asPainelVipDesc
+[2021-10-09 22:01:00] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:01:00] Starting asPainelVipDesc
+[2021-10-09 22:01:00] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:01:00] Criação database sucess
+[2021-10-09 22:01:00] asPainelVipDesc restarted successfully
+[2021-10-09 22:01:06] INFO: Criação database sucess
+[2021-10-09 22:01:42] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:01:42] Stopping asPainelVipDesc
+[2021-10-09 22:01:42] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:01:42] Starting asPainelVipDesc
+[2021-10-09 22:01:42] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:01:42] INFO: Criação database sucess
+[2021-10-09 22:01:42] Criação database sucess
+[2021-10-09 22:01:42] asPainelVipDesc restarted successfully
+[2021-10-09 22:02:17] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:02:17] Stopping asPainelVipDesc
+[2021-10-09 22:02:17] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:02:17] Starting asPainelVipDesc
+[2021-10-09 22:02:17] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:02:17] INFO: Criação database sucess
+[2021-10-09 22:02:17] Criação database sucess
+[2021-10-09 22:02:17] asPainelVipDesc restarted successfully
+[2021-10-09 22:03:36] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:03:36] Stopping asPainelVipDesc
+[2021-10-09 22:03:36] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:03:36] Starting asPainelVipDesc
+[2021-10-09 22:03:36] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:03:36] Criação database sucess
+[2021-10-09 22:03:36] asPainelVipDesc restarted successfully
+[2021-10-09 22:03:42] INFO: Criação database sucess
+[2021-10-09 22:07:09] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:07:09] Stopping asPainelVipDesc
+[2021-10-09 22:07:09] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:07:09] Starting asPainelVipDesc
+[2021-10-09 22:07:09] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:07:09] INFO: Criação database sucess
+[2021-10-09 22:07:09] Criação database sucess
+[2021-10-09 22:07:09] asPainelVipDesc restarted successfully
+[2021-10-09 22:07:43] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:07:43] Stopping asPainelVipDesc
+[2021-10-09 22:07:43] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:07:43] Starting asPainelVipDesc
+[2021-10-09 22:07:43] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:07:43] INFO: Criação database sucess
+[2021-10-09 22:07:43] Criação database sucess
+[2021-10-09 22:07:43] asPainelVipDesc restarted successfully
+[2021-10-09 22:08:16] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:08:16] Stopping asPainelVipDesc
+[2021-10-09 22:08:16] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:08:16] Starting asPainelVipDesc
+[2021-10-09 22:08:16] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:08:16] Criação database sucess
+[2021-10-09 22:08:16] asPainelVipDesc restarted successfully
+[2021-10-09 22:08:22] INFO: Criação database sucess
+[2021-10-09 22:11:23] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:11:24] Starting [BGR]Armas
+[2021-10-09 22:11:36] ADMIN: EB|09-B|3SGT.Renan has changed time to 12:00
+[2021-10-09 22:14:29] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:14:31] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:14:31] Stopping asPainelVipDesc
+[2021-10-09 22:14:31] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:14:31] Starting asPainelVipDesc
+[2021-10-09 22:14:31] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:14:31] INFO: Criação database sucess
+[2021-10-09 22:14:31] Criação database sucess
+[2021-10-09 22:14:31] asPainelVipDesc restarted successfully
+[2021-10-09 22:14:55] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:14:55] Stopping asPainelVipDesc
+[2021-10-09 22:14:55] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:14:55] Starting asPainelVipDesc
+[2021-10-09 22:14:55] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:14:55] INFO: Criação database sucess
+[2021-10-09 22:14:55] Criação database sucess
+[2021-10-09 22:14:55] asPainelVipDesc restarted successfully
+[2021-10-09 22:16:08] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:16:08] Stopping asPainelVipDesc
+[2021-10-09 22:16:08] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:16:08] Starting asPainelVipDesc
+[2021-10-09 22:16:08] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:16:08] Criação database sucess
+[2021-10-09 22:16:08] asPainelVipDesc restarted successfully
+[2021-10-09 22:16:14] INFO: Criação database sucess
+[2021-10-09 22:17:40] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:17:40] Stopping asPainelVipDesc
+[2021-10-09 22:17:40] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:17:41] Starting asPainelVipDesc
+[2021-10-09 22:17:41] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:17:41] INFO: Criação database sucess
+[2021-10-09 22:17:41] Criação database sucess
+[2021-10-09 22:17:41] asPainelVipDesc restarted successfully
+[2021-10-09 22:20:01] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:20:01] Stopping asPainelVipDesc
+[2021-10-09 22:20:01] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:20:01] Starting asPainelVipDesc
+[2021-10-09 22:20:01] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:20:01] INFO: Criação database sucess
+[2021-10-09 22:20:01] Criação database sucess
+[2021-10-09 22:20:01] asPainelVipDesc restarted successfully
+[2021-10-09 22:20:23] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:20:23] Stopping asPainelVipDesc
+[2021-10-09 22:20:24] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:20:24] Starting asPainelVipDesc
+[2021-10-09 22:20:24] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:20:24] Criação database sucess
+[2021-10-09 22:20:24] asPainelVipDesc restarted successfully
+[2021-10-09 22:20:30] INFO: Criação database sucess
+[2021-10-09 22:20:48] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:20:48] Stopping asPainelVipDesc
+[2021-10-09 22:20:49] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:20:49] Starting asPainelVipDesc
+[2021-10-09 22:20:49] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:20:49] INFO: Criação database sucess
+[2021-10-09 22:20:49] Criação database sucess
+[2021-10-09 22:20:49] asPainelVipDesc restarted successfully
+[2021-10-09 22:21:27] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:21:27] Stopping asPainelVipDesc
+[2021-10-09 22:21:27] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:21:27] Starting asPainelVipDesc
+[2021-10-09 22:21:27] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:21:27] INFO: Criação database sucess
+[2021-10-09 22:21:27] Criação database sucess
+[2021-10-09 22:21:27] asPainelVipDesc restarted successfully
+[2021-10-09 22:22:02] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:22:02] Stopping asPainelVipDesc
+[2021-10-09 22:22:02] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:22:03] Starting asPainelVipDesc
+[2021-10-09 22:22:03] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:22:03] Criação database sucess
+[2021-10-09 22:22:03] asPainelVipDesc restarted successfully
+[2021-10-09 22:22:09] INFO: Criação database sucess
+[2021-10-09 22:22:17] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:22:17] Stopping asPainelVipDesc
+[2021-10-09 22:22:17] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:22:17] Starting asPainelVipDesc
+[2021-10-09 22:22:17] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:22:17] INFO: Criação database sucess
+[2021-10-09 22:22:17] Criação database sucess
+[2021-10-09 22:22:17] asPainelVipDesc restarted successfully
+[2021-10-09 22:22:52] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:22:52] Stopping asPainelVipDesc
+[2021-10-09 22:22:52] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:22:52] Starting asPainelVipDesc
+[2021-10-09 22:22:52] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:22:52] INFO: Criação database sucess
+[2021-10-09 22:22:52] Criação database sucess
+[2021-10-09 22:22:52] asPainelVipDesc restarted successfully
+[2021-10-09 22:29:16] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:29:16] Stopping asPainelVipDesc
+[2021-10-09 22:29:17] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:29:17] Starting asPainelVipDesc
+[2021-10-09 22:29:17] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:29:17] Criação database sucess
+[2021-10-09 22:29:17] asPainelVipDesc restarted successfully
+[2021-10-09 22:29:23] INFO: Criação database sucess
+[2021-10-09 22:29:48] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:29:48] Stopping asPainelVipDesc
+[2021-10-09 22:29:48] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:29:48] Starting asPainelVipDesc
+[2021-10-09 22:29:48] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:29:48] INFO: Criação database sucess
+[2021-10-09 22:29:48] Criação database sucess
+[2021-10-09 22:29:48] asPainelVipDesc restarted successfully
+[2021-10-09 22:30:17] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:30:17] Stopping asPainelVipDesc
+[2021-10-09 22:30:17] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:30:18] Starting asPainelVipDesc
+[2021-10-09 22:30:18] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:30:18] INFO: Criação database sucess
+[2021-10-09 22:30:18] Criação database sucess
+[2021-10-09 22:30:18] asPainelVipDesc restarted successfully
+[2021-10-09 22:30:37] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:30:37] Stopping asPainelVipDesc
+[2021-10-09 22:30:37] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:30:37] Starting asPainelVipDesc
+[2021-10-09 22:30:37] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:30:37] Criação database sucess
+[2021-10-09 22:30:37] asPainelVipDesc restarted successfully
+[2021-10-09 22:30:43] INFO: Criação database sucess
+[2021-10-09 22:31:13] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:31:13] Stopping asPainelVipDesc
+[2021-10-09 22:31:13] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:31:13] Starting asPainelVipDesc
+[2021-10-09 22:31:13] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:31:13] INFO: Criação database sucess
+[2021-10-09 22:31:13] Criação database sucess
+[2021-10-09 22:31:13] asPainelVipDesc restarted successfully
+[2021-10-09 22:37:39] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:37:39] Stopping asPainelVipDesc
+[2021-10-09 22:37:39] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:37:39] Starting asPainelVipDesc
+[2021-10-09 22:37:40] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:37:40] INFO: Criação database sucess
+[2021-10-09 22:37:40] Criação database sucess
+[2021-10-09 22:37:40] asPainelVipDesc restarted successfully
+[2021-10-09 22:37:54] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:37:54] Stopping asPainelVipDesc
+[2021-10-09 22:37:54] Starting asPainelVipDesc
+[2021-10-09 22:37:54] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:37:54] Criação database sucess
+[2021-10-09 22:37:54] asPainelVipDesc restarted successfully
+[2021-10-09 22:38:00] INFO: Criação database sucess
+[2021-10-09 22:40:01] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:40:01] Stopping asPainelVipDesc
+[2021-10-09 22:40:01] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:40:01] Starting asPainelVipDesc
+[2021-10-09 22:40:01] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:40:01] INFO: Criação database sucess
+[2021-10-09 22:40:01] Criação database sucess
+[2021-10-09 22:40:01] asPainelVipDesc restarted successfully
+[2021-10-09 22:41:06] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:41:06] Stopping asPainelVipDesc
+[2021-10-09 22:41:06] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:41:06] Starting asPainelVipDesc
+[2021-10-09 22:41:06] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:41:06] INFO: Criação database sucess
+[2021-10-09 22:41:06] Criação database sucess
+[2021-10-09 22:41:06] asPainelVipDesc restarted successfully
+[2021-10-09 22:42:47] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:42:47] Stopping asPainelVipDesc
+[2021-10-09 22:42:47] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:42:47] Starting asPainelVipDesc
+[2021-10-09 22:42:47] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:42:47] Criação database sucess
+[2021-10-09 22:42:47] asPainelVipDesc restarted successfully
+[2021-10-09 22:42:53] INFO: Criação database sucess
+[2021-10-09 22:43:17] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:43:17] Stopping asPainelVipDesc
+[2021-10-09 22:43:17] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:43:17] Starting asPainelVipDesc
+[2021-10-09 22:43:17] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:43:17] INFO: Criação database sucess
+[2021-10-09 22:43:17] Criação database sucess
+[2021-10-09 22:43:17] asPainelVipDesc restarted successfully
+[2021-10-09 22:47:55] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:47:55] Stopping asPainelVipDesc
+[2021-10-09 22:47:55] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:47:55] Starting asPainelVipDesc
+[2021-10-09 22:47:55] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:47:55] INFO: Criação database sucess
+[2021-10-09 22:47:55] Criação database sucess
+[2021-10-09 22:47:55] asPainelVipDesc restarted successfully
+[2021-10-09 22:48:50] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:48:50] Stopping asPainelVipDesc
+[2021-10-09 22:48:50] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:48:50] Starting asPainelVipDesc
+[2021-10-09 22:48:50] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:48:50] Criação database sucess
+[2021-10-09 22:48:50] asPainelVipDesc restarted successfully
+[2021-10-09 22:48:56] INFO: Criação database sucess
+[2021-10-09 22:49:21] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:49:21] Stopping asPainelVipDesc
+[2021-10-09 22:49:21] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:49:21] Starting asPainelVipDesc
+[2021-10-09 22:49:21] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:49:21] INFO: Criação database sucess
+[2021-10-09 22:49:21] Criação database sucess
+[2021-10-09 22:49:21] asPainelVipDesc restarted successfully
+[2021-10-09 22:49:50] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:49:50] Stopping asPainelVipDesc
+[2021-10-09 22:49:50] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:49:50] Starting asPainelVipDesc
+[2021-10-09 22:49:50] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:49:50] INFO: Criação database sucess
+[2021-10-09 22:49:50] Criação database sucess
+[2021-10-09 22:49:50] asPainelVipDesc restarted successfully
+[2021-10-09 22:50:07] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:50:07] Stopping asPainelVipDesc
+[2021-10-09 22:50:07] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:50:07] Starting asPainelVipDesc
+[2021-10-09 22:50:07] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:50:07] Criação database sucess
+[2021-10-09 22:50:07] asPainelVipDesc restarted successfully
+[2021-10-09 22:50:13] INFO: Criação database sucess
+[2021-10-09 22:50:24] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:50:24] Stopping asPainelVipDesc
+[2021-10-09 22:50:24] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:50:24] Starting asPainelVipDesc
+[2021-10-09 22:50:24] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:50:24] INFO: Criação database sucess
+[2021-10-09 22:50:24] Criação database sucess
+[2021-10-09 22:50:24] asPainelVipDesc restarted successfully
+[2021-10-09 22:50:55] restart: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-09 22:50:55] Stopping asPainelVipDesc
+[2021-10-09 22:50:55] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-09 22:50:55] Starting asPainelVipDesc
+[2021-10-09 22:50:55] INFO: resource foi iniciado com sucesso
+[2021-10-09 22:50:55] INFO: Criação database sucess
+[2021-10-09 22:50:55] Criação database sucess
+[2021-10-09 22:50:55] asPainelVipDesc restarted successfully
+[2021-10-09 22:51:01] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-09 23:25:28] Server stopped!
+[2021-10-09 23:25:28] Stopping resources..........................
+[2021-10-09 23:25:29] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-09 23:58:12] Resources: 198 loaded, 0 failed
+[2021-10-09 23:58:12] Starting resources...
+[2021-10-09 23:58:12] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-09 23:58:13] Gamemode 'play' started.
+[2021-10-09 23:58:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-09 23:58:13] WARNING: <owner_email_address> not set
+[2021-10-09 23:58:13] Server started and is ready to accept connections!
+[2021-10-09 23:58:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-09 23:58:13] Type 'help' for a list of commands.
+[2021-10-09 23:58:13] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-09 23:58:43] start: Requested by Console
+[2021-10-09 23:58:43] Starting asPainelVipDesc
+[2021-10-09 23:58:43] INFO: resource foi iniciado com sucesso
+[2021-10-09 23:58:43] INFO: Criação database sucess
+[2021-10-09 23:58:43] Criação database sucess
+[2021-10-09 23:58:43] start: Resource 'asPainelVipDesc' started
+[2021-10-09 23:58:49] start: Requested by Console
+[2021-10-09 23:58:49] Starting object_preview
+[2021-10-09 23:58:49] start: Resource 'object_preview' started
+[2021-10-09 23:58:53] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-09 23:58:54] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-10-10 00:00:00] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-10 00:00:08] start: Requested by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-10 00:00:09] Starting [BGR]Armas
+[2021-10-10 00:00:59] Server stopped!
+[2021-10-10 00:00:59] Stopping resources..........................
+[2021-10-10 00:00:59] Closing SQLite3 database

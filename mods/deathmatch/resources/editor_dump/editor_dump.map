@@ -3,4 +3,5 @@
     <object id="object (2)" breakable="true" interior="0" alpha="255" dimension="0" model="346" scale="1" doublesided="false" collisions="true" frozen="false" posX="2492.8" posY="-1664.7" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
     <object id="object (3)" breakable="true" interior="0" alpha="255" dimension="0" model="355" scale="1" doublesided="false" collisions="true" frozen="false" posX="2494.3999" posY="-1664.6" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
     <object id="object (4)" breakable="true" interior="0" alpha="255" dimension="0" model="348" scale="1" doublesided="false" collisions="true" frozen="false" posX="2495.6001" posY="-1664.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (5)" breakable="true" interior="0" alpha="255" dimension="0" model="346" scale="1" doublesided="false" collisions="true" frozen="false" posX="2498.2" posY="-1678.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
 </map>
