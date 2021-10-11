@@ -61,10 +61,15 @@
     <group name="Diamante">
         <object name="user.Lucas"></object>
     </group>
-    <group name="COMANDOS">
+    <group name="EB">
         <object name="user.Lucas"></object>
     </group>
-    <group name="G_COMANDOS"></group>
+    <group name="CORPS">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="CMDS">
+        <object name="user.Lucas"></object>
+    </group>
     <acl name="Default">
         <right name="general.ModifyOtherObjects" access="false"></right>
         <right name="general.http" access="false"></right>

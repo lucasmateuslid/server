@@ -4,10 +4,10 @@ configC = {
 		tipo = "down",
 	},
 	precosV = {
-		preco_1 = "10",
-		preco_2 = "20",
-		preco_3 = "40",
-		preco_4 = "70",
+		preco_1 = "null",
+		preco_2 = "null",
+		preco_3 = "null",
+		preco_4 = "null",
 	},
 	links = {
 		discord = "discord.gg/R7vnXN5P2U",
@@ -16,10 +16,10 @@ configC = {
 
 configS = {
 	groups = {
-		vip_1 = "COMANDOS",
-		vip_2 = "COMANDOS",
-		vip_3 = "COMANDOS",
-		vip_4 = "G_COMANDOS",
+		vip_1 = "CORPS",
+		vip_2 = "CORPS",
+		vip_3 = "EB",
+		vip_4 = "CMDS",
 	},
 	bronze = {
 		kitArmasB_1 = { 24, 29 },
@@ -31,34 +31,56 @@ configS = {
 		kitArmasB_7 = { 23 },
 		kitArmasB_8 = { 22 },
 		kitArmasB_9 = { 25 },
-		kitArmasB_10 = { 27 },
+		kitArmasB_10 = { 46 },
 		kitArmasB_11 = { 26 },
 		kitArmasB_12 = { 29 },
 		kitArmasB_13 = { 28 },
+		kitArmasB_14 = { 46 },
+		vidaB_1 = 100,
+		coleteB_1 = 100,
 	},
 	prata = {
-		personagemP_1 = 1,
-		personagemP_2 = 28,
-		veiculoP_1 = 451,
-		veiculoP_2 = 522,
-		kitArmasP_1 = { 1, 29, 32, 22 },
-		kitArmasP_2 = { 1, 29, 32, 22 },
-		vidaP_1 = 50,
+		veiculoP_1 = 596, -- Viatura Hilux
+		veiculoP_2 = 598, -- Viatura TrailBlazer
+		veiculoP_3 = 523, -- Viatura Rocam
+		veiculoP_4 = 427, -- Viatura Blindado
+		veiculoP_5 = 425, -- Helicoptero 1
+		veiculoP_6 = 497, -- Helicoptero 2
+		veiculoP_7 = 560, -- Urus
+		veiculoP_8 = 522, -- z1000
 	},
 	ouro = {
+		-- Skins EB
 		personagemO_1 = 9,
 		personagemO_2 = 1,
 		personagemO_3 = 26,
-		veiculoO_1 = 541,
-		veiculoO_2 = 522,
-		veiculoO_3 = 451,
-		kitArmasO_1 = { 30, 24, 4, 34 },
-		kitArmasO_2 = { 29, 32, 1, 22 },
-		kitArmasO_3 = { 31, 24, 4, 34 },
-		estiloO_1 = 128,
-		estiloO_2 = 120,
-		vidaO_1 = 70,
-		coleteO_1 = 35,
+		personagemO_4 = 26,
+		-- Skins ROTA
+		personagemO_5 = 26,
+		personagemO_6 = 26,
+		personagemO_7 = 26,
+		-- Skins FN
+		personagemO_8 = 26,
+		personagemO_9 = 26,
+		personagemO_10 = 26,
+		-- Skins PMESP
+		personagemO_11 = 26,
+		personagemO_12 = 26,
+		personagemO_13 = 26,
+		-- Skins BAEP
+		personagemO_14 = 26,
+		personagemO_15 = 26,
+		personagemO_16 = 26,
+		-- Skins PF
+		personagemO_17 = 26,
+		personagemO_18 = 26,
+		personagemO_19 = 26,
+		-- Skins FAC
+		personagemO_20 = 26,
+		personagemO_21 = 26,
+
+
+
 	},
 	diamante = {
 		personagemD_1 = 35,

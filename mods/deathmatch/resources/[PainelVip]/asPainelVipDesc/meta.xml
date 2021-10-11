@@ -7,7 +7,7 @@
 	<script src="astoSave.lua" type="server" cache="false" />
 	<script src="astoServer.lua" type="server" cache="false" />
 	<script src="astoUtils.lua" type="client" cache="false" />
-	
+
 	<script src="abas/menu.lua" type="client" cache="false" />
 	<script src="abas/diamante.lua" type="client" cache="false" />
 	<script src="abas/ouro.lua" type="client" cache="false" />
@@ -22,6 +22,8 @@
 
 	<file src="assets/sounds/open.ogg" />
 	<file src="assets/sounds/click.ogg" />
+
+	<file src="assets/icons/trn.png" />
 
 	<file src="assets/avatars/0.png" ></file>
 	<file src="assets/avatars/1.png" ></file>

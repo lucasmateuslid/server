@@ -1,11 +1,11 @@
 function vipMenu()
-	AlphaVip[1] = interpolateBetween(0, 0, 0, 255, 0, 0, (getTickCount()-TickVip)/800, "Linear")
-	AlphaVip[2] = interpolateBetween(0, 0, 0, 230, 0, 0, (getTickCount()-TickVip)/800, "Linear")
+	AlphaVip[1] = interpolateBetween(0, 0, 0, 255, 0, 0, (getTickCount()-TickVip)/01, "Linear")
+	AlphaVip[2] = interpolateBetween(0, 0, 0, 230, 0, 0, (getTickCount()-TickVip)/01, "Linear")
 
-	Avatar = (localPlayer:getData("avatar") or 0)
+	Avatar = (localPlayer:getData("avatar") or 5)
 	ID = (localPlayer:getData("ID") or "N/D")
 	Nick = getPlayerName(localPlayer)
-	Cash = (localPlayer:getData("Cash") or 0)
+	Cash = (localPlayer:getData("Cash") or 90000)
 
 	drawBorde(x*275, y*133, x*815, y*502, tocolor(11,11,11,AlphaVip[2]))
 	drawBorde(x*275, y*133, x*815, y*67, tocolor(21,21,21,AlphaVip[2]))
@@ -37,7 +37,7 @@ function vipMenu()
 	end
 
 	dxDrawImage(x*482, y*154, x*487, y*25, "assets/icons/bg.png", 0, 0, 0, tocolor(255,255,255,AlphaVip[1]))
-	
+	dxDrawImage(x*620, y*320, x*332, y*170, "assets/icons/trn.png", 0, 0, 0, tocolor(255,255,255,AlphaVip[1]))
 
 	dxDrawImage(x*292, y*143, x*48, y*48, "assets/avatars/"..Avatar..".png", 0, 0, 0, tocolor(255,255,255,AlphaVip[1]))
 

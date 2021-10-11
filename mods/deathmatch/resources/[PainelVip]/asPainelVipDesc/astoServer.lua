@@ -37,54 +37,83 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			end
 
 			if Vip == "Bronze" and ID == 1 then
-				vehiclesVips[source] = createVehicle(configS.bronze.veiculoB_1, x, y, z)
-				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
-
-			elseif Vip == "Prata" and ID == 1 then
 				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_1, x, y, z)
-				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
 
-			elseif Vip == "Prata" and ID == 2 then
+				TimerCar = setTimer(function() end, 1, 1)
+
+
+			elseif Vip == "Bronze" and ID == 2 then
 				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_2, x, y, z)
-				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 3 then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_3, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 4 then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_4, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 5 then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_5, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 6 then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_6, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Bronze" and ID == 7  then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_7, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+
+			elseif Vip == "Bronze" and ID == 8 then
+				vehiclesVips[source] = createVehicle(configS.prata.veiculoP_8, x, y, z)
+
+				TimerCar = setTimer(function() end, 1, 1)
+
+
 
 			elseif Vip == "Ouro" and ID == 1 then
 				vehiclesVips[source] = createVehicle(configS.ouro.veiculoO_1, x, y, z)
-				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 2 then
 				vehiclesVips[source] = createVehicle(configS.ouro.veiculoO_2, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 2, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 3 then
 				vehiclesVips[source] = createVehicle(configS.ouro.veiculoO_3, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 3, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then
 				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_1, x, y, z)
-				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 2 then
 				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_2, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 2, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 3 then
 				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_3, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 3, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+				TimerCar = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Diamante" and ID == 4 then
 				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_4, x, y, z)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 4, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
-				TimerCar = setTimer(function() end, 500000, 1)
+				TimerCar = setTimer(function() end, 1, 1)
 
 				dbFree(dbQuery(mysql, "INSERT INTO vehiclesVip (Id, nick, pos, car_name) VALUES (?, ?, ?, ?) ", getElementData(source, "ID"), getPlayerName(source), toJSON({x, y, z}), getVehicleName(vehiclesVips[source]), 0))
 			end
@@ -226,7 +255,7 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				for _, gun in ipairs(configS.bronze.kitArmasB_10) do
 					giveWeapon(source, gun, 900)
 				end
-				outputChatBox("INFO > (Você Acabou de Pegar uma Combat-Shotgun)", source, 255, 255, 255, true)
+				outputChatBox("INFO > (Você Acabou de Pegar um Paraquedas)", source, 255, 255, 255, true)
 				TimerWeapon = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Bronze" and ID == 11 then

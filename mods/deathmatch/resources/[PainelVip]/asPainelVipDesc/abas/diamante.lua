@@ -4,7 +4,7 @@ function abaDiamante()
 
 	if localPlayer:getData("Vip_Ouro") ~= "Sim" then
 		drawBorde(x*297, y*222, x*772, y*379, tocolor(21,21,21,AlphaVip[2]))
-		dxDrawText("Você não é Vip Diamante", x*565, y*370, x*62, y*28, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[4], "left", "top")
+		dxDrawText("Você não esta autorizado a usar esse painel!!", x*565, y*370, x*62, y*28, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[4], "left", "top")
 	else
 		drawBorde(x*297, y*222, x*772, y*379, tocolor(21,21,21,AlphaVip[2]))
 
@@ -151,6 +151,8 @@ function abaDiamante()
 			drawBorde(x*719, y*494, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
 		dxDrawText("Estilo de luta |||", x*757, y*501, x*111, y*21, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+
+			dxDrawText("Desenvolvido por: ๖̶̶̶ζ͜͡Lima#0132 - Renan|B|EB", x*650, y*580, x*173, y*35, tocolor(99, 99, 99,AlphaVip[1]), 1.00, fontsVip.robotoVip[1], "center", "top")
 
 	end
 

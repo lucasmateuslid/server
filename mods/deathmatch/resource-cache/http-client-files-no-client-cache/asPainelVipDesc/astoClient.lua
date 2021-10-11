@@ -2,7 +2,7 @@ screenW, screenH = guiGetScreenSize()
 resW, resH = 1366, 768
 x, y = (screenW/resW), (screenH/resH)
 Select = nil
-TickVip = getTickCount()
+TickVip = getTickCount(1)
 AlphaVip = {}
 
 fontsVip = {
@@ -55,9 +55,187 @@ bindKey(configC.binds.tecla, configC.binds.tipo, function()
 		Select = nil
 	end
 end)
-
+-- Select to Other (Base)
 addEventHandler("onClientClick", root, function(b, s)
 	if isEventHandlerAdded("onClientRender", root, vipMenu) then
+		if (b == "left" and s == "down") then
+			if cursorPosition(x*474, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Bronze"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*630, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Prata"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*786, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Ouro"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*942, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaDiamante)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaOuro)
+				TickVip = getTickCount()
+				Select = "Diamante"
+				playSound("assets/sounds/click.ogg")
+			end
+		end
+	end
+end)
+-- Select to Other (Bronze)
+addEventHandler("onClientClick", root, function(b, s)
+	if isEventHandlerAdded("onClientRender", root, abaBronze) then
+		if (b == "left" and s == "down") then
+			if cursorPosition(x*474, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Bronze"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*630, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Prata"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*786, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Ouro"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*942, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaDiamante)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaOuro)
+				TickVip = getTickCount()
+				Select = "Diamante"
+				playSound("assets/sounds/click.ogg")
+			end
+		end
+	end
+end)
+-- Select to Other (Prata)
+addEventHandler("onClientClick", root, function(b, s)
+	if isEventHandlerAdded("onClientRender", root, abaPrata) then
+		if (b == "left" and s == "down") then
+			if cursorPosition(x*474, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Bronze"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*630, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Prata"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*786, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Ouro"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*942, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaDiamante)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaOuro)
+				TickVip = getTickCount()
+				Select = "Diamante"
+				playSound("assets/sounds/click.ogg")
+			end
+		end
+	end
+end)
+
+-- Select to Other (Ouro)
+addEventHandler("onClientClick", root, function(b, s)
+	if isEventHandlerAdded("onClientRender", root, abaOuro) then
+		if (b == "left" and s == "down") then
+			if cursorPosition(x*474, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Bronze"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*630, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Prata"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*786, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaOuro)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaDiamante)
+				TickVip = getTickCount()
+				Select = "Ouro"
+				playSound("assets/sounds/click.ogg")
+			elseif cursorPosition(x*942, y*148, x*127, y*38) then
+				addEventHandler("onClientRender", root, abaDiamante)
+				removeEventHandler("onClientRender", root, vipMenu)
+				removeEventHandler("onClientRender", root, abaBronze)
+				removeEventHandler("onClientRender", root, abaPrata)
+				removeEventHandler("onClientRender", root, abaOuro)
+				TickVip = getTickCount()
+				Select = "Diamante"
+				playSound("assets/sounds/click.ogg")
+			end
+		end
+	end
+end)
+
+-- Select to Other (Diamante)
+addEventHandler("onClientClick", root, function(b, s)
+	if isEventHandlerAdded("onClientRender", root, abaDiamante) then
 		if (b == "left" and s == "down") then
 			if cursorPosition(x*474, y*148, x*127, y*38) then
 				addEventHandler("onClientRender", root, abaBronze)
@@ -134,7 +312,11 @@ addEventHandler("onClientClick", root, function(b, s)
 					playSound("assets/sounds/click.ogg")
 
 				elseif cursorPosition(x*818, y*298, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 10) -- Combat Shotgun
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 10) -- Paraquedas
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*848, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 11) -- Sawed-Off
 					playSound("assets/sounds/click.ogg")
 
 				elseif cursorPosition(x*818, y*396, x*173, y*35) then
@@ -155,23 +337,30 @@ addEventHandler("onClientClick", root, function(b, s)
 		if b == "left" and s == "down" then
 			if localPlayer:getData("Vip_Prata") == "Sim" then
 				if cursorPosition(x*323, y*249, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Prata", 1)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 1) -- Viatura Hilux
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*323, y*298, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Prata", 2)
-					playSound("assets/sounds/click.ogg")
-				elseif cursorPosition(x*323, y*347, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Prata", 1)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 2) -- Viatura TrailBlazer
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*323, y*396, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Prata", 2)
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 3) -- Viatura Rocam
 					playSound("assets/sounds/click.ogg")
-				elseif cursorPosition(x*323, y*445, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Prata", 1)
+				elseif cursorPosition(x*323, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Ouro", 4) -- Viatura Blindado
 					playSound("assets/sounds/click.ogg")
-				elseif cursorPosition(x*323, y*494, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Prata", 2)
+				elseif cursorPosition(x*511, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Ouro", 5) -- Helicoptero 1
 					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*511, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Ouro", 6) -- Helicoptero 2
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*820, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 7) -- Urus
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*820, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 8) -- Z100
+					playSound("assets/sounds/click.ogg")
+
 				end
 			end
 		end
@@ -212,7 +401,6 @@ addEventHandler("onClientClick", root, function(b, s)
 				elseif cursorPosition(x*521, y*298, x*173, y*35) then
 					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Ouro", 3)
 					playSound("assets/sounds/click.ogg")
-				elseif cursorPosition(x*521, y*347, x*173, y*35) then
 					triggerServerEvent("asto.vipClicks", localPlayer, "Vidas", "Ouro", 1)
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*521, y*396, x*173, y*35) then

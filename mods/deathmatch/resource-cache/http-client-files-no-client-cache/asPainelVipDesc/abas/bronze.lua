@@ -78,7 +78,7 @@ function abaBronze()
 		else
 			drawBorde(x*818, y*298, x*173, y*35, tocolor(11,11,11,AlphaVip[1]))
 		end
-		dxDrawText("Combat-Shotgun", x*848, y*305, x*173, y*35, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
+		dxDrawText("Paraquedas", x*848, y*305, x*173, y*35, tocolor(255,255,255,AlphaVip[1]), 1.00, fontsVip.robotoVip[5], "left", "top")
 
 		if cursorPosition(x*818, y*347, x*173, y*35) then
 			drawBorde(x*818, y*347, x*173, y*35, tocolor(58, 91, 154,AlphaVip[1]))
