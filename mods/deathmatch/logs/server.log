@@ -6036,3 +6036,135 @@
 [2021-10-10 23:11:00] Server stopped!
 [2021-10-10 23:11:01] Stopping resources........................
 [2021-10-10 23:11:45] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-11 01:52:24] Resources: 198 loaded, 0 failed
+[2021-10-11 01:52:24] Starting resources...
+[2021-10-11 01:52:24] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-11 01:52:25] Gamemode 'play' started.
+[2021-10-11 01:52:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-11 01:52:25] WARNING: <owner_email_address> not set
+[2021-10-11 01:52:25] Server started and is ready to accept connections!
+[2021-10-11 01:52:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-11 01:52:25] Type 'help' for a list of commands.
+[2021-10-11 01:52:25] Querying MTA master server... success! (Auto detected IP:187.19.245.74)
+[2021-10-11 01:52:39] start: Requested by Console
+[2021-10-11 01:52:39] Starting asPainelVipDesc
+[2021-10-11 01:52:39] INFO: resource foi iniciado com sucesso
+[2021-10-11 01:52:39] INFO: Criação database sucess
+[2021-10-11 01:52:39] Criação database sucess
+[2021-10-11 01:52:39] start: Resource 'asPainelVipDesc' started
+[2021-10-11 01:54:04] CONNECT: Renan|B|EB connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-11 01:54:06] JOIN: Renan|B|EB joined the game (IP: 192.168.1.6)
+[2021-10-11 01:56:43] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-11 02:02:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-11 02:02:11] Stopping asPainelVipDesc
+[2021-10-11 02:02:12] Starting asPainelVipDesc
+[2021-10-11 02:02:12] INFO: resource foi iniciado com sucesso
+[2021-10-11 02:02:12] INFO: Criação database sucess
+[2021-10-11 02:02:12] Criação database sucess
+[2021-10-11 02:02:12] asPainelVipDesc restarted successfully
+[2021-10-11 02:03:38] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-11 02:03:38] Stopping asPainelVipDesc
+[2021-10-11 02:03:38] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-11 02:03:38] Starting asPainelVipDesc
+[2021-10-11 02:03:38] INFO: resource foi iniciado com sucesso
+[2021-10-11 02:03:38] Criação database sucess
+[2021-10-11 02:03:38] asPainelVipDesc restarted successfully
+[2021-10-11 02:03:44] INFO: Criação database sucess
+[2021-10-11 02:05:06] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-11 02:05:06] Stopping asPainelVipDesc
+[2021-10-11 02:05:06] Resource 'asPainelVipDesc' changed, reloading and starting
+[2021-10-11 02:05:06] Starting asPainelVipDesc
+[2021-10-11 02:05:06] INFO: resource foi iniciado com sucesso
+[2021-10-11 02:05:06] INFO: Criação database sucess
+[2021-10-11 02:05:06] Criação database sucess
+[2021-10-11 02:05:06] asPainelVipDesc restarted successfully
+[2021-10-11 02:12:44] QUIT: Renan|B|EB left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-18 17:20:22] Compacting accounts database 'internal.db' ...
+[2021-10-18 17:21:12] Resources: 199 loaded, 0 failed
+[2021-10-18 17:21:12] Compacting database 'registry.db' ...
+[2021-10-18 17:21:12] Starting resources...
+[2021-10-18 17:21:13] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-18 17:21:13] Gamemode 'play' started.
+[2021-10-18 17:21:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-18 17:21:13] WARNING: <owner_email_address> not set
+[2021-10-18 17:21:13] Server started and is ready to accept connections!
+[2021-10-18 17:21:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-18 17:21:13] Type 'help' for a list of commands.
+[2021-10-18 17:21:13] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-18 17:21:29] start: Requested by Console
+[2021-10-18 17:21:29] Starting [REN]G63
+[2021-10-18 17:21:29] start: Resource '[REN]G63' started
+[2021-10-18 17:21:35] CONNECT: Renan|B|EB connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-18 17:21:39] CONNECT: Renan|B|EB failed to connect (Nick already in use) (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-18 17:22:02] DISCONNECT: Renan|B|EB Supplanted by (Renan|B|EB)
+[2021-10-18 17:22:02] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-18 17:22:02] CONNECT: Renan|B|EB connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-18 17:22:02] JOIN: Renan|B|EB joined the game (IP: 192.168.1.6)
+[2021-10-18 17:22:08] LOGIN: Renan|B|EB tried to log in as 'Lucas' with an invalid password (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-18 17:22:10] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-18 17:23:15] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-10-18 17:24:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-18 17:24:17] Stopping [REN]G63
+[2021-10-18 17:24:17] Resource '[REN]G63' changed, reloading and starting
+[2021-10-18 17:24:17] Starting [REN]G63
+[2021-10-18 17:24:17] [REN]G63 restarted successfully
+[2021-10-18 17:28:39] New resource '[PainelVeiculo]' loaded
+[2021-10-18 17:28:39] Resources: 200 loaded, 0 failed
+[2021-10-18 17:28:50] start: Requested by Console
+[2021-10-18 17:28:50] Starting [PainelVeiculo]
+[2021-10-18 17:28:50] start: Resource '[PainelVeiculo]' started
+[2021-10-18 17:32:05] ADMIN: Resource '[REN]G63' restarted by Renan|B|EB(Lucas)
+[2021-10-18 17:32:05] Stopping [REN]G63
+[2021-10-18 17:32:05] Resource '[REN]G63' changed, reloading and starting
+[2021-10-18 17:32:05] Starting [REN]G63
+[2021-10-18 17:32:05] [REN]G63 restarted successfully
+[2021-10-18 17:32:39] ADMIN: Resource '[REN]G63' restarted by Renan|B|EB(Lucas)
+[2021-10-18 17:32:39] Stopping [REN]G63
+[2021-10-18 17:32:39] Resource '[REN]G63' changed, reloading and starting
+[2021-10-18 17:32:40] Starting [REN]G63
+[2021-10-18 17:32:40] [REN]G63 restarted successfully
+[2021-10-18 17:33:29] ADMIN: Resource '[REN]G63' restarted by Renan|B|EB(Lucas)
+[2021-10-18 17:33:29] Stopping [REN]G63
+[2021-10-18 17:33:29] Resource '[REN]G63' changed, reloading and starting
+[2021-10-18 17:33:29] Starting [REN]G63
+[2021-10-18 17:33:30] [REN]G63 restarted successfully
+[2021-10-18 17:35:31] Starting F10
+[2021-10-18 17:35:31] startResource: Resource 'F10' started
+[2021-10-18 17:35:31] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-18 17:36:51] ADMIN: Resource '[REN]G63' restarted by Renan|B|EB(Lucas)
+[2021-10-18 17:36:51] Stopping [REN]G63
+[2021-10-18 17:36:52] Resource '[REN]G63' changed, reloading and starting
+[2021-10-18 17:36:52] Starting [REN]G63
+[2021-10-18 17:36:52] [REN]G63 restarted successfully
+[2021-10-18 17:38:44] ADMIN: Renan|B|EB has set gravitation to 0.008
+[2021-10-18 17:38:46] ADMIN: Renan|B|EB has changed time to 00:00
+[2021-10-18 17:41:01] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-18 17:41:39] Server stopped!
+[2021-10-18 17:41:39] Stopping resources..........................
+[2021-10-18 17:41:39] Closing SQLite3 database

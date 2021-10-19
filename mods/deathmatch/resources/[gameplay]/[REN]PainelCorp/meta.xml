@@ -1,0 +1,49 @@
+<meta>
+	<info author="Renan Developer" name="Painel Vip" description="Vips - Sistemas" />
+	
+	<oop>true</oop>
+
+	<script src="renanGlobal.lua" type="shared" cache="false" />
+	<script src="renanSave.lua" type="server" cache="false" />
+	<script src="renanServer.lua" type="server" cache="false" />
+	<script src="renanUtils.lua" type="client" cache="false" />
+
+	<script src="abas/menu.lua" type="client" cache="false" />
+	<script src="abas/diamante.lua" type="client" cache="false" />
+	<script src="abas/ouro.lua" type="client" cache="false" />
+	<script src="abas/prata.lua" type="client" cache="false" />
+	<script src="abas/bronze.lua" type="client" cache="false" />
+
+	<script src="renanClient.lua" type="client" cache="false" />
+
+	<file src="assets/icons/bg.png" />
+
+	<file src="assets/fonts/bold.ttf" />
+
+	<file src="assets/sounds/open.ogg" />
+	<file src="assets/sounds/click.ogg" />
+
+	<file src="assets/icons/trn.png" />
+
+	<file src="assets/avatars/0.png" ></file>
+	<file src="assets/avatars/1.png" ></file>
+	<file src="assets/avatars/2.png" ></file>
+	<file src="assets/avatars/3.png" ></file>
+	<file src="assets/avatars/4.png" ></file>
+	<file src="assets/avatars/5.png" ></file>
+	<file src="assets/avatars/6.png" ></file>
+	<file src="assets/avatars/7.png" ></file>
+	<file src="assets/avatars/8.png" ></file>
+	<file src="assets/avatars/9.png" ></file>
+	<file src="assets/avatars/10.png" ></file>
+	<file src="assets/avatars/11.png" ></file>
+	<file src="assets/avatars/12.png" ></file>
+	<file src="assets/avatars/13.png" ></file>
+	<file src="assets/avatars/14.png" ></file>
+	<file src="assets/avatars/15.png" ></file>
+	<file src="assets/avatars/16.png" ></file>
+	<file src="assets/avatars/17.png" ></file>
+	<file src="assets/avatars/18.png" ></file>
+	<file src="assets/avatars/19.png" ></file>
+	<file src="assets/avatars/20.png" ></file>
+</meta>

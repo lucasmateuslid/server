@@ -1,0 +1,14 @@
+<meta>
+	<info author="Basapen" />
+	<script src="ClientMain.lua" type="client" cache="false"/>
+	<script src="FracPanelServer.lua" type="server"/>
+	<script src="FracPanelClient.lua" type="client" cache="false"/>
+	
+	<file src="Files/calibri.ttf" type="client" cache="false" />
+	<file src="Files/engine-small.png" type="client" cache="false" />
+	<file src="Files/Circle.png" type="client" cache="false" />
+	<file src="Files/lights-small.png" type="client" cache="false" />
+	<file src="Files/vehiclelock-small.png" type="client" cache="false" />
+	
+	<export function="setRegistrationPanelOpened" type="client" http="false" /> <!-- setRegistrationPanelOpened(true/false) -->
+</meta>
