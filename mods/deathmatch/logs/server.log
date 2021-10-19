@@ -6168,3 +6168,768 @@
 [2021-10-18 17:41:39] Server stopped!
 [2021-10-18 17:41:39] Stopping resources..........................
 [2021-10-18 17:41:39] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-19 11:09:26] Resources: 203 loaded, 0 failed
+[2021-10-19 11:09:26] Starting resources...
+[2021-10-19 11:09:26] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-19 11:09:27] Gamemode 'play' started.
+[2021-10-19 11:09:27] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-19 11:09:27] WARNING: <owner_email_address> not set
+[2021-10-19 11:09:27] Server started and is ready to accept connections!
+[2021-10-19 11:09:27] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-19 11:09:27] Type 'help' for a list of commands.
+[2021-10-19 11:09:27] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-19 11:10:07] start: Requested by Console
+[2021-10-19 11:10:07] Starting [REN]VehPanel
+[2021-10-19 11:10:07] ERROR: [gameplay]\[REN]VehPanel\FracPanelServer.lua:6: exports: Call to non-running server resource (HUD) [string "?"]
+[2021-10-19 11:10:07] start: Resource '[REN]VehPanel' started
+[2021-10-19 11:11:51] start: Requested by Console
+[2021-10-19 11:11:51] start: Resource is already running
+[2021-10-19 11:11:59] start: Requested by Console
+[2021-10-19 11:11:59] start: Resource is already running
+[2021-10-19 11:12:01] Resource 'object_preview' has been removed, unloading
+[2021-10-19 11:12:01] Resources: 202 loaded, 0 failed
+[2021-10-19 11:12:37] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-19 11:12:39] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-19 11:12:57] DIAGNOSTIC: EB|09-B|3SGT.Renan #1013 HTTP server file mismatch! (admin) hk.png [CRC could not open file: Permission denied]
+[2021-10-19 11:13:23] restart: Requested by Console
+[2021-10-19 11:13:23] restart: Resource restarting...
+[2021-10-19 11:13:23] Stopping [REN]VehPanel
+[2021-10-19 11:13:23] Starting [REN]VehPanel
+[2021-10-19 11:13:23] ERROR: [gameplay]\[REN]VehPanel\FracPanelServer.lua:6: exports: Call to non-running server resource (HUD) [string "?"]
+[2021-10-19 11:13:23] [REN]VehPanel restarted successfully
+[2021-10-19 11:13:38] restart: Requested by Console
+[2021-10-19 11:13:38] restart: Resource restarting...
+[2021-10-19 11:13:38] Stopping [REN]VehPanel
+[2021-10-19 11:13:38] Resource '[REN]VehPanel' changed, reloading and starting
+[2021-10-19 11:13:38] Starting [REN]VehPanel
+[2021-10-19 11:13:38] [REN]VehPanel restarted successfully
+[2021-10-19 11:14:07] start: Requested by Console
+[2021-10-19 11:14:07] WARNING: [REN]Celular/GoiabaC.lua(Line 1787) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-10-19 11:14:07] Some files in '[REN]Celular' use deprecated functions.
+[2021-10-19 11:14:07] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-19 11:14:07] Starting [REN]Celular
+[2021-10-19 11:14:07] start: Resource '[REN]Celular' started
+[2021-10-19 11:14:14] start: Requested by Console
+[2021-10-19 11:14:14] Starting [REN]PainelCorp
+[2021-10-19 11:14:14] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:14:14] INFO: Criação database sucess
+[2021-10-19 11:14:14] Criação database sucess
+[2021-10-19 11:14:14] start: Resource '[REN]PainelCorp' started
+[2021-10-19 11:14:22] start: Requested by Console
+[2021-10-19 11:14:22] Starting [REN]G63
+[2021-10-19 11:14:22] start: Resource '[REN]G63' started
+[2021-10-19 11:15:15] restart: Requested by Console
+[2021-10-19 11:15:15] restart: Resource restarting...
+[2021-10-19 11:15:15] Stopping [REN]Celular
+[2021-10-19 11:15:15] Resource '[REN]Celular' changed, reloading and starting
+[2021-10-19 11:15:15] WARNING: [REN]Celular/GoiabaC.lua(Line 1787) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-10-19 11:15:15] Some files in '[REN]Celular' use deprecated functions.
+[2021-10-19 11:15:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-19 11:15:15] Starting [REN]Celular
+[2021-10-19 11:15:15] [REN]Celular restarted successfully
+[2021-10-19 11:15:46] restart: Requested by Console
+[2021-10-19 11:15:46] restart: Resource restarting...
+[2021-10-19 11:15:46] Stopping [REN]Celular
+[2021-10-19 11:15:46] Resource '[REN]Celular' changed, reloading and starting
+[2021-10-19 11:15:46] WARNING: [REN]Celular/GoiabaC.lua(Line 1787) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-10-19 11:15:46] Some files in '[REN]Celular' use deprecated functions.
+[2021-10-19 11:15:46] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-19 11:15:46] Starting [REN]Celular
+[2021-10-19 11:15:46] [REN]Celular restarted successfully
+[2021-10-19 11:16:42] Upgrading [REN]Celular:GoiabaC.lua ...........done
+[2021-10-19 11:16:42] Resource '[REN]Celular' changed while running, reloading and restarting
+[2021-10-19 11:16:42] Stopping [REN]Celular
+[2021-10-19 11:16:42] New resource '[REN]Celular' loaded
+[2021-10-19 11:16:42] Resources: 202 loaded, 0 failed
+[2021-10-19 11:16:42] Starting [REN]Celular
+[2021-10-19 11:16:42] Upgrade completed.
+[2021-10-19 11:16:48] restart: Requested by Console
+[2021-10-19 11:16:48] restart: Resource restarting...
+[2021-10-19 11:16:48] Stopping [REN]Celular
+[2021-10-19 11:16:48] Starting [REN]Celular
+[2021-10-19 11:16:48] [REN]Celular restarted successfully
+[2021-10-19 11:17:20] restart: Requested by Console
+[2021-10-19 11:17:20] restart: Resource restarting...
+[2021-10-19 11:17:20] Stopping [REN]Celular
+[2021-10-19 11:17:20] Resource '[REN]Celular' changed, reloading and starting
+[2021-10-19 11:17:20] Starting [REN]Celular
+[2021-10-19 11:17:20] [REN]Celular restarted successfully
+[2021-10-19 11:17:55] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 11:17:56] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:18:02] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:18:06] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:18:12] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:18:37] ERROR: [gameplay]\[REN]Celular\GoiabaG.lua:7: exports: Call to non-running server resource (YM_DxMessages) [string "?"]
+[2021-10-19 11:18:43] ERROR: [gameplay]\[REN]Celular\GoiabaG.lua:7: exports: Call to non-running server resource (YM_DxMessages) [string "?"]  [DUP x2]
+[2021-10-19 11:18:45] ERROR: [gameplay]\[REN]Celular\GoiabaG.lua:7: exports: Call to non-running server resource (YM_DxMessages) [string "?"]
+[2021-10-19 11:19:01] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:19:07] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 11:22:21] restart: Requested by Console
+[2021-10-19 11:22:21] restart: Resource restarting...
+[2021-10-19 11:22:21] Stopping [REN]Celular
+[2021-10-19 11:22:22] Resource '[REN]Celular' changed, reloading and starting
+[2021-10-19 11:22:22] ERROR: Couldn't find script GoiabaG.lua for resource [REN]Celular
+[2021-10-19 11:22:22] Loading of resource '[REN]Celular' failed
+[2021-10-19 11:22:22] ERROR: Unable to restart resource [REN]Celular
+[2021-10-19 11:24:31] start: Requested by Console
+[2021-10-19 11:24:31] start: Resource is already running
+[2021-10-19 11:25:30] restart: Requested by Console
+[2021-10-19 11:25:30] restart: Resource restarting...
+[2021-10-19 11:25:30] Stopping [REN]VehPanel
+[2021-10-19 11:25:30] Resource '[REN]VehPanel' changed, reloading and starting
+[2021-10-19 11:25:30] Starting [REN]VehPanel
+[2021-10-19 11:25:30] ERROR: [gameplay]\[REN]VehPanel\FracPanelServer.lua:6: exports: Call to non-running server resource (HUD) [string "?"]
+[2021-10-19 11:25:30] [REN]VehPanel restarted successfully
+[2021-10-19 11:26:22] restart: Requested by Console
+[2021-10-19 11:26:22] restart: Resource restarting...
+[2021-10-19 11:26:22] Stopping [REN]VehPanel
+[2021-10-19 11:26:23] Resource '[REN]VehPanel' changed, reloading and starting
+[2021-10-19 11:26:23] Starting [REN]VehPanel
+[2021-10-19 11:26:23] ERROR: [gameplay]\[REN]VehPanel\FracPanelServer.lua:6: exports: Call to non-running server resource (HUD) [string "?"]
+[2021-10-19 11:26:23] [REN]VehPanel restarted successfully
+[2021-10-19 11:28:43] restart: Requested by Console
+[2021-10-19 11:28:43] restart: Resource restarting...
+[2021-10-19 11:28:43] Stopping [REN]VehPanel
+[2021-10-19 11:28:43] Resource '[REN]VehPanel' changed, reloading and starting
+[2021-10-19 11:28:43] Starting [REN]VehPanel
+[2021-10-19 11:28:43] [REN]VehPanel restarted successfully
+[2021-10-19 11:28:58] Starting [CARE]CAR1
+[2021-10-19 11:28:59] startResource: Resource '[CARE]CAR1' started
+[2021-10-19 11:28:59] ADMIN: Resource '[CARE]CAR1' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:29:01] Starting [CARE]CAR2
+[2021-10-19 11:29:01] startResource: Resource '[CARE]CAR2' started
+[2021-10-19 11:29:01] ADMIN: Resource '[CARE]CAR2' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:29:03] Starting [CARE]CAR3
+[2021-10-19 11:29:03] startResource: Resource '[CARE]CAR3' started
+[2021-10-19 11:29:03] ADMIN: Resource '[CARE]CAR3' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:29:06] Starting [BGR]Armas
+[2021-10-19 11:29:06] startResource: Resource '[BGR]Armas' started
+[2021-10-19 11:29:06] ADMIN: Resource '[BGR]Armas' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:29:08] Starting F10
+[2021-10-19 11:29:08] startResource: Resource 'F10' started
+[2021-10-19 11:29:08] ADMIN: Resource 'F10' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:29:13] WARNING: [REN]HUD/barC.lua(Line 219) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-10-19 11:29:13] Some files in '[REN]HUD' use deprecated functions.
+[2021-10-19 11:29:13] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-19 11:29:13] Starting [REN]HUD
+[2021-10-19 11:29:13] startResource: Resource '[REN]HUD' started
+[2021-10-19 11:29:13] ADMIN: Resource '[REN]HUD' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 11:32:20] restart: Requested by Console
+[2021-10-19 11:32:20] restart: Resource restarting...
+[2021-10-19 11:32:20] Stopping [REN]HUD
+[2021-10-19 11:32:20] Starting [REN]HUD
+[2021-10-19 11:32:20] [REN]HUD restarted successfully
+[2021-10-19 11:32:36] ERROR: [gameplay]\[REN]PainelCorp\astoServer.lua:304: bad argument #1 to 'ipairs' (table expected, got nil)
+[2021-10-19 11:37:15] restart: Requested by Console
+[2021-10-19 11:37:15] restart: Resource restarting...
+[2021-10-19 11:37:15] Stopping [REN]PainelCorp
+[2021-10-19 11:37:15] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:37:15] Starting [REN]PainelCorp
+[2021-10-19 11:37:15] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:37:15] INFO: Criação database sucess
+[2021-10-19 11:37:15] Criação database sucess
+[2021-10-19 11:37:15] [REN]PainelCorp restarted successfully
+[2021-10-19 11:38:31] restart: Requested by Console
+[2021-10-19 11:38:31] restart: Resource restarting...
+[2021-10-19 11:38:31] Stopping [REN]HUD
+[2021-10-19 11:38:31] Resource '[REN]HUD' changed, reloading and starting
+[2021-10-19 11:38:31] WARNING: [REN]HUD/renan_barC.lua(Line 219) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-10-19 11:38:31] Some files in '[REN]HUD' use deprecated functions.
+[2021-10-19 11:38:31] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-19 11:38:31] Starting [REN]HUD
+[2021-10-19 11:38:31] [REN]HUD restarted successfully
+[2021-10-19 11:38:45] upgrade: Resource '[' could not be found
+[2021-10-19 11:38:48] * Syntax: upgrade <resource-name> | all
+[2021-10-19 11:38:55] Upgrading [REN]HUD:renan_barC.lua ...........done
+[2021-10-19 11:38:55] Resource '[REN]HUD' changed while running, reloading and restarting
+[2021-10-19 11:38:55] Stopping [REN]HUD
+[2021-10-19 11:38:55] New resource '[REN]HUD' loaded
+[2021-10-19 11:38:55] Resources: 201 loaded, 1 failed
+[2021-10-19 11:38:55] Starting [REN]HUD
+[2021-10-19 11:38:55] Upgrade completed.
+[2021-10-19 11:39:06] restart: Requested by Console
+[2021-10-19 11:39:06] restart: Resource restarting...
+[2021-10-19 11:39:06] Stopping [REN]HUD
+[2021-10-19 11:39:06] Starting [REN]HUD
+[2021-10-19 11:39:06] [REN]HUD restarted successfully
+[2021-10-19 11:47:03] restart: Requested by Console
+[2021-10-19 11:47:03] restart: Resource restarting...
+[2021-10-19 11:47:03] Stopping [REN]PainelCorp
+[2021-10-19 11:47:03] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:47:03] Starting [REN]PainelCorp
+[2021-10-19 11:47:03] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:47:03] INFO: Criação database sucess
+[2021-10-19 11:47:03] Criação database sucess
+[2021-10-19 11:47:03] [REN]PainelCorp restarted successfully
+[2021-10-19 11:48:40] restart: Requested by Console
+[2021-10-19 11:48:40] restart: Resource restarting...
+[2021-10-19 11:48:40] Stopping [REN]PainelCorp
+[2021-10-19 11:48:40] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:48:40] Starting [REN]PainelCorp
+[2021-10-19 11:48:40] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:48:40] Criação database sucess
+[2021-10-19 11:48:40] [REN]PainelCorp restarted successfully
+[2021-10-19 11:48:46] INFO: Criação database sucess
+[2021-10-19 11:51:19] restart: Requested by Console
+[2021-10-19 11:51:19] restart: Resource restarting...
+[2021-10-19 11:51:19] Stopping [REN]PainelCorp
+[2021-10-19 11:51:19] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:51:19] Starting [REN]PainelCorp
+[2021-10-19 11:51:19] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:51:19] INFO: Criação database sucess
+[2021-10-19 11:51:19] Criação database sucess
+[2021-10-19 11:51:19] [REN]PainelCorp restarted successfully
+[2021-10-19 11:52:03] restart: Requested by Console
+[2021-10-19 11:52:03] restart: Resource restarting...
+[2021-10-19 11:52:03] Stopping [REN]PainelCorp
+[2021-10-19 11:52:03] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:52:03] Starting [REN]PainelCorp
+[2021-10-19 11:52:03] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:52:03] INFO: Criação database sucess
+[2021-10-19 11:52:03] Criação database sucess
+[2021-10-19 11:52:03] [REN]PainelCorp restarted successfully
+[2021-10-19 11:52:21] restart: Requested by Console
+[2021-10-19 11:52:21] restart: Resource restarting...
+[2021-10-19 11:52:21] Stopping [REN]PainelCorp
+[2021-10-19 11:52:21] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:52:21] Starting [REN]PainelCorp
+[2021-10-19 11:52:21] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:52:21] Criação database sucess
+[2021-10-19 11:52:21] [REN]PainelCorp restarted successfully
+[2021-10-19 11:52:27] INFO: Criação database sucess
+[2021-10-19 11:52:59] restart: Requested by Console
+[2021-10-19 11:52:59] restart: Resource restarting...
+[2021-10-19 11:52:59] Stopping [REN]PainelCorp
+[2021-10-19 11:52:59] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:52:59] Starting [REN]PainelCorp
+[2021-10-19 11:52:59] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:52:59] INFO: Criação database sucess
+[2021-10-19 11:52:59] Criação database sucess
+[2021-10-19 11:52:59] [REN]PainelCorp restarted successfully
+[2021-10-19 11:53:20] restart: Requested by Console
+[2021-10-19 11:53:20] restart: Resource restarting...
+[2021-10-19 11:53:20] Stopping [REN]PainelCorp
+[2021-10-19 11:53:20] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:53:20] Starting [REN]PainelCorp
+[2021-10-19 11:53:20] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:53:20] INFO: Criação database sucess
+[2021-10-19 11:53:20] Criação database sucess
+[2021-10-19 11:53:20] [REN]PainelCorp restarted successfully
+[2021-10-19 11:53:44] restart: Requested by Console
+[2021-10-19 11:53:44] restart: Resource restarting...
+[2021-10-19 11:53:44] Stopping [REN]PainelCorp
+[2021-10-19 11:53:44] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:53:44] Starting [REN]PainelCorp
+[2021-10-19 11:53:45] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:53:45] Criação database sucess
+[2021-10-19 11:53:45] [REN]PainelCorp restarted successfully
+[2021-10-19 11:53:51] INFO: Criação database sucess
+[2021-10-19 11:54:16] restart: Requested by Console
+[2021-10-19 11:54:16] restart: Resource restarting...
+[2021-10-19 11:54:16] Stopping [REN]PainelCorp
+[2021-10-19 11:54:16] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:54:16] Starting [REN]PainelCorp
+[2021-10-19 11:54:16] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:54:16] INFO: Criação database sucess
+[2021-10-19 11:54:16] Criação database sucess
+[2021-10-19 11:54:16] [REN]PainelCorp restarted successfully
+[2021-10-19 11:54:32] restart: Requested by Console
+[2021-10-19 11:54:32] restart: Resource restarting...
+[2021-10-19 11:54:32] Stopping [REN]PainelCorp
+[2021-10-19 11:54:33] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:54:33] Starting [REN]PainelCorp
+[2021-10-19 11:54:33] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:54:33] INFO: Criação database sucess
+[2021-10-19 11:54:33] Criação database sucess
+[2021-10-19 11:54:33] [REN]PainelCorp restarted successfully
+[2021-10-19 11:55:06] stop: Requested by Console
+[2021-10-19 11:55:06] stop: Resource stopping
+[2021-10-19 11:55:06] Stopping [REN]PainelCorp
+[2021-10-19 11:55:27] start: Requested by Console
+[2021-10-19 11:55:27] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:55:27] Starting [REN]PainelCorp
+[2021-10-19 11:55:27] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:55:27] Criação database sucess
+[2021-10-19 11:55:27] start: Resource '[REN]PainelcORP' started
+[2021-10-19 11:55:33] INFO: Criação database sucess
+[2021-10-19 11:56:19] restart: Requested by Console
+[2021-10-19 11:56:19] restart: Resource restarting...
+[2021-10-19 11:56:19] Stopping [REN]PainelCorp
+[2021-10-19 11:56:19] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:56:19] Starting [REN]PainelCorp
+[2021-10-19 11:56:19] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:56:19] INFO: Criação database sucess
+[2021-10-19 11:56:19] Criação database sucess
+[2021-10-19 11:56:19] [REN]PainelCorp restarted successfully
+[2021-10-19 11:57:00] restart: Requested by Console
+[2021-10-19 11:57:00] restart: Resource restarting...
+[2021-10-19 11:57:00] Stopping [REN]PainelCorp
+[2021-10-19 11:57:00] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:57:00] Starting [REN]PainelCorp
+[2021-10-19 11:57:00] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:57:00] INFO: Criação database sucess
+[2021-10-19 11:57:00] Criação database sucess
+[2021-10-19 11:57:00] [REN]PainelCorp restarted successfully
+[2021-10-19 11:57:21] restart: Requested by Console
+[2021-10-19 11:57:21] restart: Resource restarting...
+[2021-10-19 11:57:21] Stopping [REN]PainelCorp
+[2021-10-19 11:57:21] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:57:21] Starting [REN]PainelCorp
+[2021-10-19 11:57:21] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:57:21] Criação database sucess
+[2021-10-19 11:57:21] [REN]PainelCorp restarted successfully
+[2021-10-19 11:57:27] INFO: Criação database sucess
+[2021-10-19 11:57:33] restart: Requested by Console
+[2021-10-19 11:57:33] restart: Resource restarting...
+[2021-10-19 11:57:33] Stopping [REN]PainelCorp
+[2021-10-19 11:57:33] Starting [REN]PainelCorp
+[2021-10-19 11:57:33] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:57:33] INFO: Criação database sucess
+[2021-10-19 11:57:33] Criação database sucess
+[2021-10-19 11:57:33] [REN]PainelCorp restarted successfully
+[2021-10-19 11:59:11] restart: Requested by Console
+[2021-10-19 11:59:11] restart: Resource restarting...
+[2021-10-19 11:59:11] Stopping [REN]PainelCorp
+[2021-10-19 11:59:11] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:59:11] Starting [REN]PainelCorp
+[2021-10-19 11:59:11] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:59:11] INFO: Criação database sucess
+[2021-10-19 11:59:11] Criação database sucess
+[2021-10-19 11:59:11] [REN]PainelCorp restarted successfully
+[2021-10-19 11:59:31] restart: Requested by Console
+[2021-10-19 11:59:31] restart: Resource restarting...
+[2021-10-19 11:59:31] Stopping [REN]PainelCorp
+[2021-10-19 11:59:31] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:59:31] Starting [REN]PainelCorp
+[2021-10-19 11:59:31] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:59:31] Criação database sucess
+[2021-10-19 11:59:31] [REN]PainelCorp restarted successfully
+[2021-10-19 11:59:37] INFO: Criação database sucess
+[2021-10-19 11:59:55] restart: Requested by Console
+[2021-10-19 11:59:55] restart: Resource restarting...
+[2021-10-19 11:59:55] Stopping [REN]PainelCorp
+[2021-10-19 11:59:55] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 11:59:55] Starting [REN]PainelCorp
+[2021-10-19 11:59:55] INFO: resource foi iniciado com sucesso
+[2021-10-19 11:59:55] INFO: Criação database sucess
+[2021-10-19 11:59:55] Criação database sucess
+[2021-10-19 11:59:55] [REN]PainelCorp restarted successfully
+[2021-10-19 12:00:06] restart: Requested by Console
+[2021-10-19 12:00:06] restart: Resource restarting...
+[2021-10-19 12:00:06] Stopping [REN]PainelCorp
+[2021-10-19 12:00:06] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:00:06] Starting [REN]PainelCorp
+[2021-10-19 12:00:06] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:00:06] INFO: Criação database sucess
+[2021-10-19 12:00:06] Criação database sucess
+[2021-10-19 12:00:06] [REN]PainelCorp restarted successfully
+[2021-10-19 12:00:18] restart: Requested by Console
+[2021-10-19 12:00:18] restart: Resource restarting...
+[2021-10-19 12:00:18] Stopping [REN]PainelCorp
+[2021-10-19 12:00:19] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:00:19] Starting [REN]PainelCorp
+[2021-10-19 12:00:19] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:00:19] Criação database sucess
+[2021-10-19 12:00:19] [REN]PainelCorp restarted successfully
+[2021-10-19 12:00:25] INFO: Criação database sucess
+[2021-10-19 12:00:40] restart: Requested by Console
+[2021-10-19 12:00:40] restart: Resource restarting...
+[2021-10-19 12:00:40] Stopping [REN]PainelCorp
+[2021-10-19 12:00:40] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:00:40] Starting [REN]PainelCorp
+[2021-10-19 12:00:40] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:00:40] INFO: Criação database sucess
+[2021-10-19 12:00:40] Criação database sucess
+[2021-10-19 12:00:40] [REN]PainelCorp restarted successfully
+[2021-10-19 12:01:57] restart: Requested by Console
+[2021-10-19 12:01:57] restart: Resource restarting...
+[2021-10-19 12:01:57] Stopping [REN]PainelCorp
+[2021-10-19 12:01:57] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:01:57] Starting [REN]PainelCorp
+[2021-10-19 12:01:57] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:01:57] INFO: Criação database sucess
+[2021-10-19 12:01:57] Criação database sucess
+[2021-10-19 12:01:57] [REN]PainelCorp restarted successfully
+[2021-10-19 12:03:31] restart: Requested by Console
+[2021-10-19 12:03:31] restart: Resource restarting...
+[2021-10-19 12:03:31] Stopping [REN]PainelCorp
+[2021-10-19 12:03:31] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:03:31] Starting [REN]PainelCorp
+[2021-10-19 12:03:31] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:03:31] Criação database sucess
+[2021-10-19 12:03:31] [REN]PainelCorp restarted successfully
+[2021-10-19 12:03:37] INFO: Criação database sucess
+[2021-10-19 12:04:16] restart: Requested by Console
+[2021-10-19 12:04:16] restart: Resource restarting...
+[2021-10-19 12:04:16] Stopping [REN]PainelCorp
+[2021-10-19 12:04:16] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:04:16] Starting [REN]PainelCorp
+[2021-10-19 12:04:16] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:04:16] INFO: Criação database sucess
+[2021-10-19 12:04:16] Criação database sucess
+[2021-10-19 12:04:17] [REN]PainelCorp restarted successfully
+[2021-10-19 12:04:37] restart: Requested by Console
+[2021-10-19 12:04:37] restart: Resource restarting...
+[2021-10-19 12:04:37] Stopping [REN]PainelCorp
+[2021-10-19 12:04:37] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:04:37] Starting [REN]PainelCorp
+[2021-10-19 12:04:37] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:04:37] INFO: Criação database sucess
+[2021-10-19 12:04:37] Criação database sucess
+[2021-10-19 12:04:37] [REN]PainelCorp restarted successfully
+[2021-10-19 12:05:05] restart: Requested by Console
+[2021-10-19 12:05:05] restart: Resource restarting...
+[2021-10-19 12:05:05] Stopping [REN]PainelCorp
+[2021-10-19 12:05:06] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:05:06] Starting [REN]PainelCorp
+[2021-10-19 12:05:06] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:05:06] Criação database sucess
+[2021-10-19 12:05:06] [REN]PainelCorp restarted successfully
+[2021-10-19 12:05:12] INFO: Criação database sucess
+[2021-10-19 12:05:20] restart: Requested by Console
+[2021-10-19 12:05:20] restart: Resource restarting...
+[2021-10-19 12:05:20] Stopping [REN]PainelCorp
+[2021-10-19 12:05:20] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:05:20] Starting [REN]PainelCorp
+[2021-10-19 12:05:20] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:05:20] INFO: Criação database sucess
+[2021-10-19 12:05:20] Criação database sucess
+[2021-10-19 12:05:20] [REN]PainelCorp restarted successfully
+[2021-10-19 12:05:53] restart: Requested by Console
+[2021-10-19 12:05:53] restart: Resource restarting...
+[2021-10-19 12:05:53] Stopping [REN]PainelCorp
+[2021-10-19 12:05:53] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:05:53] Starting [REN]PainelCorp
+[2021-10-19 12:05:53] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:05:53] INFO: Criação database sucess
+[2021-10-19 12:05:53] Criação database sucess
+[2021-10-19 12:05:53] [REN]PainelCorp restarted successfully
+[2021-10-19 12:06:07] restart: Requested by Console
+[2021-10-19 12:06:07] restart: Resource restarting...
+[2021-10-19 12:06:07] Stopping [REN]PainelCorp
+[2021-10-19 12:06:07] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:06:07] Starting [REN]PainelCorp
+[2021-10-19 12:06:07] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:06:07] Criação database sucess
+[2021-10-19 12:06:07] [REN]PainelCorp restarted successfully
+[2021-10-19 12:06:13] INFO: Criação database sucess
+[2021-10-19 12:06:18] restart: Requested by Console
+[2021-10-19 12:06:18] restart: Resource restarting...
+[2021-10-19 12:06:18] Stopping [REN]PainelCorp
+[2021-10-19 12:06:18] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:06:18] Starting [REN]PainelCorp
+[2021-10-19 12:06:18] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:06:18] INFO: Criação database sucess
+[2021-10-19 12:06:18] Criação database sucess
+[2021-10-19 12:06:18] [REN]PainelCorp restarted successfully
+[2021-10-19 12:06:53] restart: Requested by Console
+[2021-10-19 12:06:53] restart: Resource restarting...
+[2021-10-19 12:06:53] Stopping [REN]PainelCorp
+[2021-10-19 12:06:53] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:06:53] Starting [REN]PainelCorp
+[2021-10-19 12:06:53] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:06:53] INFO: Criação database sucess
+[2021-10-19 12:06:53] Criação database sucess
+[2021-10-19 12:06:53] [REN]PainelCorp restarted successfully
+[2021-10-19 12:07:14] restart: Requested by Console
+[2021-10-19 12:07:14] restart: Resource restarting...
+[2021-10-19 12:07:14] Stopping [REN]PainelCorp
+[2021-10-19 12:07:14] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:07:14] Starting [REN]PainelCorp
+[2021-10-19 12:07:14] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:07:14] Criação database sucess
+[2021-10-19 12:07:14] [REN]PainelCorp restarted successfully
+[2021-10-19 12:07:20] INFO: Criação database sucess
+[2021-10-19 12:07:55] restart: Requested by Console
+[2021-10-19 12:07:55] restart: Resource restarting...
+[2021-10-19 12:07:55] Stopping [REN]PainelCorp
+[2021-10-19 12:07:55] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:07:55] Starting [REN]PainelCorp
+[2021-10-19 12:07:55] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:07:55] INFO: Criação database sucess
+[2021-10-19 12:07:55] Criação database sucess
+[2021-10-19 12:07:55] [REN]PainelCorp restarted successfully
+[2021-10-19 12:08:09] restart: Requested by Console
+[2021-10-19 12:08:09] restart: Resource restarting...
+[2021-10-19 12:08:09] Stopping [REN]PainelCorp
+[2021-10-19 12:08:09] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:08:09] Starting [REN]PainelCorp
+[2021-10-19 12:08:09] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:08:09] INFO: Criação database sucess
+[2021-10-19 12:08:09] Criação database sucess
+[2021-10-19 12:08:09] [REN]PainelCorp restarted successfully
+[2021-10-19 12:08:27] restart: Requested by Console
+[2021-10-19 12:08:27] restart: Resource restarting...
+[2021-10-19 12:08:27] Stopping [REN]PainelCorp
+[2021-10-19 12:08:27] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:08:27] Starting [REN]PainelCorp
+[2021-10-19 12:08:27] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:08:27] Criação database sucess
+[2021-10-19 12:08:27] [REN]PainelCorp restarted successfully
+[2021-10-19 12:08:33] INFO: Criação database sucess
+[2021-10-19 12:08:56] restart: Requested by Console
+[2021-10-19 12:08:56] restart: Resource restarting...
+[2021-10-19 12:08:56] Stopping [REN]PainelCorp
+[2021-10-19 12:08:56] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:08:56] Starting [REN]PainelCorp
+[2021-10-19 12:08:56] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:08:56] INFO: Criação database sucess
+[2021-10-19 12:08:56] Criação database sucess
+[2021-10-19 12:08:56] [REN]PainelCorp restarted successfully
+[2021-10-19 12:09:33] restart: Requested by Console
+[2021-10-19 12:09:33] restart: Resource restarting...
+[2021-10-19 12:09:33] Stopping [REN]PainelCorp
+[2021-10-19 12:09:33] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:09:33] Starting [REN]PainelCorp
+[2021-10-19 12:09:33] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:09:33] INFO: Criação database sucess
+[2021-10-19 12:09:33] Criação database sucess
+[2021-10-19 12:09:33] [REN]PainelCorp restarted successfully
+[2021-10-19 12:10:13] restart: Requested by Console
+[2021-10-19 12:10:13] restart: Resource restarting...
+[2021-10-19 12:10:13] Stopping [REN]PainelCorp
+[2021-10-19 12:10:13] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:10:13] Starting [REN]PainelCorp
+[2021-10-19 12:10:13] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:10:13] Criação database sucess
+[2021-10-19 12:10:13] [REN]PainelCorp restarted successfully
+[2021-10-19 12:10:19] INFO: Criação database sucess
+[2021-10-19 12:10:54] restart: Requested by Console
+[2021-10-19 12:10:54] restart: Resource restarting...
+[2021-10-19 12:10:54] Stopping [REN]PainelCorp
+[2021-10-19 12:10:54] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:10:54] Starting [REN]PainelCorp
+[2021-10-19 12:10:54] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:10:54] INFO: Criação database sucess
+[2021-10-19 12:10:54] Criação database sucess
+[2021-10-19 12:10:54] [REN]PainelCorp restarted successfully
+[2021-10-19 12:11:11] restart: Requested by Console
+[2021-10-19 12:11:11] restart: Resource restarting...
+[2021-10-19 12:11:11] Stopping [REN]PainelCorp
+[2021-10-19 12:11:11] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:11:11] Starting [REN]PainelCorp
+[2021-10-19 12:11:11] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:11:11] INFO: Criação database sucess
+[2021-10-19 12:11:11] Criação database sucess
+[2021-10-19 12:11:11] [REN]PainelCorp restarted successfully
+[2021-10-19 12:11:28] restart: Requested by Console
+[2021-10-19 12:11:28] restart: Resource restarting...
+[2021-10-19 12:11:28] Stopping [REN]PainelCorp
+[2021-10-19 12:11:28] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:11:28] Starting [REN]PainelCorp
+[2021-10-19 12:11:28] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:11:28] Criação database sucess
+[2021-10-19 12:11:28] [REN]PainelCorp restarted successfully
+[2021-10-19 12:11:34] INFO: Criação database sucess
+[2021-10-19 12:11:47] restart: Requested by Console
+[2021-10-19 12:11:47] restart: Resource restarting...
+[2021-10-19 12:11:47] Stopping [REN]PainelCorp
+[2021-10-19 12:11:47] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:11:47] Starting [REN]PainelCorp
+[2021-10-19 12:11:47] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:11:47] INFO: Criação database sucess
+[2021-10-19 12:11:47] Criação database sucess
+[2021-10-19 12:11:47] [REN]PainelCorp restarted successfully
+[2021-10-19 12:12:06] restart: Requested by Console
+[2021-10-19 12:12:06] restart: Resource restarting...
+[2021-10-19 12:12:06] Stopping [REN]PainelCorp
+[2021-10-19 12:12:06] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:12:06] Starting [REN]PainelCorp
+[2021-10-19 12:12:06] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:12:06] INFO: Criação database sucess
+[2021-10-19 12:12:06] Criação database sucess
+[2021-10-19 12:12:06] [REN]PainelCorp restarted successfully
+[2021-10-19 12:12:57] restart: Requested by Console
+[2021-10-19 12:12:57] restart: Resource restarting...
+[2021-10-19 12:12:57] Stopping [REN]PainelCorp
+[2021-10-19 12:12:57] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:12:57] Starting [REN]PainelCorp
+[2021-10-19 12:12:57] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:12:57] Criação database sucess
+[2021-10-19 12:12:57] [REN]PainelCorp restarted successfully
+[2021-10-19 12:13:03] INFO: Criação database sucess
+[2021-10-19 12:23:30] restart: Requested by Console
+[2021-10-19 12:23:30] restart: Resource restarting...
+[2021-10-19 12:23:30] Stopping [REN]PainelCorp
+[2021-10-19 12:23:30] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:23:30] Starting [REN]PainelCorp
+[2021-10-19 12:23:30] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:23:30] INFO: Criação database sucess
+[2021-10-19 12:23:30] Criação database sucess
+[2021-10-19 12:23:30] [REN]PainelCorp restarted successfully
+[2021-10-19 12:23:48] restart: Requested by Console
+[2021-10-19 12:23:48] restart: Resource restarting...
+[2021-10-19 12:23:48] Stopping [REN]PainelCorp
+[2021-10-19 12:23:48] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:23:48] Starting [REN]PainelCorp
+[2021-10-19 12:23:48] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:23:48] INFO: Criação database sucess
+[2021-10-19 12:23:48] Criação database sucess
+[2021-10-19 12:23:48] [REN]PainelCorp restarted successfully
+[2021-10-19 12:24:09] restart: Requested by Console
+[2021-10-19 12:24:09] restart: Resource restarting...
+[2021-10-19 12:24:09] Stopping [REN]PainelCorp
+[2021-10-19 12:24:09] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:24:09] Starting [REN]PainelCorp
+[2021-10-19 12:24:09] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:24:09] Criação database sucess
+[2021-10-19 12:24:09] [REN]PainelCorp restarted successfully
+[2021-10-19 12:24:15] INFO: Criação database sucess
+[2021-10-19 12:24:33] restart: Requested by Console
+[2021-10-19 12:24:33] restart: Resource restarting...
+[2021-10-19 12:24:33] Stopping [REN]PainelCorp
+[2021-10-19 12:24:33] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:24:33] Starting [REN]PainelCorp
+[2021-10-19 12:24:33] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:24:33] INFO: Criação database sucess
+[2021-10-19 12:24:33] Criação database sucess
+[2021-10-19 12:24:33] [REN]PainelCorp restarted successfully
+[2021-10-19 12:25:15] restart: Requested by Console
+[2021-10-19 12:25:15] restart: Resource restarting...
+[2021-10-19 12:25:15] Stopping [REN]PainelCorp
+[2021-10-19 12:25:15] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:25:15] Starting [REN]PainelCorp
+[2021-10-19 12:25:15] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:25:15] INFO: Criação database sucess
+[2021-10-19 12:25:15] Criação database sucess
+[2021-10-19 12:25:15] [REN]PainelCorp restarted successfully
+[2021-10-19 12:27:31] restart: Requested by Console
+[2021-10-19 12:27:31] restart: Resource restarting...
+[2021-10-19 12:27:31] Stopping [REN]PainelCorp
+[2021-10-19 12:27:31] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:27:31] Starting [REN]PainelCorp
+[2021-10-19 12:27:31] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:27:31] Criação database sucess
+[2021-10-19 12:27:31] [REN]PainelCorp restarted successfully
+[2021-10-19 12:27:37] INFO: Criação database sucess
+[2021-10-19 12:28:32] restart: Requested by Console
+[2021-10-19 12:28:32] restart: Resource restarting...
+[2021-10-19 12:28:32] Stopping [REN]PainelCorp
+[2021-10-19 12:28:32] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:28:32] Starting [REN]PainelCorp
+[2021-10-19 12:28:32] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:28:32] INFO: Criação database sucess
+[2021-10-19 12:28:32] Criação database sucess
+[2021-10-19 12:28:32] [REN]PainelCorp restarted successfully
+[2021-10-19 12:28:51] restart: Requested by Console
+[2021-10-19 12:28:51] restart: Resource restarting...
+[2021-10-19 12:28:51] Stopping [REN]PainelCorp
+[2021-10-19 12:28:51] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 12:28:51] Starting [REN]PainelCorp
+[2021-10-19 12:28:51] INFO: resource foi iniciado com sucesso
+[2021-10-19 12:28:51] INFO: Criação database sucess
+[2021-10-19 12:28:51] Criação database sucess
+[2021-10-19 12:28:51] [REN]PainelCorp restarted successfully
+[2021-10-19 12:33:47] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:84: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]
+[2021-10-19 12:33:47] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:121: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2021-10-19 12:33:47] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:122: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got boolean]
+[2021-10-19 12:33:53] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:84: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]  [DUP x2]
+[2021-10-19 12:33:53] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:121: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]  [DUP x2]
+[2021-10-19 12:33:53] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:122: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got boolean]  [DUP x2]
+[2021-10-19 13:26:48] Resource '[REN]Celular' changed, reloading
+[2021-10-19 13:26:48] ERROR: Couldn't find script GoiabaG.lua for resource [REN]Celular
+[2021-10-19 13:26:48] Loading of resource '[REN]Celular' failed
+[2021-10-19 13:26:48] New resource '[REN]URUS' loaded
+[2021-10-19 13:26:48] ERROR: Problem with resource: [REN]Celular; Couldn't find script GoiabaG.lua for resource [REN]Celular
+[2021-10-19 13:26:48] Resources: 202 loaded, 1 failed
+[2021-10-19 13:27:02] start: Requested by Console
+[2021-10-19 13:27:03] Starting [REN]URUS
+[2021-10-19 13:27:03] start: Resource '[REN]URUS' started
+[2021-10-19 13:27:39] start: Requested by Console
+[2021-10-19 13:27:39] start: Resource is already running
+[2021-10-19 13:29:13] ADMIN: EB|09-B|3SGT.Renan has changed time to 12:00
+[2021-10-19 13:32:55] WARNING: admin\server\admin_server.lua:1263: Failed to start resource '[REN]Celular': Couldn't find script GoiabaG.lua for resource [REN]Celular
+[2021-10-19 13:33:01] WARNING: admin\server\admin_server.lua:1263: Failed to start resource '[REN]Celular': Couldn't find script GoiabaG.lua for resource [REN]Celular
+[2021-10-19 13:33:56] Resource '[REN]Celular' changed, reloading
+[2021-10-19 13:33:57] New resource '[REN]Celular' loaded
+[2021-10-19 13:33:57] Resources: 203 loaded, 0 failed
+[2021-10-19 13:34:16] start: Requested by Console
+[2021-10-19 13:34:16] Starting [REN]Celular
+[2021-10-19 13:34:16] start: Resource '[REN]Celular' started
+[2021-10-19 13:35:42] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 13:35:48] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 13:36:01] ERROR: Client (EB|09-B|3SGT.Renan) triggered serverside event Renan.setAnimationPhone, but event is not added serverside
+[2021-10-19 13:38:12] start: Resource could not be found
+[2021-10-19 13:39:11] New resource '[REN]MAP-EB' loaded
+[2021-10-19 13:39:11] New resource '[REN]MODEL-EB' loaded
+[2021-10-19 13:39:12] Resources: 205 loaded, 0 failed
+[2021-10-19 13:39:21] start: Requested by Console
+[2021-10-19 13:39:21] Starting [REN]MAP-EB
+[2021-10-19 13:39:22] start: Resource '[REN]MAP-EB' started
+[2021-10-19 13:39:32] start: Requested by Console
+[2021-10-19 13:39:32] WARNING: File 'eb.dff' in resource '[REN]MODEL-EB' contains errors.
+[2021-10-19 13:39:32] Starting [REN]MODEL-EB
+[2021-10-19 13:39:32] start: Resource '[REN]MODEL-EB' started
+[2021-10-19 13:40:40] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LS'" 
+[2021-10-19 13:41:59] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LS'" 
+[2021-10-19 13:42:16] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LS'" 
+[2021-10-19 13:42:36] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LS'" 
+[2021-10-19 13:42:59] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LV'" 
+[2021-10-19 13:43:20] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LV'" 
+[2021-10-19 13:44:07] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LV'" 
+[2021-10-19 13:44:17] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LV'" 
+[2021-10-19 13:44:32] ADMIN: EB|09-B|3SGT.Renan has given EB|09-B|3SGT.Renan a 'Police LV'" 
+[2021-10-19 13:46:30] ADMIN: Resource '[BGR]Armas' restarted by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 13:46:30] Stopping [BGR]Armas
+[2021-10-19 13:46:31] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-19 13:46:31] Starting [BGR]Armas
+[2021-10-19 13:46:31] [BGR]Armas restarted successfully
+[2021-10-19 13:47:44] ADMIN: EB|09-B|3SGT.Renan has changed time to 00:00
+[2021-10-19 13:48:55] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 13:49:03] WARNING: [gameplay]\[REN]Celular\GoiabaS.lua:713: Access denied @ 'fetchRemote'
+[2021-10-19 13:49:09] ERROR: [gameplay]\[REN]Celular\GoiabaS.lua:257: exports: Call to non-running server resource (bone_attach) [string "?"]
+[2021-10-19 13:49:12] ERROR: Client (EB|09-B|3SGT.Renan) triggered serverside event Renan.setAnimationPhone, but event is not added serverside
+[2021-10-19 13:50:15] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-19 13:52:57] Server stopped!
+[2021-10-19 13:52:57] Stopping resources....................................
+[2021-10-19 13:52:59] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-19 14:34:27] Resources: 205 loaded, 0 failed
+[2021-10-19 14:34:27] Starting resources...
+[2021-10-19 14:34:27] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-19 14:34:27] Gamemode 'play' started.
+[2021-10-19 14:34:27] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-19 14:34:27] WARNING: <owner_email_address> not set
+[2021-10-19 14:34:27] Server started and is ready to accept connections!
+[2021-10-19 14:34:27] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-19 14:34:27] Type 'help' for a list of commands.
+[2021-10-19 14:34:27] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-19 14:35:27] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-19 14:35:28] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-19 14:36:04] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|3SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 14:37:23] Starting [REN]G63
+[2021-10-19 14:37:23] startResource: Resource '[REN]G63' started
+[2021-10-19 14:37:23] ADMIN: Resource '[REN]G63' started by EB|09-B|3SGT.Renan(Lucas)
+[2021-10-19 14:38:54] ADMIN: EB|09-B|3SGT.Renan has changed time to 00:00
+[2021-10-19 14:43:19] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-19 14:44:12] CONNECT: EB|09-B|3SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21005.0)
+[2021-10-19 14:44:13] JOIN: EB|09-B|3SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-19 14:44:41] QUIT: EB|09-B|3SGT.Renan left the game [Quit]
+[2021-10-19 14:44:44] Server stopped!
+[2021-10-19 14:44:44] Stopping resources........................
+[2021-10-19 14:44:44] Closing SQLite3 database

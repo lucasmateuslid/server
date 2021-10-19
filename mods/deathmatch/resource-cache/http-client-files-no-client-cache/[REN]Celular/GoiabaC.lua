@@ -8,8 +8,8 @@ maxLinhas2 = 5
 proximaPagina2 = 0
 maxLinhas2 = 7
 
-local infoswpp = {} 
-local personswpp = {} 
+local infoswpp = {}
+local personswpp = {}
 local indexapp = {}
 
 icons = {       -- trigger para para triggar event, window para mudar de janela
@@ -21,7 +21,7 @@ icons = {       -- trigger para para triggar event, window para mudar de janela
     {'Contatos', 'Files/Imagens/icons/contatos.png', 'window'                       , download = false},
     {'GPS', 'Files/Imagens/icons/gps.png', 'window'                                 , download = false},
     {'Spotify', 'Files/Imagens/icons/spotify.png', 'window'                         , download = true},
- 
+
     {'Telefone', 'Files/Imagens/icons/chamada.png', 'window'                        , download = false},
     {'Whatsapp', 'Files/Imagens/icons/whatsapp.png', 'window'                       , download = true},
     {'Banco', 'Files/Imagens/icons/banco.png', 'window'                             , download = true},
@@ -121,7 +121,7 @@ setTimer(function()
             {x * 1094, y * 548, x * 1324, y * 598, 'texto', 'Passaporte: ${passaporte}', 1, font[1], 'center', tocolor(255, 255, 255, alpha)},
         },
 
-        ['GPS'] = { 
+        ['GPS'] = {
             {x * 1095.91, y * 236, x * 228.51, y * 495.11, 'imagem', 'Files/Imagens/interface.png', tocolor(41, 41, 41, alpha)},
             {x * 1102, y * 257, x * 1162, y * 281, 'texto', 'Voltar', 1, 'default-bold', 'center', tocolor(255, 255, 255, alpha)},
             {x * 1132, y * 396, x * 153, y * 26, 'rectangle-border', tocolor(65, 65, 65, alpha)},
@@ -130,9 +130,9 @@ setTimer(function()
             {x * 1160, y * 473, x * 1262, y * 505, 'texto', 'Enviar', 1, font[1], 'center', tocolor(255, 255, 255, alpha)},
             {x * 1095, y * 295, x * 1324, y * 347, 'texto', 'GPS', 1, font[2], 'center', tocolor(255, 255, 255, alpha)},
             {x * 1130, y * 394, x * 1286, y * 423, 'editbox', 1, 1, font[1], 'right', tocolor(255, 255, 255, alpha)},
-        }, 
+        },
 
-        ['Banco'] = { 
+        ['Banco'] = {
             {x * 1096, y * 236, x * 228.51, y * 495.11, 'imagem', 'Files/Imagens/interface.png', tocolor(41, 41, 41, alpha)},
             {x * 1102, y * 257, x * 1162, y * 281, 'texto', 'Voltar', 1, 'default-bold', 'center', tocolor(255, 255, 255, alpha)},
             {x * 1132, y * 396, x * 153, y * 26, 'rectangle-border', tocolor(65, 65, 65, alpha)},
@@ -146,7 +146,7 @@ setTimer(function()
             {x * 1130, y * 427, x * 1286, y * 454, 'editbox', 2, 1, font[1], 'right', tocolor(255, 255, 255, alpha)},
         },
 
-        ['Recarga'] = { 
+        ['Recarga'] = {
             {x * 1096, y * 236, x * 228.51, y * 495.11, 'imagem', 'Files/Imagens/interface.png', tocolor(41, 41, 41, alpha)},
             {x * 1102, y * 257, x * 1162, y * 281, 'texto', 'Voltar', 1, 'default-bold', 'center', tocolor(255, 255, 255, alpha)},
             {x * 1132, y * 365, x * 153, y * 26, 'rectangle-border', tocolor(65, 65, 65, alpha)},
@@ -200,7 +200,7 @@ setTimer(function()
             {x * 1190, y * 638, x * 50, y * 50, 'circle', tocolor(252, 61, 61, alpha), false},
             {x * 1094, y * 476, x * 1326, y * 509, 'texto', 'Chamando...', 1, font[1], 'center', tocolor(255, 255, 255, alpha)},
             {x * 1202, y * 650, x * 25, y * 25, 'imagem', 'Files/Imagens/Icons/telefone2.png', tocolor(255, 255, 255, alpha)},
-        }, 
+        },
 
         ['Recebendo'] = {
             {x * 1096, y * 236, x * 228.51, y * 495.11, 'imagem', 'Files/Imagens/interface.png', tocolor(41, 41, 41, alpha)},
@@ -320,11 +320,11 @@ posTextConversas = {
 }
 
 posAvatarConversas = {
-    {y * 365 + 5}, 
-    {y * 415 + 5}, 
+    {y * 365 + 5},
+    {y * 415 + 5},
     {y * 465 + 5},
     {y * 515 + 5},
-    {y * 565 + 5}, 
+    {y * 565 + 5},
     {y * 615 + 5},
     {y * 665 + 5},
 }
@@ -348,29 +348,29 @@ appsdownload = {
     {x * 1099, y * 475, x * 50, y * 50},
     {x * 1099, y * 535, x * 50, y * 50},
     {x * 1099, y * 595, x * 50, y * 50},
-} 
+}
 
 posTextDownload = {
-    {x * 1154, y * 298, x * 1287, y * 340}, 
-    {x * 1154, y * 356, x * 1287, y * 398}, 
-    {x * 1154, y * 418, x * 1287, y * 460}, 
-    {x * 1154, y * 478, x * 1287, y * 520}, 
-    {x * 1154, y * 538, x * 1287, y * 580}, 
-    {x * 1154, y * 600, x * 1287, y * 642}, 
+    {x * 1154, y * 298, x * 1287, y * 340},
+    {x * 1154, y * 356, x * 1287, y * 398},
+    {x * 1154, y * 418, x * 1287, y * 460},
+    {x * 1154, y * 478, x * 1287, y * 520},
+    {x * 1154, y * 538, x * 1287, y * 580},
+    {x * 1154, y * 600, x * 1287, y * 642},
 }
 
 posIconDownload = {
-    {x * 1296, y * 312, x * 27, y * 28}, 
-    {x * 1296, y * 370, x * 27, y * 28}, 
-    {x * 1296, y * 428, x * 27, y * 28}, 
-    {x * 1296, y * 486, x * 27, y * 28}, 
-    {x * 1296, y * 544, x * 27, y * 28}, 
-    {x * 1296, y * 602, x * 27, y * 28}, 
-}   
+    {x * 1296, y * 312, x * 27, y * 28},
+    {x * 1296, y * 370, x * 27, y * 28},
+    {x * 1296, y * 428, x * 27, y * 28},
+    {x * 1296, y * 486, x * 27, y * 28},
+    {x * 1296, y * 544, x * 27, y * 28},
+    {x * 1296, y * 602, x * 27, y * 28},
+}
 
 downloads = {
-    {'Whatsapp', 'Files/Imagens/icons/whatsapp.png'}, 
-    {'Spotify', 'Files/Imagens/icons/spotify.png'}, 
+    {'Whatsapp', 'Files/Imagens/icons/whatsapp.png'},
+    {'Spotify', 'Files/Imagens/icons/spotify.png'},
     {'Banco', 'Files/Imagens/icons/banco.png'},
     {'Recarga', 'Files/Imagens/icons/Recarga.png'},
     {'Tinder', 'Files/Imagens/icons/Tinder.png'},
@@ -381,9 +381,9 @@ maxLinhas3 = 7
 
 indexPag = 0
 
--- tinder 
+-- tinder
 local posBarrasConversasTinder = {
-    {y * 378}, 
+    {y * 378},
     {y * 424},
     {y * 470},
     {y * 516},
@@ -403,7 +403,7 @@ local posTextosConversasTinder = {
 }
 
 local posAvataresConversasTinder = {
-    {y * 381}, 
+    {y * 381},
     {y * 427},
     {y * 473},
     {y * 519},
@@ -431,27 +431,27 @@ posMsgsRecebidasTinder = {
 
 function dxDraw()
 
-    if (painel == true) then 
+    if (painel == true) then
         alpha = interpolateBetween(0, 0, 0, 255, 0, 0, ((getTickCount() - tick[1]) / 1000), 'Linear')
-    else 
+    else
         alpha = interpolateBetween(255, 0, 0, 0, 0, 0, ((getTickCount() - tick[1]) / 1000), 'Linear')
     end
 
     dxDrawImage(x * 1083, y * 226, x * 254.98, y * 518.35, 'Files/Imagens/Base.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-    
-    if (window == 'Bloqueio') then 
+
+    if (window == 'Bloqueio') then
         dxDrawImage(x * 1094.5, y * 236, x * 230, y * 496, 'Files/Imagens/'..wallpaper..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
         dxDrawImage(x * 1194, y * 669, x * 29.22, y * 33.03, 'Files/Imagens/Icons/Digital.png', 0, 0, 0, (isMouseInPosition(x * 1194, y * 669, x * 29.22, y * 33.03) and tocolor(39, 0, 255, alpha) or tocolor(255, 255, 255, alpha)), false)
     elseif (window == 'inicio') then
         dxDrawImage(x * 1094.5, y * 236, x * 230, y * 496, 'Files/Imagens/'..wallpaper..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
         dxDrawImage(x * 1110, y * 671, x * 200, y * 53, 'Files/Imagens/rodape.png', 0, 0, 0, tocolor(255, 255, 255, (alpha < 180 and alpha or 180)), false)
         for i, v in ipairs(icons) do
-            if selectapp ~= v[1] then 
-                if v.download == true then 
+            if selectapp ~= v[1] then
+                if v.download == true then
                     if baixado[v[1]] == true then
-                        if indexapp[v[1]] then 
+                        if indexapp[v[1]] then
                             if not isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then
-                                dxDrawImage(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false) 
+                                dxDrawImage(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                             else
                                 dxDrawImage(slots[indexapp[v[1]]][1] - 1, slots[indexapp[v[1]]][2] - 1, slots[indexapp[v[1]]][3] + 2, slots[indexapp[v[1]]][4] + 2, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                                 if isCursorShowing() then
@@ -460,9 +460,9 @@ function dxDraw()
                                     dxDrawText(v[1], mx - x*30, my + y*10, x*240, y*30, tocolor(255, 255, 255, 255), 1.00, font[1], 'left', 'top', false, false, false, true, false)
                                 end
                             end
-                        else 
+                        else
                             if not isMouseInPosition(slots[i][1], slots[i][2], slots[i][3], slots[i][4]) then
-                                dxDrawImage(slots[i][1], slots[i][2], slots[i][3], slots[i][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false) 
+                                dxDrawImage(slots[i][1], slots[i][2], slots[i][3], slots[i][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                             else
                                 dxDrawImage(slots[i][1] - 1, slots[i][2] - 1, slots[i][3] + 2, slots[i][4] + 2, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                                 if isCursorShowing() then
@@ -471,12 +471,12 @@ function dxDraw()
                                     dxDrawText(v[1], mx - x*30, my + y*10, x*240, y*30, tocolor(255, 255, 255, 255), 1.00, font[1], 'left', 'top', false, false, false, true, false)
                                 end
                             end
-                        end 
-                    end 
-                else 
-                    if indexapp[v[1]] then 
+                        end
+                    end
+                else
+                    if indexapp[v[1]] then
                         if not isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then
-                            dxDrawImage(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false) 
+                            dxDrawImage(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                         else
                             dxDrawImage(slots[indexapp[v[1]]][1] - 1, slots[indexapp[v[1]]][2] - 1, slots[indexapp[v[1]]][3] + 2, slots[indexapp[v[1]]][4] + 2, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                             if isCursorShowing() then
@@ -485,9 +485,9 @@ function dxDraw()
                                 dxDrawText(v[1], mx - x*30, my + y*10, x*240, y*30, tocolor(255, 255, 255, 255), 1.00, font[1], 'left', 'top', false, false, false, true, false)
                             end
                         end
-                    else 
+                    else
                         if not isMouseInPosition(slots[i][1], slots[i][2], slots[i][3], slots[i][4]) then
-                            dxDrawImage(slots[i][1], slots[i][2], slots[i][3], slots[i][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false) 
+                            dxDrawImage(slots[i][1], slots[i][2], slots[i][3], slots[i][4], v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                         else
                             dxDrawImage(slots[i][1] - 1, slots[i][2] - 1, slots[i][3] + 2, slots[i][4] + 2, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
                             if isCursorShowing() then
@@ -496,12 +496,12 @@ function dxDraw()
                                 dxDrawText(v[1], mx - x*30, my + y*10, x*240, y*30, tocolor(255, 255, 255, 255), 1.00, font[1], 'left', 'top', false, false, false, true, false)
                             end
                         end
-                    end 
+                    end
                 end
             else
                 local cx, cy = getCursorPosition()
                 local mx, my = cx * screen[1], cy * screen[2]
-                dxDrawImage(mx, my, x * 40, y * 40, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false) 
+                dxDrawImage(mx, my, x * 40, y * 40, v[2], 0, 0, 0, tocolor(255, 255, 255, alpha), false)
             end
         end
     elseif (window == 'Spotify') then
@@ -514,7 +514,7 @@ function dxDraw()
             dxDrawImage(x * 1296, y * 324, x * 13, y * 13, 'files/Imagens/icons/search.png', 0, 0, 0, tocolor(255, 255, 255, (isMouseInPosition(x * 1296, y * 324, x * 13, y * 13) and alpha - 80 or alpha)), false)
         end
 
-        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
+        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
 
         linha = 0
         for i, v in ipairs(musicasSearch) do
@@ -532,13 +532,13 @@ function dxDraw()
     elseif (window == 'Conversa Zap') then
         if isElement(conversando) then
             dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(41, 41, 41, alpha), false)
-            dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
+            dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
             dxDrawRectangle(x * 1096, y * 342, x * 230, y * 16, tocolor(65, 65, 65, alpha), false)
-            dxDrawText('Mensagens', x * 1103, y * 341, x * 1284, y * 359, tocolor(130, 130, 130, alpha), 1.00, 'default-bold', 'left', 'center', false, false, false, false, false)  
+            dxDrawText('Mensagens', x * 1103, y * 341, x * 1284, y * 359, tocolor(130, 130, 130, alpha), 1.00, 'default-bold', 'left', 'center', false, false, false, false, false)
             dxDrawImage(x * 1268, y * 284, x * 50, y * 50, ':[BRR]Login/assets//'..(getElementData(conversando, 'Avatar') or 1)..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
             dxDrawText(getPlayerName(conversando), x * 1112, y * 285, x * 1261, y * 310, tocolor(255, 255, 255, alpha), 1.00, font[1], 'right', 'bottom', false, false, true, false, false)
             dxDrawText('Online', x * 1112, y * 310, x * 1261, y * 335, tocolor(255, 255, 255, alpha), 1.00, font[1], 'right', 'top', false, false, true, false, false)
-            
+
             dxDrawRectangle(x * 1122, y * 694, x * 178, y * 26, tocolor(60, 60, 60, alpha), false)
             dxDrawRectangle(x * 1122, y * 720, x * 178, y * 1, (edits[3][2] and tocolor(186, 38, 255, alpha) or tocolor(80, 80, 80, alpha)), false)
             dxDrawText((edits[3][2] and guiGetText(edits[3][1])..'|' or (guiGetText(edits[3][1]) == '' and 'Mensagem' or guiGetText(edits[3][1]))), x * 1126, y * 694, x * 1295, y * 721, (guiGetText(edits[3][1]) == '' and tocolor(180, 180, 180, alpha) or tocolor(255, 255, 255, alpha)), 1.00, font[3], 'left', 'center', false, true, true, false, false)
@@ -564,7 +564,7 @@ function dxDraw()
         end
     elseif (window == 'Appstore') then
         dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(41, 41, 41, alpha), false)
-        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
+        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(255, 255, 255, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
         dxDrawImage(x * 1095, y * 290, x * 229, y * 1, 'Files/Imagens/Linha.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
         dxDrawImage(x * 1095, y * 350, x * 229, y * 1, 'Files/Imagens/Linha.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
         dxDrawImage(x * 1095, y * 410, x * 229, y * 1, 'Files/Imagens/Linha.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
@@ -574,14 +574,14 @@ function dxDraw()
         dxDrawImage(x * 1095, y * 650, x * 229, y * 1, 'Files/Imagens/Linha.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
 
         local linha = 0
-        for i, v in ipairs(downloads) do 
+        for i, v in ipairs(downloads) do
             if (i > proximaPagina3 and linha < maxLinhas3) then
-                linha = linha + 1 
+                linha = linha + 1
                 dxDrawImage(appsdownload[linha][1], appsdownload[linha][2], appsdownload[linha][3], appsdownload[linha][4], v[2], 0, 0, 0, tocolor(255, 255, 255, (baixado[v[1]] == true and alpha - 120 or alpha)), false)
                 dxDrawImage(posIconDownload[linha][1], posIconDownload[linha][2], posIconDownload[linha][3], posIconDownload[linha][4], 'Files/Imagens/download.png', 0, 0, 0, isMouseInPosition(posIconDownload[linha][1], posIconDownload[linha][2], posIconDownload[linha][3], posIconDownload[linha][4]) and tocolor(39, 146, 245, (baixado[v[1]] and alpha - 120 or alpha)) or tocolor(255, 255, 255, (baixado[v[1]] and alpha - 120 or alpha)), false)
-                dxDrawText(v[1], posTextDownload[linha][1], posTextDownload[linha][2], posTextDownload[linha][3], posTextDownload[linha][4], tocolor(255, 255, 255, alpha), 1, font[4], 'center', 'center', false, false, false, false, false) 
-                
-            end 
+                dxDrawText(v[1], posTextDownload[linha][1], posTextDownload[linha][2], posTextDownload[linha][3], posTextDownload[linha][4], tocolor(255, 255, 255, alpha), 1, font[4], 'center', 'center', false, false, false, false, false)
+
+            end
         end
     elseif (window == 'Whatsapp') then
         for i, v in ipairs(windows[window]) do
@@ -604,7 +604,7 @@ function dxDraw()
                     dxDrawText(string.gsub(v[6], '${banco}', '')..'R$ '..config.convertNumber((getElementData(localPlayer, 'banco:baron') or 0)), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                 elseif string.find(v[6], '${passaporte}') then
                     dxDrawText(string.gsub(v[6], '${passaporte}', '')..''..(getElementData(localPlayer, 'ID') or 'N/A'), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
-                elseif string.find(v[6], '${créditos}') then 
+                elseif string.find(v[6], '${créditos}') then
                     dxDrawText(string.gsub(v[6], '${créditos}', '')..''..(getElementData(localPlayer, 'Mbs') or 0), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                 else
                     dxDrawText(v[6], v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
@@ -616,14 +616,14 @@ function dxDraw()
             elseif (v[5] == 'editbox') then
                 dxDrawText((edits[v[6]][2] and guiGetText(edits[v[6]][1])..'|' or guiGetText(edits[v[6]][1])), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
             elseif (v[5] == 'circle') then
-                if (v[7] ~= false) then 
+                if (v[7] ~= false) then
                     dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, isMouseInPosition(v[1], v[2], v[3], v[4]) and tocolor(39, 146, 245, alpha) or v[6])
-                else 
-                    dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, v[6]) 
+                else
+                    dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, v[6])
                 end
-            elseif (v[5] == 'number') then 
+            elseif (v[5] == 'number') then
                 dxDrawText((number or ''), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
-            elseif (v[5] == 'timer') then 
+            elseif (v[5] == 'timer') then
                 dxDrawText((min or 0)..':'..(sec or 0), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
             end
         end
@@ -635,51 +635,51 @@ function dxDraw()
                 dxDrawRectangle(posBarrasConversas[linha][1], posBarrasConversas[linha][2], posBarrasConversas[linha][3], posBarrasConversas[linha][4], isMouseInPosition(posBarrasConversas[linha][1], posBarrasConversas[linha][2], posBarrasConversas[linha][3], posBarrasConversas[linha][4]) and tocolor(186, 38, 255, alpha) or tocolor(60, 60, 60, alpha))
                 dxDrawImage(x * 1282, y * 373, x * 20, y * 20, 'Files/Imagens/Icons/Bola.png', 0, 0, 0, tocolor(107, 215, 111, alpha))
                 dxDrawText(v[2], posTextConversas[linha][1], posTextConversas[linha][2], posTextConversas[linha][3], posTextConversas[linha][4], tocolor(255, 255, 255, alpha), 1.00, font[4], 'left', 'center', false, true, true, false, false)
-                dxDrawImage(x * 1108, posAvatarConversas[linha][1], x * 25, y * 25, ':[BRR]Login/assets//'..v[1]..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+                dxDrawImage(x * 1108, posAvatarConversas[linha][1], x * 25, y * 25, ':[BRR]Login/assets//'..v[1]..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
             end
         end
-    elseif (window == 'Tinder Select') then 
+    elseif (window == 'Tinder Select') then
         dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
-        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1104, y * 372, x * 222, y * 307, 'Files/Imagens/Tinder/Tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
+        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1104, y * 372, x * 222, y * 307, 'Files/Imagens/Tinder/Tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
 
-        if #tinder > 0 then 
+        if #tinder > 0 then
             dxDrawImage(x * 1161, y * 396, x * 100, y * 100, ':[BRR]Login/assets//'..(tinder[1][1])..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
             dxDrawText('#FF4071'..tinder[1][2], x * 1127, y * 524, x * 1313, y * 544, tocolor(255, 255, 255, alpha), 1.00, font[1], 'left', 'center', false, false, false, true, false)
             dxDrawText(tinder[1][3], x * 1113, y * 554, x * 1313, y * 590, tocolor(0, 0, 0, alpha), 1.00, font[1], "center", "top", false, true, false, false, false)
-        else 
+        else
             dxDrawText('Nenhuma pessoa disponivel, sentimos muito!!', x * 1133, y * 462, x * 1296, y * 506, tocolor(0, 0, 0, 255), 1.00, font[1], 'center', 'center', false, true, false, false, false)
         end
-    elseif (window == 'Tinder Perfil') then 
+    elseif (window == 'Tinder Perfil') then
         dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
-        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1118, y * 396, x * 197, y * 275, 'Files/Imagens/Tinder/Perfil.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1162, y * 396, x * 100, y * 100, ':[BRR]Login/assets//'..avatar..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
+        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1118, y * 396, x * 197, y * 275, 'Files/Imagens/Tinder/Perfil.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1162, y * 396, x * 100, y * 100, ':[BRR]Login/assets//'..avatar..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
         dxDrawText(bio == true and guiGetText(biografia)..'|' or guiGetText(biografia), x * 1137, y * 552, x * 1296, y * 621, tocolor(33, 33, 33, alpha), 1.00, font[1], 'left', 'center', false, true, false, false, false)
     elseif (window == 'Tinder Conversas') then
         dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
-        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+        dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
+        dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+        dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
         linha = 0
         for i, v in ipairs(personstinder) do
             if (i > proximaPagina2 and linha < maxLinhas3) then
                 linha = linha + 1
                 dxDrawRectangle(x * 1094 + 2, posBarrasConversasTinder[linha][1], x * 230, y * 40, isMouseInPosition(x * 1094 + 2, posBarrasConversasTinder[linha][1], x * 230, y * 40) and tocolor(212, 212, 212, alpha) or tocolor(212, 212, 212, alpha - 80))
                 dxDrawText('                  '..v[2], posTextosConversasTinder[linha][1], posTextosConversasTinder[linha][2], posTextosConversasTinder[linha][3], posTextosConversasTinder[linha][4], tocolor(33, 33, 33, alpha), 1.00, font[4], 'left', 'center', false, true, true, false, false)
-                dxDrawImage(x * 1099, posAvataresConversasTinder[linha][1], x * 33, y * 33, ':[BRR]Login/assets//'..v[1]..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+                dxDrawImage(x * 1099, posAvataresConversasTinder[linha][1], x * 33, y * 33, ':[BRR]Login/assets//'..v[1]..'.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
             end
         end
-    elseif (window == 'Conversa Tinder') then 
+    elseif (window == 'Conversa Tinder') then
         if isElement(conversando) then
             dxDrawImage(x * 1096, y * 236, x * 228.51, y * 495.11, 'Files/Imagens/interface.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-            dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false) 
-            dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
-            dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha)) 
+            dxDrawText('Voltar', x * 1102, y * 257, x * 1162, y * 281, tocolor(33, 33, 33, alpha), 1, 'default-bold', 'center', 'center', false, false, false, false, false)
+            dxDrawImage(x * 1096, y * 702, x * 231, y * 27, 'Files/Imagens/Tinder/BarInteraction.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
+            dxDrawImage(x * 1125, y * 287, x * 172, y * 97, 'Files/Imagens/Tinder/Logo_tinder.png', 0, 0, 0, tocolor(255, 255, 255, alpha))
             dxDrawRectangle(x * 1094 + 2, y * 678, x * 228, y * 25, tocolor(212, 212, 212, alpha))
             dxDrawText('#FF4071'..getPlayerName(conversando), x * 1094, y * 367, x * 1324, y * 415, tocolor(255, 255, 255, 255), 1.00, font[1], "center", "center", false, false, false, true, false)
             dxDrawText((edits[3][2] and guiGetText(edits[3][1])..'|' or (guiGetText(edits[3][1]) == '' and 'Mensagem' or guiGetText(edits[3][1]))), x * 1099, y * 677, x * 1325, y * 701, (guiGetText(edits[3][1]) == '' and tocolor(180, 180, 180, alpha) or tocolor(255, 255, 255, alpha)), 1.00, font[3], 'left', 'center', false, true, true, false, false)
@@ -705,7 +705,7 @@ function dxDraw()
         end
     else
         if window ~= 'Contatos' then
-            if windowConfig == nil then 
+            if windowConfig == nil then
                 if windows[window] then
                     for i, v in ipairs(windows[window]) do
                         if (v[5] == 'imagem') then
@@ -727,7 +727,7 @@ function dxDraw()
                                 dxDrawText(string.gsub(v[6], '${banco}', '')..'R$ '..config.convertNumber((getElementData(localPlayer, 'banco:baron') or 0)), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                             elseif string.find(v[6], '${passaporte}') then
                                 dxDrawText(string.gsub(v[6], '${passaporte}', '')..''..(getElementData(localPlayer, 'ID') or 'N/A'), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
-                            elseif string.find(v[6], '${créditos}') then 
+                            elseif string.find(v[6], '${créditos}') then
                                 dxDrawText(string.gsub(v[6], '${créditos}', '')..''..(getElementData(localPlayer, 'Mbs') or 0), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                             else
                                 dxDrawText(v[6], v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
@@ -739,14 +739,14 @@ function dxDraw()
                         elseif (v[5] == 'editbox') then
                             dxDrawText((edits[v[6]][2] and guiGetText(edits[v[6]][1])..'|' or guiGetText(edits[v[6]][1])), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                         elseif (v[5] == 'circle') then
-                            if (v[7] ~= false) then 
+                            if (v[7] ~= false) then
                                 dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, isMouseInPosition(v[1], v[2], v[3], v[4]) and tocolor(39, 146, 245, alpha) or v[6])
-                            else 
-                                dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, v[6]) 
+                            else
+                                dxDrawImage(v[1], v[2], v[3], v[4], 'Files/Imagens/Icons/Bola.png', 0, 0, 0, v[6])
                             end
-                        elseif (v[5] == 'number') then 
+                        elseif (v[5] == 'number') then
                             dxDrawText((number or ''), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
-                        elseif (v[5] == 'timer') then 
+                        elseif (v[5] == 'timer') then
                             dxDrawText((min or 0)..':'..(sec or 0), v[1], v[2], v[3], v[4], v[10], v[7], v[8], v[9], 'center', false, false, false, false, false)
                         end
                     end
@@ -785,7 +785,7 @@ function dxDraw()
                 if isMouseInPosition(v[1], v[2], v[3], v[4]) then
                     dxDrawRectangle(v[1], v[2], v[3], v[4], tocolor(70, 70, 70, alpha), false)
                 end
-            end 
+            end
 
             dxDrawText('Deus [0]', x * 1102, y * 360, x * 1288, y * 378, tocolor(200, 200, 200, alpha), 1.00, 'default', 'left', 'top', false, false, false, false, false)
             dxDrawText('Policia [190]', x * 1102, y * 378, x * 1288, y * 396, tocolor(200, 200, 200, alpha), 1.00, 'default', 'left', 'top', false, false, false, false, false)
@@ -806,47 +806,47 @@ function dxDraw()
                     dxDrawImage(posBarraContato[linha][13], posBarraContato[linha][14], posBarraContato[linha][15], posBarraContato[linha][16], 'Files/Imagens/Icons/lixo.png', 0, 0, 0, (isMouseInPosition(posBarraContato[linha][13], posBarraContato[linha][14], posBarraContato[linha][15], posBarraContato[linha][16]) and tocolor(39, 146, 245, alpha) or tocolor(255, 255, 255, alpha)), false)
 
                     dxDrawText(v[1]..' ['..v[2]..']', posTextContato[linha][1], posTextContato[linha][2], posTextContato[linha][3], posTextContato[linha][4], tocolor(200, 200, 200, alpha), 1.00, 'default', 'left', 'center', false, false, true, false, false)
-                    
+
                 end
             end
         end
     end
 
     dxDrawImage(x * 1267, y * 241, x * 47, y * 10, 'Files/Imagens/status_bar.png', 0, 0, 0, tocolor(255, 255, 255, alpha), false)
-    if window == 'Bloqueio' then 
-        dxDrawText(getTimer(),  x * 1093, y * 310, x * 1319, y * 374, tocolor(255, 255, 255, alpha), 1.00, font[5], 'center', 'center', false, false, false, false, false) 
-    else 
-        dxDrawText(getTimer(), x * 1108, y * 236, x * 1155, y * 252, tocolor(255, 255, 255, alpha), 1.00, font[1], 'center', 'center', false, false, false, false, false)  
-    end 
+    if window == 'Bloqueio' then
+        dxDrawText(getTimer(),  x * 1093, y * 310, x * 1319, y * 374, tocolor(255, 255, 255, alpha), 1.00, font[5], 'center', 'center', false, false, false, false, false)
+    else
+        dxDrawText(getTimer(), x * 1108, y * 236, x * 1155, y * 252, tocolor(255, 255, 255, alpha), 1.00, font[1], 'center', 'center', false, false, false, false, false)
+    end
 
 end
 
-addEventHandler('onClientClick', root, 
+addEventHandler('onClientClick', root,
     function(b, s)
-        if (b == 'right') then 
-            if isEventHandlerAdded('onClientRender', root, dxDraw) then 
-                if window == 'inicio' then 
-                    if (s == 'down') then 
+        if (b == 'right') then
+            if isEventHandlerAdded('onClientRender', root, dxDraw) then
+                if window == 'inicio' then
+                    if (s == 'down') then
                         for i, v in ipairs(icons) do
-                            if v.download == true then 
+                            if v.download == true then
                                 if baixado[v[1]] == true then
-                                    if isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then 
+                                    if isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then
                                         selectapp = v[1]
                                     end
                                 end
-                            else 
-                                if isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then 
+                            else
+                                if isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then
                                     selectapp = v[1]
                                 end
                             end
                         end
-                    elseif (s == 'up') then 
+                    elseif (s == 'up') then
                         for i, v in ipairs(slots) do
                             if isMouseInPosition(v[1], v[2], v[3], v[4]) then
-                                for ii, vv in ipairs(icons) do 
-                                    if indexapp[vv[1]] == i then 
+                                for ii, vv in ipairs(icons) do
+                                    if indexapp[vv[1]] == i then
                                         selectapp = ''
-                                        return 
+                                        return
                                     end
                                 end
 
@@ -865,7 +865,7 @@ addEventHandler('onClientClick', root,
 
 addEventHandler('onClientDoubleClick', root, function (button)
     if button == 'left' and isEventHandlerAdded('onClientRender', root, dxDraw) then
-        if window == 'Spotify' then 
+        if window == 'Spotify' then
             linha = 0
             for i, v in ipairs(musicasSearch) do
                 if (i > indexPag and linha < #spotifyPosition) then
@@ -893,7 +893,7 @@ bindKey('enter', 'down',
                     end
                 end
             elseif window == 'Conversa Tinder' then
-                if isElement(conversando) then 
+                if isElement(conversando) then
                     if guiGetText(edits[3][1]) ~= '' then
                         triggerServerEvent('Goiaba.onSendMessageTinder', localPlayer, localPlayer, getElementData(conversando, 'ID'), guiGetText(edits[3][1]))
                         guiSetText(edits[3][1], '')
@@ -906,7 +906,7 @@ bindKey('enter', 'down',
 
 function UpDown (b)
     if isEventHandlerAdded('onClientRender', root, dxDraw) then
-        if window == 'Spotify' then 
+        if window == 'Spotify' then
             if isMouseInPosition(x * 1103, y * 357, x * 213, y * 298) then
                 if b == 'mouse_wheel_down' then
                     indexPag = indexPag + 1
@@ -919,7 +919,7 @@ function UpDown (b)
                     end
                 end
             end
-        elseif window ~= 'Whatsapp' then 
+        elseif window ~= 'Whatsapp' then
             if isMouseInPosition(x * 1095.91, y * 236, x * 228.51, y * 495.11) then
                 if b == 'mouse_wheel_down' then
                     proximaPagina = proximaPagina + 1
@@ -932,7 +932,7 @@ function UpDown (b)
                     end
                 end
             end
-        elseif window == 'Appstore' then 
+        elseif window == 'Appstore' then
             if b == 'mouse_wheel_down' then
                 proximaPagina3 = proximaPagina3 + 1
                 if (proximaPagina3 > #appsdownload - maxLinhas3) then
@@ -943,7 +943,7 @@ function UpDown (b)
                     proximaPagina3 = proximaPagina3 - 1
                 end
             end
-        else 
+        else
             if b == 'mouse_wheel_down' then
                 proximaPagina = proximaPagina2 + 1
                 if (proximaPagina > #personswpp - maxLinhas2) then
@@ -963,22 +963,22 @@ bindKey('mouse_wheel_down', 'down', UpDown)
 
 TimerDownload = false
 function onClientClick (b, s)
-    if (b == 'left') and (s == 'down') then 
+    if (b == 'left') and (s == 'down') then
         if isEventHandlerAdded('onClientRender', root, dxDraw) then
             edits[1][2] = false
             edits[2][2] = false
             edits[3][2] = false
-            if (window == 'Bloqueio') then 
-                if isMouseInPosition(x * 1194, y * 669, x * 29.22, y * 33.03) then 
+            if (window == 'Bloqueio') then
+                if isMouseInPosition(x * 1194, y * 669, x * 29.22, y * 33.03) then
                     window = 'inicio'
                     playSoundFrontEnd(32)
                 end
             elseif (window == 'inicio') then
                 for i, v in ipairs(icons) do
                     if isMouseInPosition(slots[indexapp[v[1]]][1], slots[indexapp[v[1]]][2], slots[indexapp[v[1]]][3], slots[indexapp[v[1]]][4]) then
-                        if v.download == true then 
+                        if v.download == true then
                             if baixado[v[1]] ~= true then
-                                return 
+                                return
                             end
                         end
                         if (v[3]) then
@@ -1057,22 +1057,22 @@ function onClientClick (b, s)
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
                 end
-            elseif window == 'GPS' then 
+            elseif window == 'GPS' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
-                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then 
+                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then
                     if guiEditSetCaretIndex(edits[1][1], string.len(guiGetText(edits[1][1]))) then
                         guiBringToFront(edits[1][1])
                         edits[1][2] = true
                         guiSetInputMode('no_binds_when_editing')
                     end
-                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then 
+                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then
                     triggerServerEvent('Pedro.enviarLocalização', localPlayer, localPlayer, guiGetText(edits[1][1]))
                 end
             elseif window == 'Banco' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
-                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then 
+                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then
                     if guiEditSetCaretIndex(edits[1][1], string.len(guiGetText(edits[1][1]))) then
                         guiBringToFront(edits[1][1])
                         edits[1][2] = true
@@ -1084,53 +1084,53 @@ function onClientClick (b, s)
                         edits[2][2] = true
                         guiSetInputMode('no_binds_when_editing')
                     end
-                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then 
+                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then
                     if string.find(guiGetText(edits[2][1]), '+') or string.find(guiGetText(edits[2][1]), '-') then return end
                     triggerServerEvent('Caio.onEnviar', localPlayer, localPlayer, guiGetText(edits[1][1]), guiGetText(edits[2][1]))
                 end
-            elseif window == 'Telefone' then 
+            elseif window == 'Telefone' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
-                else 
-                    for i, v in ipairs(windows['Telefone']) do 
-                        if (v[5] == 'circle') then 
+                else
+                    for i, v in ipairs(windows['Telefone']) do
+                        if (v[5] == 'circle') then
                             if isMouseInPosition(v[1], v[2], v[3], v[4]) then
-                                if (v[7] ~= false) then 
-                                    if not tonumber(number) then 
+                                if (v[7] ~= false) then
+                                    if not tonumber(number) then
                                         number = v[7]
-                                    else 
+                                    else
                                         number = (number)..v[7]
                                     end
-                                else 
+                                else
                                     triggerServerEvent('Pedro.ligar', localPlayer, localPlayer, tonumber(number))
                                 end
                             end
                         end
                     end
                 end
-            elseif window == 'Recebendo' then 
-                if isMouseInPosition(x * 1131, y * 638, x * 50, y * 50) then 
+            elseif window == 'Recebendo' then
+                if isMouseInPosition(x * 1131, y * 638, x * 50, y * 50) then
                     triggerServerEvent('Pedro.atender', localPlayer, localPlayer)
-                elseif isMouseInPosition(x * 1245, y * 638, x * 50, y * 50) then 
+                elseif isMouseInPosition(x * 1245, y * 638, x * 50, y * 50) then
                     triggerServerEvent('Pedro.recusar', localPlayer, localPlayer)
                 end
-            elseif window == 'Chamando' then 
-                if isMouseInPosition(x * 1190, y * 638, x * 50, y * 50) then  
+            elseif window == 'Chamando' then
+                if isMouseInPosition(x * 1190, y * 638, x * 50, y * 50) then
                     triggerServerEvent('Pedro.encerrar', localPlayer, localPlayer)
                 end
-            elseif window == 'Ligação' then 
-                if isMouseInPosition(x * 1190, y * 638, x * 50, y * 50) then 
+            elseif window == 'Ligação' then
+                if isMouseInPosition(x * 1190, y * 638, x * 50, y * 50) then
                     triggerServerEvent('Pedro.encerrar', localPlayer, localPlayer)
                 end
             elseif window == 'Whatsapp' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
-                else 
+                else
                     linha = 0
                     for i, v in ipairs(personswpp) do
                         if (i > proximaPagina2 and linha < maxLinhas2) then
                             linha = linha + 1
-                            if isMouseInPosition(posBarrasConversas[linha][1], posBarrasConversas[linha][2], posBarrasConversas[linha][3], posBarrasConversas[linha][4]) then 
+                            if isMouseInPosition(posBarrasConversas[linha][1], posBarrasConversas[linha][2], posBarrasConversas[linha][3], posBarrasConversas[linha][4]) then
                                 local receiver = getPlayerFromID(tonumber(v[3]))
                                 if isElement(receiver) then
                                     window = 'Conversa Zap'
@@ -1173,7 +1173,7 @@ function onClientClick (b, s)
                                 table.remove(contatos, i)
                             end
                         end
-                    end            
+                    end
                 end
             elseif window == 'Conversa Zap' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
@@ -1188,7 +1188,7 @@ function onClientClick (b, s)
             elseif window == 'Adicionar contato' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'Contatos'
-                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then 
+                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then
                     if guiEditSetCaretIndex(edits[1][1], string.len(guiGetText(edits[1][1]))) then
                         guiBringToFront(edits[1][1])
                         edits[1][2] = true
@@ -1200,21 +1200,21 @@ function onClientClick (b, s)
                         edits[2][2] = true
                         guiSetInputMode('no_binds_when_editing')
                     end
-                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then 
+                elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then
                     triggerServerEvent('Caio.onAdicionarContato', localPlayer, localPlayer, guiGetText(edits[1][1]), guiGetText(edits[2][1]))
                 end
-            elseif window == 'Recarga' then 
-                if isMouseInPosition(x * 1132, y * 365, x * 153, y * 26) then 
-                    plano = 1 
+            elseif window == 'Recarga' then
+                if isMouseInPosition(x * 1132, y * 365, x * 153, y * 26) then
+                    plano = 1
                     config.notify_client('Plano 1 selecionado', 'info')
-                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then 
+                elseif isMouseInPosition(x * 1132, y * 396, x * 153, y * 26) then
                     plano = 2
                     config.notify_client('Plano 2 selecionado', 'info')
-                elseif isMouseInPosition(x * 1132, y * 427, x * 153, y * 26) then 
+                elseif isMouseInPosition(x * 1132, y * 427, x * 153, y * 26) then
                     plano = 3
                     config.notify_client('Plano 3 selecionado', 'info')
                 elseif isMouseInPosition(x * 1161, y * 474, x * 100, y * 30) then
-                    if plano ~= 0 then 
+                    if plano ~= 0 then
                         triggerServerEvent('Pedro.compraPlano', localPlayer, localPlayer, config.planos[plano][1], config.planos[plano][2])
                     end
                 elseif isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
@@ -1222,16 +1222,16 @@ function onClientClick (b, s)
                 end
             elseif window == 'Appstore' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
-                    window = 'inicio' 
+                    window = 'inicio'
                 else
                     local linha = 0
-                    for i, v in ipairs(downloads) do 
+                    for i, v in ipairs(downloads) do
                         if (i > proximaPagina3 and linha < maxLinhas3) then
                             linha = linha + 1
-                            if  isMouseInPosition(posIconDownload[linha][1], posIconDownload[linha][2], posIconDownload[linha][3], posIconDownload[linha][4]) then 
+                            if  isMouseInPosition(posIconDownload[linha][1], posIconDownload[linha][2], posIconDownload[linha][3], posIconDownload[linha][4]) then
                                 if baixado[v[1]] ~= true then
                                     if not isTimer(TimerDownload) then
-                                        addBarra(v[1])  
+                                        addBarra(v[1])
                                         TimerDownload = setTimer(function()
                                             triggerServerEvent('Pedro.addApp', localPlayer, localPlayer, v[1])
                                             baixado[v[1]] = true
@@ -1242,48 +1242,48 @@ function onClientClick (b, s)
                         end
                     end
                 end
-            elseif window == 'Tinder' then 
+            elseif window == 'Tinder' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
-                    window = 'inicio' 
-                elseif isMouseInPosition(x * 1136, y * 596, x * 150, y * 35) then 
+                    window = 'inicio'
+                elseif isMouseInPosition(x * 1136, y * 596, x * 150, y * 35) then
                     window = 'Tinder Select'
                 end
-            elseif window == 'Tinder Select' then 
+            elseif window == 'Tinder Select' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
-                    window = 'inicio' 
-                elseif isMouseInPosition(x * 1133, y * 626, x * 53, y * 53) then 
-                    if #tinder > 0 then 
+                    window = 'inicio'
+                elseif isMouseInPosition(x * 1133, y * 626, x * 53, y * 53) then
+                    if #tinder > 0 then
                         table.remove(tinder, 1)
                     end
-                elseif isMouseInPosition(x * 1235, y * 626, x * 53, y * 53) then 
-                    if #tinder > 0 then 
+                elseif isMouseInPosition(x * 1235, y * 626, x * 53, y * 53) then
+                    if #tinder > 0 then
                         triggerServerEvent('Pedro.likeTinder', localPlayer, localPlayer, tinder[1][4])
                         print(tinder[1][4])
                         table.remove(tinder, 1)
                     end
-                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Perfil' 
-                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Select' 
-                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then 
+                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Perfil'
+                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Select'
+                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then
                     window = 'Tinder Conversas'
                 end
-            elseif window == 'Tinder Perfil' then 
+            elseif window == 'Tinder Perfil' then
                 bio = false
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
-                    window = 'inicio' 
-                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Perfil' 
-                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Select' 
-                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then 
+                    window = 'inicio'
+                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Perfil'
+                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Select'
+                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then
                     window = 'Tinder Conversas'
                 elseif isMouseInPosition(x * 1118, y * 435, x * 30, y * 30) then
-                    if avatar > 1 then  
+                    if avatar > 1 then
                         avatar = avatar - 1
                     end
-                elseif isMouseInPosition(x * 1279, y * 435, x * 30, y * 30) then 
-                    if avatar < 99 then  
+                elseif isMouseInPosition(x * 1279, y * 435, x * 30, y * 30) then
+                    if avatar < 99 then
                         avatar = avatar + 1
                     end
                 elseif isMouseInPosition(x * 1118, y * 528, x * 187, y * 100) then
@@ -1292,26 +1292,26 @@ function onClientClick (b, s)
                         bio = true
                         guiSetInputMode('no_binds_when_editing')
                     end
-                elseif isMouseInPosition(x * 1123, y * 646, x * 182, y * 25) then 
+                elseif isMouseInPosition(x * 1123, y * 646, x * 182, y * 25) then
                     outputChatBox('Alteraçoes salvas', 255, 255, 255, true)
                     setElementData(localPlayer, 'Avatar', avatar)
                     setElementData(localPlayer, 'Biografia', guiGetText(biografia))
                 end
-            elseif window == 'Tinder Conversas' then 
+            elseif window == 'Tinder Conversas' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
-                    window = 'inicio' 
-                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Perfil' 
-                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then 
-                    window = 'Tinder Select' 
-                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then 
+                    window = 'inicio'
+                elseif isMouseInPosition(x * 1127, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Perfil'
+                elseif isMouseInPosition(x * 1198, y * 705, x * 24, y * 24) then
+                    window = 'Tinder Select'
+                elseif isMouseInPosition(x * 1268, y * 705, x * 24, y * 24) then
                     window = 'Tinder Conversas'
-                else 
+                else
                     linha = 0
                     for i, v in ipairs(personstinder) do
                         if (i > proximaPagina2 and linha < maxLinhas3) then
                             linha = linha + 1
-                            if  isMouseInPosition(x * 1094 + 2, posBarrasConversasTinder[linha][1], x * 230, y * 40) then 
+                            if  isMouseInPosition(x * 1094 + 2, posBarrasConversasTinder[linha][1], x * 230, y * 40) then
                                 local receiver = getPlayerFromID(tonumber(v[3]))
                                 if isElement(receiver) then
                                     window = 'Conversa Tinder'
@@ -1323,7 +1323,7 @@ function onClientClick (b, s)
                         end
                     end
                 end
-            elseif window == 'Conversa Tinder' then 
+            elseif window == 'Conversa Tinder' then
                 if isMouseInPosition(x * 1102, y * 256, x * 60, y * 25) then
                     window = 'inicio'
                 elseif isMouseInPosition(x * 1094, y * 678, x * 233, y * 25) then
@@ -1335,7 +1335,7 @@ function onClientClick (b, s)
                 end
             end
         end
-    end 
+    end
 end
 
 function dxBarraDownload()
@@ -1346,9 +1346,9 @@ function dxBarraDownload()
 end
 
 function addBarra(nomee)
-    if not isEventHandlerAdded('onClientRender', root, dxBarraDownload) then 
+    if not isEventHandlerAdded('onClientRender', root, dxBarraDownload) then
         tickd = getTickCount()
-        addEventHandler('onClientRender', root, dxBarraDownload)    
+        addEventHandler('onClientRender', root, dxBarraDownload)
         nome = nomee
 
         setTimer(function()
@@ -1358,7 +1358,7 @@ function addBarra(nomee)
 end
 
 addEvent('Pedro.insertTinder', true)
-addEventHandler('Pedro.insertTinder', root, 
+addEventHandler('Pedro.insertTinder', root,
     function(avatar, nick, recado, id)
         table.insert(tinder, {avatar, nick, recado, id})
     end
@@ -1376,30 +1376,30 @@ addEvent('Caio.onOpenCelular', true)
 addEventHandler('Caio.onOpenCelular', root,
     function (fundo, action)
         if (action == 'add') then
-            if not isEventHandlerAdded('onClientRender', root, dxDraw) then 
+            if not isEventHandlerAdded('onClientRender', root, dxDraw) then
                 wallpaper = tonumber(fundo)
                 windowConfig = nil
                 contatos = {}
                 addEventHandler('onClientRender', root, dxDraw)
                 addEventHandler('onClientClick', root, onClientClick)
                 showCursor(true)
-                painel = true 
+                painel = true
                 if (getElementData(localPlayer, 'Recebendo') or false) ~= false then
                     window = 'Recebendo'
-                elseif (getElementData(localPlayer, 'Call') or false) ~= false then 
+                elseif (getElementData(localPlayer, 'Call') or false) ~= false then
                     window = 'Ligação'
                     if isTimer(Timer) then killTimer(Timer) end
                     Timer = setTimer(setTiming, 1000, 0)
-                else 
+                else
                     window = 'Bloqueio'
-                end 
+                end
                 tick[1] = getTickCount()
                 playSound('Files/Sons/abrindo_celular.mp3', false)
                 triggerServerEvent('Goiaba.setAnimationPhone', localPlayer, 1)
 
                 editSpotify = {false, guiCreateEdit(screen[1], screen[2], 0, 0, '', false)}
                 biografia = guiCreateEdit(screen[1], screen[2], 0, 0, '', false)
-                
+
                 edits = {
                     {guiCreateEdit(screen[1] - 1000, screen[2] - 1000, 0, 0, '', false), false},
                     {guiCreateEdit(screen[1] - 1000, screen[2] - 1000, 0, 0, '', false), false},
@@ -1411,8 +1411,8 @@ addEventHandler('Caio.onOpenCelular', root,
                 guiEditSetMaxLength(edits[3][1], 55)
                 guiEditSetMaxLength(biografia, 85)
                 avatar = (getElementData(localPlayer, 'Avatar') or 1)
-                for i, v in ipairs(icons) do 
-                    if not indexapp[v[1]] then 
+                for i, v in ipairs(icons) do
+                    if not indexapp[v[1]] then
                         indexapp[v[1]] = i
                     end
                 end
@@ -1425,9 +1425,9 @@ addEventHandler('Caio.onOpenCelular', root,
                 triggerServerEvent('Pedro.makeTinder', localPlayer)
             end
         else
-            if isEventHandlerAdded('onClientRender', root, dxDraw) then 
+            if isEventHandlerAdded('onClientRender', root, dxDraw) then
                 if (painel == true) then
-                    painel = false 
+                    painel = false
                     tick[1] = getTickCount()
                     showCursor(false)
                     playSound('Files/Sons/fechando_celular.mp3', false)
@@ -1435,7 +1435,7 @@ addEventHandler('Caio.onOpenCelular', root,
                     removeEventHandler('onClientClick', root, onClientClick)
                     setTimer(function()
                         removeEventHandler('onClientRender', root, dxDraw)
-                        if isTimer(Timer) then killTimer(Timer) end 
+                        if isTimer(Timer) then killTimer(Timer) end
                     end, 1000, 1)
                     if isElement(editSpotify[2]) then
                         destroyElement(editSpotify[2])
@@ -1455,16 +1455,16 @@ addEventHandler('Caio.onOpenCelular', root,
 )
 
 function fecharCel()
-	if isEventHandlerAdded('onClientRender', root, dxDraw) then 
+	if isEventHandlerAdded('onClientRender', root, dxDraw) then
         if (painel == true) then
-            painel = false 
+            painel = false
             tick[1] = getTickCount()
             showCursor(false)
             playSound('Files/Sons/fechando_celular.mp3', false)
             triggerServerEvent('Goiaba.setAnimationPhone', localPlayer, 2)
             setTimer(function()
             removeEventHandler('onClientRender', root, dxDraw)
-            if isTimer(Timer) then killTimer(Timer) end 
+            if isTimer(Timer) then killTimer(Timer) end
             end, 1000, 1)
             if isElement(editSpotify[2]) then
                 destroyElement(editSpotify[2])
@@ -1477,13 +1477,13 @@ function fecharCel()
 end
 
 
-bindKey('backspace', 'down', 
+bindKey('backspace', 'down',
     function()
-        if isEventHandlerAdded('onClientPreRender', root, render) then 
+        if isEventHandlerAdded('onClientPreRender', root, render) then
             triggerEvent('Pedro.Selfie', localPlayer)
-        elseif isEventHandlerAdded('onClientRender', root, dxDraw) then 
-            if window == 'Telefone' then 
-                if number and tonumber(number) and (tonumber(number) > 0) then 
+        elseif isEventHandlerAdded('onClientRender', root, dxDraw) then
+            if window == 'Telefone' then
+                if number and tonumber(number) and (tonumber(number) > 0) then
                     number = number:sub(1, -2)
                 end
             end
@@ -1492,35 +1492,35 @@ bindKey('backspace', 'down',
 )
 
 addEvent('Pedro.changeWindowCell', true)
-addEventHandler('Pedro.changeWindowCell', root, 
+addEventHandler('Pedro.changeWindowCell', root,
     function(new, avatarr)
         window = new
-        avatar = avatarr 
+        avatar = avatarr
         if new == 'Ligação' then
             if isTimer(Timer) then killTimer(Timer) end
             min, sec = 0, 0
-            Timer = setTimer(setTiming, 1000, 0)   
+            Timer = setTimer(setTiming, 1000, 0)
         end
     end
 )
 
 addEvent('Pedro.tocarSom', true)
-addEventHandler('Pedro.tocarSom', root, 
+addEventHandler('Pedro.tocarSom', root,
     function(sound)
-        if isElement(toque) then destroyElement(toque) end 
+        if isElement(toque) then destroyElement(toque) end
         toque = playSound(sound, true)
     end
 )
 
 addEvent('Pedro.destroySound', true)
-addEventHandler('Pedro.destroySound', root, 
+addEventHandler('Pedro.destroySound', root,
     function()
-        if isElement(toque) then destroyElement(toque) end 
+        if isElement(toque) then destroyElement(toque) end
     end
 )
 
 addEvent('Pedro.insertMessage', true)
-addEventHandler('Pedro.insertMessage', root, 
+addEventHandler('Pedro.insertMessage', root,
     function(receiver, message, type, avatar, nick, id)
         table.insert(infoswpp, {receiver, message, type})
         indexCount = 0
@@ -1533,9 +1533,9 @@ addEventHandler('Pedro.insertMessage', root,
             table.remove(infoswpp, 1)
         end
 
-        for i, v in ipairs(personswpp) do 
-            if (tonumber(v[3]) == id) then 
-                return 
+        for i, v in ipairs(personswpp) do
+            if (tonumber(v[3]) == id) then
+                return
             end
         end
 
@@ -1544,7 +1544,7 @@ addEventHandler('Pedro.insertMessage', root,
 )
 
 addEvent('Pedro.insertMessageTinder', true)
-addEventHandler('Pedro.insertMessageTinder', root, 
+addEventHandler('Pedro.insertMessageTinder', root,
     function(receiver, message, type, avatar, nick, id)
         table.insert(infostinder, {receiver, message, type})
         indexCount = 0
@@ -1557,9 +1557,9 @@ addEventHandler('Pedro.insertMessageTinder', root,
             table.remove(infostinder, 1)
         end
 
-        for i, v in ipairs(personstinder) do 
-            if (tonumber(v[3]) == id) then 
-                return 
+        for i, v in ipairs(personstinder) do
+            if (tonumber(v[3]) == id) then
+                return
             end
         end
 
@@ -1569,11 +1569,11 @@ addEventHandler('Pedro.insertMessageTinder', root,
 
 
 addEvent('Pedro.addConversaOnMatch', true)
-addEventHandler('Pedro.addConversaOnMatch', root, 
+addEventHandler('Pedro.addConversaOnMatch', root,
     function(avatar, nick, id)
-        for i, v in ipairs(personstinder) do 
-            if (tonumber(v[3]) == id) then 
-                return 
+        for i, v in ipairs(personstinder) do
+            if (tonumber(v[3]) == id) then
+                return
             end
         end
 
@@ -1583,10 +1583,10 @@ addEventHandler('Pedro.addConversaOnMatch', root,
 
 
 addEvent('Pedro.deleteMessage', true)
-addEventHandler('Pedro.deleteMessage', root, 
+addEventHandler('Pedro.deleteMessage', root,
     function(receiver)
-        for i, v in ipairs(personswpp) do 
-            if v[2] == receiver then 
+        for i, v in ipairs(personswpp) do
+            if v[2] == receiver then
                 table.remove(personswpp, i)
             end
         end
@@ -1594,7 +1594,7 @@ addEventHandler('Pedro.deleteMessage', root,
 )
 
 addEvent('Pedro.makeAppsC', true)
-addEventHandler('Pedro.makeAppsC', root, 
+addEventHandler('Pedro.makeAppsC', root,
     function(app)
         baixado[app] = true
     end
@@ -1644,12 +1644,12 @@ function isMouseInPosition(x,y,w,h)
 	end
 end
 
-min, sec = 0, 0 
+min, sec = 0, 0
 function setTiming()
-    if sec < 60 then 
+    if sec < 60 then
         sec = sec + 1
-    else 
-        sec = 0 
+    else
+        sec = 0
         min = min + 1
     end
 end
@@ -1659,10 +1659,10 @@ function drawBorde(x, y, w, h, borderColor, bgColor, postGUI)
         if (not borderColor) then
             borderColor = tocolor(0, 0, 0, 200)
         end
-      
+
         if (not bgColor) then
             bgColor = borderColor
-        end        
+        end
         postGUI = false
 
         dxDrawRectangle(x, y, w, h, bgColor, postGUI)
@@ -1682,7 +1682,7 @@ local speed, strafespeed = 0, 0
 local rotX, rotY = 0,0
 local mouseFrameDelay = 0
 
-local options = 
+local options =
 {
     invertMouseLook = false,
     mouseSensitivity = 0.15
@@ -1691,10 +1691,10 @@ local options =
 function math.clamp ( value, lower, upper )
  value, lower, upper = tonumber ( value ), tonumber ( lower ), tonumber ( upper )
  if value and lower and upper then
-  if value < lower then 
+  if value < lower then
    value = lower
-  elseif value > upper then 
-   value = upper 
+  elseif value > upper then
+   value = upper
   end
   return value
  end
@@ -1716,7 +1716,7 @@ end
 
 function render ( )
     dxDrawText('Mova o mouse para movimentar a camêra\nPressione backspace para sair do modo selfie.', x * 473, y * 676, x * 893, y * 768, tocolor(255, 255, 255, 255), 1.00, font[1], 'center', 'center', false, false, false, false, false)
-    
+
     local PI = math.pi
     if getKeyState ( 'num_4' ) then
         rotX = rotX - options.mouseSensitivity * 0.05745
@@ -1725,14 +1725,14 @@ function render ( )
     end
 
     if getKeyState ( 'num_8' ) then
-        rotY = rotY + options.mouseSensitivity * 0.05745  
+        rotY = rotY + options.mouseSensitivity * 0.05745
         rotY = math.clamp ( rotY, -PI / 2.05, PI / 2.05 )
     elseif getKeyState ( 'num_2' ) then
         rotY = rotY - options.mouseSensitivity * 0.05745
         rotY = math.clamp ( rotY, -PI / 2.05, PI / 2.05 )
     end
 
-    local cameraAngleX = rotX 
+    local cameraAngleX = rotX
     local cameraAngleY = rotY
 
     local freeModeAngleZ = math.sin(cameraAngleY)
@@ -1751,17 +1751,17 @@ function render ( )
     local camTargetX = camPosX + freeModeAngleX * 100
     local camTargetY = camPosY + freeModeAngleY * 100
     local camTargetZ = camPosZ + freeModeAngleZ * 100
-    
+
     local camAngleX = camPosX - camTargetX
     local camAngleY = camPosY - camTargetY
     local camAngleZ = 0
-    
+
     local angleLength = math.sqrt(camAngleX*camAngleX+camAngleY*camAngleY+camAngleZ*camAngleZ)
 
     local camNormalizedAngleX = camAngleX / angleLength
     local camNormalizedAngleY = camAngleY / angleLength
     local camNormalizedAngleZ = 0
-    
+
     local normalAngleX = 0
     local normalAngleY = 0
     local normalAngleZ = 1
@@ -1769,7 +1769,7 @@ function render ( )
     local normalX = (camNormalizedAngleY * normalAngleZ - camNormalizedAngleZ * normalAngleY)
     local normalY = (camNormalizedAngleZ * normalAngleX - camNormalizedAngleX * normalAngleZ)
     local normalZ = (camNormalizedAngleX * normalAngleY - camNormalizedAngleY * normalAngleX)
-  
+
 
     camPosX = camPosX + freeModeAngleX * speed
     camPosY = camPosY + freeModeAngleY * speed
@@ -1778,11 +1778,11 @@ function render ( )
     camPosX = camPosX + normalX * strafespeed
     camPosY = camPosY + normalY * strafespeed
     camPosZ = camPosZ + normalZ * strafespeed
-    
+
     camTargetX = camPosX + freeModeAngleX * 100
     camTargetY = camPosY + freeModeAngleY * 100
     camTargetZ = camPosZ + freeModeAngleZ * 100
- 
+
     if isPedInVehicle ( mplayer ) and getKeyState ( 'mouse1' ) ~= true then
         if getPedControlState ( 'vehicle_look_behind' ) then
             camTargetX, camTargetY, camTargetZ = getElementOffset ( mplayer, 0, -3, 0 )
@@ -1790,7 +1790,7 @@ function render ( )
             camTargetX, camTargetY, camTargetZ = getElementOffset ( mplayer, 0, 3, 0 )
         end
     end
- 
+
     setPedAimTarget ( mplayer, camTargetX, camTargetY, camTargetZ )
     setCameraMatrix ( camPosX, camPosY, camPosZ, camTargetX, camTargetY, camTargetZ )
 end
@@ -1803,24 +1803,24 @@ function mousecalc ( _, _, aX, aY )
   mouseFrameDelay = mouseFrameDelay - 1
   return
  end
- 
- aX = aX - sw / 2 
+
+ aX = aX - sw / 2
  aY = aY - sh / 2
- 
+
  if options.invertMouseLook then
   aY = -aY
  end
- 
+
  rotX = rotX + aX * options.mouseSensitivity * 0.01745
  rotY = rotY - aY * options.mouseSensitivity * 0.01745
-    
+
  local PI = math.pi
  if rotX > PI then
   rotX = rotX - 2 * PI
  elseif rotX < -PI then
   rotX = rotX + 2 * PI
  end
-    
+
  if rotY > PI then
   rotY = rotY - 2 * PI
  elseif rotY < -PI then
@@ -1830,25 +1830,25 @@ function mousecalc ( _, _, aX, aY )
  rotY = math.clamp ( rotY, -PI / 2.05, PI / 2.05 )
 end
 
-local UniStat = { 
+local UniStat = {
     items = { }
 }
 
 local sw, sh = guiGetScreenSize ( )
 
-local colors = { 
-    white = tocolor ( 255, 255, 255, 255 ) 
+local colors = {
+    white = tocolor ( 255, 255, 255, 255 )
 }
 
 local lexemes = {
     [ 'health' ] = {
         getString = function ( arg, player )
             local health = math.floor ( getElementHealth ( player ) + 0.5 )
-            
+
             return health
         end
     },
-    [ 'armor' ] = { 
+    [ 'armor' ] = {
         getString = function ( arg, player )
             return math.floor ( getPedArmor ( player ) + 0.5 )
         end
@@ -1865,7 +1865,7 @@ local lexemes = {
         end,
         onInit = function ( player )
             local dxStat = dxGetStatus ( )
-            
+
             setElementData ( player, 'vcName', dxStat.VideoCardName )
             setElementData ( player, 'vcRAM', dxStat.VideoCardRAM .. 'MB' )
             setElementData ( player, 'vcPSVer', dxStat.VideoCardPSVersion )
@@ -1879,7 +1879,7 @@ local lexemes = {
             return time.hour .. ':' .. time.minute .. ':' .. time.second
         end,
         onInit = function ( )
-            setTimer ( 
+            setTimer (
                 function ( )
                     local timestamp = getRealTime ( ).timestamp
                     setElementData ( localPlayer, 'times', timestamp )
@@ -1890,7 +1890,7 @@ local lexemes = {
     [ 'tl' ] = {
         getString = function ( arg, player )
             local timeLeft = getElementData ( player, 'tl' )
-            
+
             if arg == 'min' then
                 return math.floor ( timeLeft / 60000 )
             elseif arg == 'sec' then
@@ -1901,8 +1901,8 @@ local lexemes = {
         end,
         onInit = function ( )
             UniStat.enterTime = getTickCount ( )
-            
-            setTimer ( 
+
+            setTimer (
                 function ( )
                     local currentTime = getTickCount ( )
                     setElementData ( localPlayer, 'tl', currentTime - UniStat.enterTime )
@@ -1919,16 +1919,16 @@ local lexemes = {
         getString = function ( arg, player )
             local isAFK = getElementData ( player, 'afk' ) or 0
             local statusName = isAFK > 0 and 'AFK' or 'В ИГРЕ'
-            
+
             return statusName
         end
     },
 }
 
 addEvent('Pedro.Selfie', true)
-addEventHandler('Pedro.Selfie', root,  
+addEventHandler('Pedro.Selfie', root,
     function()
-        if not isEventHandlerAdded('onClientPreRender', root, render) then 
+        if not isEventHandlerAdded('onClientPreRender', root, render) then
             toggleAllControls(false)
             setPedAnimation(localPlayer, false)
             setPedAnimation(localPlayer, 'PED', 'gang_gunstand')
@@ -1936,24 +1936,24 @@ addEventHandler('Pedro.Selfie', root,
             addEventHandler ( 'onClientCursorMove', root, mousecalc )
             removeEventHandler('onClientRender', root, dxDraw)
             showCursor(false)
-        else 
+        else
             toggleAllControls(true)
             setPedAnimation(localPlayer, false)
             removeEventHandler ( 'onClientPreRender', root, render )
             removeEventHandler ( 'onClientCursorMove', root, mousecalc )
             addEventHandler('onClientRender', root, dxDraw)
-            triggerServerEvent('Goiaba.setAnimationPhone', localPlayer, 1)
+            triggerServerEvent('Renan.setAnimationPhone', localPlayer, 1)
             setCameraTarget (localPlayer)
         end
     end
 )
 
-addEventHandler("onClientPlayerWasted", getLocalPlayer(), 
+addEventHandler("onClientPlayerWasted", getLocalPlayer(),
 	function ()
 		fecharCel()
 	end
 )
-------------------------------------------------        
+------------------------------------------------
 
 addEvent('Caio.getMusics', true)
 addEventHandler('Caio.getMusics', root, function(musics)

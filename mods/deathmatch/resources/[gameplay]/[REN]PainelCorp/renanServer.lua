@@ -128,55 +128,111 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				return
 			end
 
-			if Vip == "Bronze" and ID == 1 then
-				setElementModel(source, configS.bronze.personagemB_1)
-				outputChatBox("INFO > (Você acaba de pegar uma skin, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
-
-			elseif Vip == "Prata" and ID == 1 then
-				setElementModel(source, configS.prata.personagemP_1)
-				outputChatBox("INFO > (Você acaba de pegar uma skin, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
-
-			elseif Vip == "Prata" and ID == 2 then
-				setElementModel(source, configS.prata.personagemP_2)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 2, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
-
-			elseif Vip == "Ouro" and ID == 1 then
+			if Vip == "Ouro" and ID == 1 then
 				setElementModel(source, configS.ouro.personagemO_1)
-				outputChatBox("INFO > (Você acaba de pegar uma skin, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+				TimerSkin = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 2 then
 				setElementModel(source, configS.ouro.personagemO_2)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 2, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+				TimerSkin = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 3 then
 				setElementModel(source, configS.ouro.personagemO_3)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 3, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+				TimerSkin = setTimer(function() end, 1, 1)
 
-			elseif Vip == "Diamante" and ID == 1 then
-				setElementModel(source, configS.diamante.personagemD_1)
-				outputChatBox("INFO > (Você acaba de pegar uma skin, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+			elseif Vip == "Ouro" and ID == 4 then
+				setElementModel(source, configS.ouro.personagemO_4)
+				TimerSkin = setTimer(function() end, 1, 1)
 
-			elseif Vip == "Diamante" and ID == 2 then
-				setElementModel(source, configS.diamante.personagemD_2)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 2, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+			elseif Vip == "Ouro" and ID == 5 then
+				setElementModel(source, configS.ouro.personagemO_5)
+				TimerSkin = setTimer(function() end, 1, 1)
 
-			elseif Vip == "Diamante" and ID == 3 then
-				setElementModel(source, configS.diamante.personagemD_3)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 3, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+			elseif Vip == "Ouro" and ID == 6 then
+				setElementModel(source, configS.ouro.personagemO_6)
+				TimerSkin = setTimer(function() end, 1, 1)
 
-			elseif Vip == "Diamante" and ID == 4 then
-				setElementModel(source, configS.diamante.personagemD_4)
-				outputChatBox("INFO > (Você acaba de pegar uma skin 4, Espere 2m para pegar novamente)", source, 255, 255, 255, true)
-				TimerSkin = setTimer(function() end, 100000, 1)
+			elseif Vip == "Ouro" and ID == 7 then
+				setElementModel(source, configS.ouro.personagemO_7)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 8 then
+				setElementModel(source, configS.ouro.personagemO_8)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 9 then
+				setElementModel(source, configS.ouro.personagemO_9)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 10 then
+				setElementModel(source, configS.ouro.personagemO_10)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 11 then
+				setElementModel(source, configS.ouro.personagemO_11)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 12 then
+				setElementModel(source, configS.ouro.personagemO_12)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 13 then
+				setElementModel(source, configS.ouro.personagemO_13)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 14 then
+				setElementModel(source, configS.ouro.personagemO_14)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 15 then
+				setElementModel(source, configS.ouro.personagemO_15)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 16 then
+				setElementModel(source, configS.ouro.personagemO_16)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 17 then
+				setElementModel(source, configS.ouro.personagemO_17)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 18 then
+				setElementModel(source, configS.ouro.personagemO_18)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 19 then
+				setElementModel(source, configS.ouro.personagemO_19)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 20 then
+				setElementModel(source, configS.ouro.personagemO_20)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 21 then
+				setElementModel(source, configS.ouro.personagemO_21)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 22 then
+				setElementModel(source, configS.ouro.personagemO_22)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 23 then
+				setElementModel(source, configS.ouro.personagemO_23)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 24 then
+				setElementModel(source, configS.ouro.personagemO_24)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+			elseif Vip == "Ouro" and ID == 25 then
+				setElementModel(source, configS.ouro.personagemO_25)
+				TimerSkin = setTimer(function() end, 1, 1)
+
+
+			elseif Vip == "Ouro" and ID == 26 then
+				setElementModel(source, configS.ouro.personagemO_26)
+				TimerSkin = setTimer(function() end, 1, 1)
+
 
 				dbFree(dbQuery(mysql, "INSERT INTO skinsVip (Id, nick, skin_id) VALUES (?, ?, ?) ", getElementData(source, "ID"), getPlayerName(source),getElementModel(source), 0))
 			end
@@ -353,17 +409,17 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			if Vip == "Prata" and ID == 1 then
 				setElementHealth(source, configS.prata.vidaP_1)
 				outputChatBox("INFO > (Você acaba de pegar um kit de vida, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerHealth = setTimer(function() end, 1000000, 1)
+				TimerHealth = setTimer(function() end, 10, 1)
 
 			elseif Vip == "Ouro" and ID == 1 then
 				setElementHealth(source, configS.ouro.vidaO_1)
 				outputChatBox("INFO > (Você acaba de pegar um kit de vida, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerHealth = setTimer(function() end, 1000000, 1)
+				TimerHealth = setTimer(function() end, 10, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then
 				setElementHealth(source, configS.diamante.vidaD_1)
 				outputChatBox("INFO > (Você acaba de pegar um kit de vida, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerHealth = setTimer(function() end, 1000000, 1)
+				TimerHealth = setTimer(function() end, 10, 1)
 			end
 
 		elseif Tipo == "Coletes" then
@@ -376,12 +432,12 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			if Vip == "Ouro" and ID == 1 then
 				setPedArmor(source, configS.ouro.coleteO_1)
 				outputChatBox("INFO > (Você acaba de pegar um colete aprova de bala, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerArmor = setTimer(function() end, 1000000, 1)
+				TimerArmor = setTimer(function() end, 10, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then
 				setPedArmor(source, configS.diamante.coleteD_1)
 				outputChatBox("INFO > (Você acaba de pegar um colete aprova de bala, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerArmor = setTimer(function() end, 1000000, 1)
+				TimerArmor = setTimer(function() end, 10, 1)
 			end
 
 		elseif Tipo == "Estilo Anda" then

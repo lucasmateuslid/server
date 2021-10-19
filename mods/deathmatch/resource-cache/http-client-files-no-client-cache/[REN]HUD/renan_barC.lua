@@ -1,8 +1,7 @@
--- Feito Por CantZ
 screen = {guiGetScreenSize()}
 screenW, screenH = guiGetScreenSize()
 x, y = (screen[1]/1366), (screen[2]/768)
-KepAlpha = 80 
+KepAlpha = 80
 font = DxFont("files/fonte.ttf", 9)
 
 widgetsHud = {
@@ -201,12 +200,12 @@ widgetsHud = {
 };
 
 local Enable = {
-	"ammo", 
-	"armour", 
+	"ammo",
+	"armour",
 	"clock",
-	"health", 
+	"health",
 	"money",
-	"weapon", 
+	"weapon",
 	"wanted",
 	"area_name",
 	"vehicle_name",
@@ -257,13 +256,13 @@ function dxDrawRectangleBorde(left, top, width, height, color, postgui)
     dxDrawRectangle(left, top, width, height, color, postgui);
 end
 
-function convertNumber ( number )   
-    local formatted = number   
-    while true do       
-        formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')     
-        if ( k==0 ) then       
-            break   
-        end   
-    end   
-    return formatted 
+function convertNumber ( number )
+    local formatted = number
+    while true do
+        formatted, k = string.gsub(formatted, "^(-?%d+)(%d%d%d)", '%1,%2')
+        if ( k==0 ) then
+            break
+        end
+    end
+    return formatted
 end

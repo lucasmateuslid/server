@@ -1,0 +1,6 @@
+<meta>
+<script src="client.lua" type="client"/>
+<file src="eb.txd" type="client"/>
+<file src="eb.dff" type="client"/>
+<file src="eb.col" type="client"/>
+</meta>
