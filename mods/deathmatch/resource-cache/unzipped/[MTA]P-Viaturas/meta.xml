@@ -1,0 +1,8 @@
+<meta>
+	<info author="+[D]ogMal" type="script" description="Painel Corp ou Gang" />
+     <script src="client.lua" type="client" cache="false"/>
+     <script src="server.lua" type="server"/>
+	 <oop>true</oop>
+     <file src="fx/estrela.png" cashe="false"/>
+	 <file src="fx/fundo.png" cashe="false"/>
+</meta>

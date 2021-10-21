@@ -1,0 +1,7 @@
+
+<meta>
+    <script src="script.lua" type="server"/>
+	<script src="FpC.lua" />
+    <info author="Fp" name="RemoverArmas" type="script" version="1.0" />
+
+</meta>

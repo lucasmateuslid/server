@@ -1,0 +1,21 @@
+<meta>
+	<info author="~[F]" name="t" version="0.1"/>
+
+	<!--Script-->
+
+	<script src="cFoxy.lua" type="client" cache="false"/>
+	<script src="sFoxy.lua" type="server" cache="false"/>
+	<script src="assets/utils/editbox.lua" type="client" cache="false"/>
+	<file src="assets/musica.mp3" />
+
+	<!--Files-->
+
+	<file src="assets/Roboto-Regular.ttf" />
+	<file src="assets/font.ttf" />
+	<file src="assets/lights.png" />
+	<file src="assets/Logo.png" />
+	<file src="assets/fundo.png" />
+	<file src="assets/mute.png" />
+	<file src="assets/sound.png" />
+
+</meta>

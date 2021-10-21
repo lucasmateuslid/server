@@ -1,0 +1,14 @@
+<meta>
+	<info author="PedrinhoAG^" version="1.0" name="Evento" type="script"></info>
+	
+	<!-- Scripts -->
+    <script src="textos.lua" type="server"></script>
+    <script src="textos.lua" type="client"></script>
+    <script src="bloquear.lua" type="server"></script>
+    <script src="bloquear.lua" type="client"></script>
+	<script src="evento.lua" type="server"></script>    
+    <script src="evento_C.lua" type="client"></script>
+    <script src="gui.lua" type="client"></script>
+    
+    <export function="emEvento" type="server"/>
+</meta>

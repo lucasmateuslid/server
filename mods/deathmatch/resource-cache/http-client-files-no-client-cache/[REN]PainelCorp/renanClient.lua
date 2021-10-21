@@ -326,6 +326,13 @@ addEventHandler("onClientClick", root, function(b, s)
 				elseif cursorPosition(x*818, y*445, x*173, y*35) then
 					triggerServerEvent("asto.vipClicks", localPlayer, "Armas", "Bronze", 13) -- UZI
 					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*323, y*450, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Vidas", "Bronze", 1)
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*323, y*499, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Coletes", "Bronze", 1)
+					playSound("assets/sounds/click.ogg")
 				end
 			end
 		end
@@ -360,6 +367,8 @@ addEventHandler("onClientClick", root, function(b, s)
 				elseif cursorPosition(x*820, y*298, x*173, y*35) then
 					triggerServerEvent("asto.vipClicks", localPlayer, "Veiculos", "Bronze", 8) -- Z100
 					playSound("assets/sounds/click.ogg")
+
+			
 
 				end
 			end
@@ -400,15 +409,46 @@ addEventHandler("onClientClick", root, function(b, s)
 					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 8) -- FN PRAÇA
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*540, y*298, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 2) -- FN OFC
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 10) -- FN OFC
 					playSound("assets/sounds/click.ogg")
 				elseif cursorPosition(x*540, y*347, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 2) -- FN FEM
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 11) -- FN FEM
 					playSound("assets/sounds/click.ogg")
 
-				elseif cursorPosition(x*540, y*298, x*173, y*35) then
-					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 2) -- FN OFC
+				elseif cursorPosition(x*640, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 12) -- PMESP PRAÇA
 					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*640, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 13) -- PMESP FEM
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*640, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 14) -- PMESP OFC
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*840, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 15) -- BAEP PRAÇA
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*840, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 16) -- BAEP FEM
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*840, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 17) -- BAEP OFC
+					playSound("assets/sounds/click.ogg")
+
+				elseif cursorPosition(x*740, y*249, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 18) -- PC AGENTE
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*740, y*298, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 19) -- PC FEM
+					playSound("assets/sounds/click.ogg")
+				elseif cursorPosition(x*740, y*347, x*173, y*35) then
+					triggerServerEvent("asto.vipClicks", localPlayer, "Personagens", "Ouro", 20) -- PC SUPERIOR
+					playSound("assets/sounds/click.ogg")
+
+
+
+
+
 
 				end
 			end

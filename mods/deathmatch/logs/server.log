@@ -6933,3 +6933,906 @@
 [2021-10-19 14:44:44] Server stopped!
 [2021-10-19 14:44:44] Stopping resources........................
 [2021-10-19 14:44:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-19 16:13:21] Resources: 205 loaded, 0 failed
+[2021-10-19 16:13:21] Starting resources...
+[2021-10-19 16:13:21] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-19 16:13:21] Gamemode 'play' started.
+[2021-10-19 16:13:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-19 16:13:21] WARNING: <owner_email_address> not set
+[2021-10-19 16:13:21] Server started and is ready to accept connections!
+[2021-10-19 16:13:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-19 16:13:21] Type 'help' for a list of commands.
+[2021-10-19 16:13:21] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-19 16:13:25] Server stopped!
+[2021-10-19 16:13:25] Stopping resources.......................
+[2021-10-19 16:13:25] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-19 16:14:56] Resources: 205 loaded, 0 failed
+[2021-10-19 16:14:56] Starting resources...
+[2021-10-19 16:14:56] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-19 16:14:56] Gamemode 'play' started.
+[2021-10-19 16:14:56] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-19 16:14:56] WARNING: <owner_email_address> not set
+[2021-10-19 16:14:56] Server started and is ready to accept connections!
+[2021-10-19 16:14:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-19 16:14:56] Type 'help' for a list of commands.
+[2021-10-19 16:14:56] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-19 16:15:00] start: Requested by Console
+[2021-10-19 16:15:00] Starting [REN]PainelCorp
+[2021-10-19 16:15:00] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:15:00] INFO: Criação database sucess
+[2021-10-19 16:15:00] Criação database sucess
+[2021-10-19 16:15:00] start: Resource '[REN]PainelCorp' started
+[2021-10-19 16:15:26] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 16:15:28] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 16:15:48] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 16:16:54] NICK: UptightPioneer81 is now known as EB|09-B|2SGT.Renan
+[2021-10-19 16:16:59] NICK: EB|09-B|2SGT.Renan is now known as Renan|B|EB
+[2021-10-19 16:18:26] restart: Requested by Console
+[2021-10-19 16:18:26] restart: Resource restarting...
+[2021-10-19 16:18:26] Stopping [REN]PainelCorp
+[2021-10-19 16:18:26] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:18:26] Starting [REN]PainelCorp
+[2021-10-19 16:18:26] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:18:26] INFO: Criação database sucess
+[2021-10-19 16:18:26] Criação database sucess
+[2021-10-19 16:18:26] [REN]PainelCorp restarted successfully
+[2021-10-19 16:21:07] ADMIN: Renan|B|EB has given Renan|B|EB a 'Huntley'" 
+[2021-10-19 16:21:21] QUIT: Renan|B|EB left the game [Timed out]
+[2021-10-19 16:21:30] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 16:21:31] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 16:26:02] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 16:26:10] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:26:10] Stopping [REN]PainelCorp
+[2021-10-19 16:26:10] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:26:10] Starting [REN]PainelCorp
+[2021-10-19 16:26:10] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:26:10] Criação database sucess
+[2021-10-19 16:26:10] [REN]PainelCorp restarted successfully
+[2021-10-19 16:26:16] INFO: Criação database sucess
+[2021-10-19 16:26:50] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:26:50] Stopping [REN]PainelCorp
+[2021-10-19 16:26:50] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:26:50] Starting [REN]PainelCorp
+[2021-10-19 16:26:50] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:26:50] INFO: Criação database sucess
+[2021-10-19 16:26:50] Criação database sucess
+[2021-10-19 16:26:50] [REN]PainelCorp restarted successfully
+[2021-10-19 16:28:32] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:28:32] Stopping [REN]PainelCorp
+[2021-10-19 16:28:32] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:28:32] Starting [REN]PainelCorp
+[2021-10-19 16:28:32] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:28:32] INFO: Criação database sucess
+[2021-10-19 16:28:32] Criação database sucess
+[2021-10-19 16:28:32] [REN]PainelCorp restarted successfully
+[2021-10-19 16:29:04] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:29:04] Stopping [REN]PainelCorp
+[2021-10-19 16:29:05] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:29:05] Starting [REN]PainelCorp
+[2021-10-19 16:29:05] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:29:05] Criação database sucess
+[2021-10-19 16:29:05] [REN]PainelCorp restarted successfully
+[2021-10-19 16:29:11] INFO: Criação database sucess
+[2021-10-19 16:29:17] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:29:17] Stopping [REN]PainelCorp
+[2021-10-19 16:29:17] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:29:18] Starting [REN]PainelCorp
+[2021-10-19 16:29:18] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:29:18] INFO: Criação database sucess
+[2021-10-19 16:29:18] Criação database sucess
+[2021-10-19 16:29:18] [REN]PainelCorp restarted successfully
+[2021-10-19 16:29:46] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:29:46] Stopping [REN]PainelCorp
+[2021-10-19 16:29:46] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:29:46] Starting [REN]PainelCorp
+[2021-10-19 16:29:46] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:29:46] INFO: Criação database sucess
+[2021-10-19 16:29:46] Criação database sucess
+[2021-10-19 16:29:46] [REN]PainelCorp restarted successfully
+[2021-10-19 16:30:07] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:30:07] Stopping [REN]PainelCorp
+[2021-10-19 16:30:07] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:30:07] Starting [REN]PainelCorp
+[2021-10-19 16:30:07] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:30:07] Criação database sucess
+[2021-10-19 16:30:07] [REN]PainelCorp restarted successfully
+[2021-10-19 16:30:13] INFO: Criação database sucess
+[2021-10-19 16:30:40] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:30:40] Stopping [REN]PainelCorp
+[2021-10-19 16:30:40] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:30:41] Starting [REN]PainelCorp
+[2021-10-19 16:30:41] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:30:41] INFO: Criação database sucess
+[2021-10-19 16:30:41] Criação database sucess
+[2021-10-19 16:30:41] [REN]PainelCorp restarted successfully
+[2021-10-19 16:30:51] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:30:51] Stopping [REN]PainelCorp
+[2021-10-19 16:30:51] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:30:51] Starting [REN]PainelCorp
+[2021-10-19 16:30:51] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:30:51] INFO: Criação database sucess
+[2021-10-19 16:30:51] Criação database sucess
+[2021-10-19 16:30:51] [REN]PainelCorp restarted successfully
+[2021-10-19 16:34:48] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:34:48] Stopping [REN]PainelCorp
+[2021-10-19 16:34:48] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:34:48] Starting [REN]PainelCorp
+[2021-10-19 16:34:48] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:34:48] Criação database sucess
+[2021-10-19 16:34:48] [REN]PainelCorp restarted successfully
+[2021-10-19 16:34:54] INFO: Criação database sucess
+[2021-10-19 16:35:08] ADMIN: UptightPioneer81 has changed UptightPioneer81's health to 20
+[2021-10-19 16:43:18] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:43:18] Stopping [REN]PainelCorp
+[2021-10-19 16:43:18] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:43:18] Starting [REN]PainelCorp
+[2021-10-19 16:43:19] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:43:19] INFO: Criação database sucess
+[2021-10-19 16:43:19] Criação database sucess
+[2021-10-19 16:43:19] [REN]PainelCorp restarted successfully
+[2021-10-19 16:46:03] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:46:03] Stopping [REN]PainelCorp
+[2021-10-19 16:46:03] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:46:03] Starting [REN]PainelCorp
+[2021-10-19 16:46:03] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:46:03] INFO: Criação database sucess
+[2021-10-19 16:46:03] Criação database sucess
+[2021-10-19 16:46:03] [REN]PainelCorp restarted successfully
+[2021-10-19 16:46:53] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:46:53] Stopping [REN]PainelCorp
+[2021-10-19 16:46:53] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:46:53] Starting [REN]PainelCorp
+[2021-10-19 16:46:53] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:46:53] Criação database sucess
+[2021-10-19 16:46:53] [REN]PainelCorp restarted successfully
+[2021-10-19 16:46:59] INFO: Criação database sucess
+[2021-10-19 16:47:37] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:47:37] Stopping [REN]PainelCorp
+[2021-10-19 16:47:37] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:47:37] Starting [REN]PainelCorp
+[2021-10-19 16:47:38] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:47:38] INFO: Criação database sucess
+[2021-10-19 16:47:38] Criação database sucess
+[2021-10-19 16:47:38] [REN]PainelCorp restarted successfully
+[2021-10-19 16:48:16] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:48:16] Stopping [REN]PainelCorp
+[2021-10-19 16:48:16] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:48:16] Starting [REN]PainelCorp
+[2021-10-19 16:48:16] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:48:16] INFO: Criação database sucess
+[2021-10-19 16:48:16] Criação database sucess
+[2021-10-19 16:48:16] [REN]PainelCorp restarted successfully
+[2021-10-19 16:49:03] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:49:03] Stopping [REN]PainelCorp
+[2021-10-19 16:49:03] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:49:03] Starting [REN]PainelCorp
+[2021-10-19 16:49:03] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:49:03] Criação database sucess
+[2021-10-19 16:49:03] [REN]PainelCorp restarted successfully
+[2021-10-19 16:49:09] INFO: Criação database sucess
+[2021-10-19 16:49:39] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:49:39] Stopping [REN]PainelCorp
+[2021-10-19 16:49:40] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:49:40] Starting [REN]PainelCorp
+[2021-10-19 16:49:40] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:49:40] INFO: Criação database sucess
+[2021-10-19 16:49:40] Criação database sucess
+[2021-10-19 16:49:40] [REN]PainelCorp restarted successfully
+[2021-10-19 16:50:07] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 16:50:07] Stopping [REN]PainelCorp
+[2021-10-19 16:50:07] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 16:50:07] Starting [REN]PainelCorp
+[2021-10-19 16:50:07] INFO: resource foi iniciado com sucesso
+[2021-10-19 16:50:07] INFO: Criação database sucess
+[2021-10-19 16:50:07] Criação database sucess
+[2021-10-19 16:50:07] [REN]PainelCorp restarted successfully
+[2021-10-19 16:51:20] QUIT: UptightPioneer81 left the game [Quit]
+[2021-10-19 17:13:22] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 17:13:23] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 17:13:29] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 17:13:36] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:13:36] Stopping [REN]PainelCorp
+[2021-10-19 17:13:36] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:13:36] Starting [REN]PainelCorp
+[2021-10-19 17:13:36] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:13:36] Criação database sucess
+[2021-10-19 17:13:36] [REN]PainelCorp restarted successfully
+[2021-10-19 17:13:42] INFO: Criação database sucess
+[2021-10-19 17:14:10] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:14:10] Stopping [REN]PainelCorp
+[2021-10-19 17:14:10] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:14:10] Starting [REN]PainelCorp
+[2021-10-19 17:14:10] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:14:10] INFO: Criação database sucess
+[2021-10-19 17:14:10] Criação database sucess
+[2021-10-19 17:14:10] [REN]PainelCorp restarted successfully
+[2021-10-19 17:14:57] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:14:57] Stopping [REN]PainelCorp
+[2021-10-19 17:14:57] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:14:58] Starting [REN]PainelCorp
+[2021-10-19 17:14:58] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:14:58] INFO: Criação database sucess
+[2021-10-19 17:14:58] Criação database sucess
+[2021-10-19 17:14:58] [REN]PainelCorp restarted successfully
+[2021-10-19 17:19:41] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:19:41] Stopping [REN]PainelCorp
+[2021-10-19 17:19:41] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:19:41] Starting [REN]PainelCorp
+[2021-10-19 17:19:41] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:19:41] Criação database sucess
+[2021-10-19 17:19:41] [REN]PainelCorp restarted successfully
+[2021-10-19 17:19:47] INFO: Criação database sucess
+[2021-10-19 17:21:03] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:21:03] Stopping [REN]PainelCorp
+[2021-10-19 17:21:03] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:21:04] Starting [REN]PainelCorp
+[2021-10-19 17:21:04] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:21:04] INFO: Criação database sucess
+[2021-10-19 17:21:04] Criação database sucess
+[2021-10-19 17:21:04] [REN]PainelCorp restarted successfully
+[2021-10-19 17:21:26] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:21:26] Stopping [REN]PainelCorp
+[2021-10-19 17:21:26] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:21:26] Starting [REN]PainelCorp
+[2021-10-19 17:21:26] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:21:26] INFO: Criação database sucess
+[2021-10-19 17:21:26] Criação database sucess
+[2021-10-19 17:21:26] [REN]PainelCorp restarted successfully
+[2021-10-19 17:21:49] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:21:49] Stopping [REN]PainelCorp
+[2021-10-19 17:21:49] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:21:49] Starting [REN]PainelCorp
+[2021-10-19 17:21:49] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:21:49] Criação database sucess
+[2021-10-19 17:21:49] [REN]PainelCorp restarted successfully
+[2021-10-19 17:21:55] INFO: Criação database sucess
+[2021-10-19 17:22:22] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:22:22] Stopping [REN]PainelCorp
+[2021-10-19 17:22:22] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:22:22] Starting [REN]PainelCorp
+[2021-10-19 17:22:22] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:22:22] INFO: Criação database sucess
+[2021-10-19 17:22:22] Criação database sucess
+[2021-10-19 17:22:22] [REN]PainelCorp restarted successfully
+[2021-10-19 17:22:37] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:22:37] Stopping [REN]PainelCorp
+[2021-10-19 17:22:37] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:22:37] Starting [REN]PainelCorp
+[2021-10-19 17:22:37] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:22:37] INFO: Criação database sucess
+[2021-10-19 17:22:37] Criação database sucess
+[2021-10-19 17:22:37] [REN]PainelCorp restarted successfully
+[2021-10-19 17:25:43] Starting [CARE]CAR1
+[2021-10-19 17:25:43] startResource: Resource '[CARE]CAR1' started
+[2021-10-19 17:25:43] ADMIN: Resource '[CARE]CAR1' started by UptightPioneer81(Lucas)
+[2021-10-19 17:25:59] QUIT: UptightPioneer81 left the game [Timed out]
+[2021-10-19 17:26:07] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 17:26:08] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 17:26:18] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 17:26:25] Starting [CARE]CAR2
+[2021-10-19 17:26:25] startResource: Resource '[CARE]CAR2' started
+[2021-10-19 17:26:25] ADMIN: Resource '[CARE]CAR2' started by UptightPioneer81(Lucas)
+[2021-10-19 17:26:26] Starting [CARE]CAR3
+[2021-10-19 17:26:26] startResource: Resource '[CARE]CAR3' started
+[2021-10-19 17:26:26] ADMIN: Resource '[CARE]CAR3' started by UptightPioneer81(Lucas)
+[2021-10-19 17:26:31] Starting [REN]URUS
+[2021-10-19 17:26:31] startResource: Resource '[REN]URUS' started
+[2021-10-19 17:26:31] ADMIN: Resource '[REN]URUS' started by UptightPioneer81(Lucas)
+[2021-10-19 17:27:43] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:54] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:55] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:56] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:56] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:57] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:58] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:58] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:58] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:59] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:59] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:27:59] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:28:40] Starting [PainelVeiculo]
+[2021-10-19 17:28:40] startResource: Resource '[PainelVeiculo]' started
+[2021-10-19 17:28:40] ADMIN: Resource '[PainelVeiculo]' started by UptightPioneer81(Lucas)
+[2021-10-19 17:29:43] ADMIN: UptightPioneer81 has given UptightPioneer81 a 'Police LV'" 
+[2021-10-19 17:29:58] ADMIN: UptightPioneer81 has given UptightPioneer81 a 'Police LS'" 
+[2021-10-19 17:31:03] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:32:10] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:35:44] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 17:46:57] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:46:57] Stopping [REN]PainelCorp
+[2021-10-19 17:46:57] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:46:57] Starting [REN]PainelCorp
+[2021-10-19 17:46:57] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:46:57] Criação database sucess
+[2021-10-19 17:46:57] [REN]PainelCorp restarted successfully
+[2021-10-19 17:47:01] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:47:01] Stopping [REN]PainelCorp
+[2021-10-19 17:47:01] Starting [REN]PainelCorp
+[2021-10-19 17:47:01] Criação database sucess
+[2021-10-19 17:47:01] [REN]PainelCorp restarted successfully
+[2021-10-19 17:47:01] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:47:01] Stopping [REN]PainelCorp
+[2021-10-19 17:47:01] Starting [REN]PainelCorp
+[2021-10-19 17:47:01] Criação database sucess
+[2021-10-19 17:47:01] [REN]PainelCorp restarted successfully
+[2021-10-19 17:47:03] INFO: Criação database sucess  [DUP x2]
+[2021-10-19 17:47:03] INFO: resource foi iniciado com sucesso  [DUP x2]
+[2021-10-19 17:47:03] INFO: Criação database sucess
+[2021-10-19 17:47:21] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:47:21] Stopping [REN]PainelCorp
+[2021-10-19 17:47:21] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:47:21] Starting [REN]PainelCorp
+[2021-10-19 17:47:21] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:47:21] INFO: Criação database sucess
+[2021-10-19 17:47:21] Criação database sucess
+[2021-10-19 17:47:21] [REN]PainelCorp restarted successfully
+[2021-10-19 17:47:57] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:47:57] Stopping [REN]PainelCorp
+[2021-10-19 17:47:57] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:47:57] Starting [REN]PainelCorp
+[2021-10-19 17:47:57] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:47:57] INFO: Criação database sucess
+[2021-10-19 17:47:57] Criação database sucess
+[2021-10-19 17:47:57] [REN]PainelCorp restarted successfully
+[2021-10-19 17:48:16] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:48:16] Stopping [REN]PainelCorp
+[2021-10-19 17:48:16] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:48:16] Starting [REN]PainelCorp
+[2021-10-19 17:48:16] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:48:16] Criação database sucess
+[2021-10-19 17:48:16] [REN]PainelCorp restarted successfully
+[2021-10-19 17:48:22] INFO: Criação database sucess
+[2021-10-19 17:48:55] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:48:55] Stopping [REN]PainelCorp
+[2021-10-19 17:48:55] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:48:55] Starting [REN]PainelCorp
+[2021-10-19 17:48:55] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:48:55] INFO: Criação database sucess
+[2021-10-19 17:48:55] Criação database sucess
+[2021-10-19 17:48:55] [REN]PainelCorp restarted successfully
+[2021-10-19 17:49:06] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:49:06] Stopping [REN]PainelCorp
+[2021-10-19 17:49:06] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:49:06] Starting [REN]PainelCorp
+[2021-10-19 17:49:06] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:49:06] INFO: Criação database sucess
+[2021-10-19 17:49:06] Criação database sucess
+[2021-10-19 17:49:06] [REN]PainelCorp restarted successfully
+[2021-10-19 17:49:17] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:49:17] Stopping [REN]PainelCorp
+[2021-10-19 17:49:17] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:49:17] Starting [REN]PainelCorp
+[2021-10-19 17:49:17] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:49:17] Criação database sucess
+[2021-10-19 17:49:17] [REN]PainelCorp restarted successfully
+[2021-10-19 17:49:23] INFO: Criação database sucess
+[2021-10-19 17:50:55] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:50:55] Stopping [REN]PainelCorp
+[2021-10-19 17:50:55] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:50:55] Starting [REN]PainelCorp
+[2021-10-19 17:50:55] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:50:55] INFO: Criação database sucess
+[2021-10-19 17:50:55] Criação database sucess
+[2021-10-19 17:50:55] [REN]PainelCorp restarted successfully
+[2021-10-19 17:50:57] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:121: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-10-19 17:50:57] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:122: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-10-19 17:51:03] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:121: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-10-19 17:51:03] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:122: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-10-19 17:56:06] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 17:56:06] Stopping [REN]PainelCorp
+[2021-10-19 17:56:06] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 17:56:06] Starting [REN]PainelCorp
+[2021-10-19 17:56:06] INFO: resource foi iniciado com sucesso
+[2021-10-19 17:56:06] INFO: Criação database sucess
+[2021-10-19 17:56:06] Criação database sucess
+[2021-10-19 17:56:06] [REN]PainelCorp restarted successfully
+[2021-10-19 17:56:09] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-10-19 17:56:09] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-10-19 17:56:15] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]  [DUP x3]
+[2021-10-19 17:56:15] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]  [DUP x3]
+[2021-10-19 18:00:04] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-10-19 18:00:04] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-10-19 18:00:10] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]  [DUP x9]
+[2021-10-19 18:00:10] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]  [DUP x9]
+[2021-10-19 18:00:24] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1]
+[2021-10-19 18:00:24] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2]
+[2021-10-19 18:00:30] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:134: Bad argument @ 'setElementRotation' [Expected element at argument 1]  [DUP x2]
+[2021-10-19 18:00:30] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:135: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2]  [DUP x2]
+[2021-10-19 18:02:45] ADMIN: UptightPioneer81 has changed time to 12:00
+[2021-10-19 18:02:47] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:02:47] Stopping [REN]PainelCorp
+[2021-10-19 18:02:47] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:02:47] Starting [REN]PainelCorp
+[2021-10-19 18:02:47] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:02:47] INFO: Criação database sucess
+[2021-10-19 18:02:47] Criação database sucess
+[2021-10-19 18:02:47] [REN]PainelCorp restarted successfully
+[2021-10-19 18:02:48] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:02:48] Stopping [REN]PainelCorp
+[2021-10-19 18:02:48] Starting [REN]PainelCorp
+[2021-10-19 18:02:48] Criação database sucess
+[2021-10-19 18:02:48] [REN]PainelCorp restarted successfully
+[2021-10-19 18:02:53] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:02:53] INFO: Criação database sucess
+[2021-10-19 18:05:35] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:05:35] Stopping [REN]PainelCorp
+[2021-10-19 18:05:35] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:05:35] Starting [REN]PainelCorp
+[2021-10-19 18:05:35] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:05:35] INFO: Criação database sucess
+[2021-10-19 18:05:35] Criação database sucess
+[2021-10-19 18:05:35] [REN]PainelCorp restarted successfully
+[2021-10-19 18:06:04] ADMIN: UptightPioneer81 has fixed vehicle of UptightPioneer81
+[2021-10-19 18:07:11] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:07:11] Stopping [REN]PainelCorp
+[2021-10-19 18:07:11] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:07:11] Starting [REN]PainelCorp
+[2021-10-19 18:07:11] SCRIPT ERROR: [gameplay]\[REN]PainelCorp\renanServer.lua:110: 'end' expected (to close 'if' at line 100) near 'elseif'
+[2021-10-19 18:07:11] ERROR: Loading script failed: [gameplay]\[REN]PainelCorp\renanServer.lua:110: 'end' expected (to close 'if' at line 100) near 'elseif'
+[2021-10-19 18:07:11] [REN]PainelCorp restarted successfully
+[2021-10-19 18:07:13] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside
+[2021-10-19 18:07:19] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside  [DUP x6]
+[2021-10-19 18:07:33] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:07:33] Stopping [REN]PainelCorp
+[2021-10-19 18:07:34] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:07:34] Starting [REN]PainelCorp
+[2021-10-19 18:07:34] SCRIPT ERROR: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:07:34] ERROR: Loading script failed: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:07:34] [REN]PainelCorp restarted successfully
+[2021-10-19 18:07:35] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside
+[2021-10-19 18:07:41] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside  [DUP x5]
+[2021-10-19 18:12:25] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside
+[2021-10-19 18:12:31] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside  [DUP x3]
+[2021-10-19 18:12:46] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:12:46] Stopping [REN]PainelCorp
+[2021-10-19 18:12:46] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:12:46] Starting [REN]PainelCorp
+[2021-10-19 18:12:46] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:12:46] INFO: Criação database sucess
+[2021-10-19 18:12:46] Criação database sucess
+[2021-10-19 18:12:46] [REN]PainelCorp restarted successfully
+[2021-10-19 18:13:28] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:115: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]
+[2021-10-19 18:13:28] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:119: Bad argument @ 'getVehicleName' [Expected vehicle at argument 1, got boolean]
+[2021-10-19 18:13:28] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:122: Bad argument @ 'setElementRotation' [Expected element at argument 1, got boolean]
+[2021-10-19 18:13:28] WARNING: [gameplay]\[REN]PainelCorp\renanServer.lua:123: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got boolean]
+[2021-10-19 18:14:32] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:14:32] Stopping [REN]PainelCorp
+[2021-10-19 18:14:32] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:14:32] Starting [REN]PainelCorp
+[2021-10-19 18:14:32] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:14:32] INFO: Criação database sucess
+[2021-10-19 18:14:32] Criação database sucess
+[2021-10-19 18:14:32] [REN]PainelCorp restarted successfully
+[2021-10-19 18:14:55] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:14:55] Stopping [REN]PainelCorp
+[2021-10-19 18:14:56] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:14:56] Starting [REN]PainelCorp
+[2021-10-19 18:14:56] SCRIPT ERROR: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:14:56] ERROR: Loading script failed: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:14:56] [REN]PainelCorp restarted successfully
+[2021-10-19 18:14:57] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside
+[2021-10-19 18:15:03] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside  [DUP x21]
+[2021-10-19 18:15:03] ERROR: Client (UptightPioneer81) triggered serverside event asto.vipClicks, but event is not added serverside
+[2021-10-19 18:15:46] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:15:46] Stopping [REN]PainelCorp
+[2021-10-19 18:15:46] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:15:46] Starting [REN]PainelCorp
+[2021-10-19 18:15:46] SCRIPT ERROR: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:15:46] ERROR: Loading script failed: [gameplay]\[REN]PainelCorp\renanServer.lua:508: ')' expected (to close '(' at line 24) near 'end'
+[2021-10-19 18:15:46] [REN]PainelCorp restarted successfully
+[2021-10-19 18:16:05] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:16:05] Stopping [REN]PainelCorp
+[2021-10-19 18:16:05] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:16:05] Starting [REN]PainelCorp
+[2021-10-19 18:16:05] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:16:05] INFO: Criação database sucess
+[2021-10-19 18:16:05] Criação database sucess
+[2021-10-19 18:16:05] [REN]PainelCorp restarted successfully
+[2021-10-19 18:16:09] Starting [REN]G63
+[2021-10-19 18:16:09] startResource: Resource '[REN]G63' started
+[2021-10-19 18:16:09] ADMIN: Resource '[REN]G63' started by UptightPioneer81(Lucas)
+[2021-10-19 18:16:11] WARNING: File 'eb.dff' in resource '[REN]MODEL-EB' contains errors.
+[2021-10-19 18:16:12] Starting [REN]MODEL-EB
+[2021-10-19 18:16:12] startResource: Resource '[REN]MODEL-EB' started
+[2021-10-19 18:16:12] ADMIN: Resource '[REN]MODEL-EB' started by UptightPioneer81(Lucas)
+[2021-10-19 18:16:19] Starting [REN]MAP-EB
+[2021-10-19 18:16:19] startResource: Resource '[REN]MAP-EB' started
+[2021-10-19 18:16:19] ADMIN: Resource '[REN]MAP-EB' started by UptightPioneer81(Lucas)
+[2021-10-19 18:16:57] ADMIN: UptightPioneer81 has given UptightPioneer81 a 'Police LS'" 
+[2021-10-19 18:17:16] ADMIN: UptightPioneer81 has given UptightPioneer81 a 'Police LS'" 
+[2021-10-19 18:18:17] ADMIN: UptightPioneer81 has given UptightPioneer81 a 'Huntley'" 
+[2021-10-19 18:28:07] ADMIN: Resource '[REN]PainelCorp' restarted by UptightPioneer81(Lucas)
+[2021-10-19 18:28:07] Stopping [REN]PainelCorp
+[2021-10-19 18:28:08] Resource '[REN]PainelCorp' changed, reloading and starting
+[2021-10-19 18:28:08] Starting [REN]PainelCorp
+[2021-10-19 18:28:08] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:28:08] INFO: Criação database sucess
+[2021-10-19 18:28:08] Criação database sucess
+[2021-10-19 18:28:08] [REN]PainelCorp restarted successfully
+[2021-10-19 18:29:31] Server stopped!
+[2021-10-19 18:29:31] Stopping resources................................
+[2021-10-19 18:29:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-19 18:45:25] Resources: 205 loaded, 0 failed
+[2021-10-19 18:45:25] Starting resources...
+[2021-10-19 18:45:25] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-19 18:45:25] Gamemode 'play' started.
+[2021-10-19 18:45:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-19 18:45:25] WARNING: <owner_email_address> not set
+[2021-10-19 18:45:25] Server started and is ready to accept connections!
+[2021-10-19 18:45:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-19 18:45:25] Type 'help' for a list of commands.
+[2021-10-19 18:45:26] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-19 18:45:56] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 18:45:57] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 18:46:21] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 18:46:26] ADMIN: UptightPioneer81 has given UptightPioneer81 'AK-47'
+[2021-10-19 18:46:27] ADMIN: UptightPioneer81 has given UptightPioneer81 'AK-47'
+[2021-10-19 18:46:27] ADMIN: UptightPioneer81 has given UptightPioneer81 'AK-47'
+[2021-10-19 18:46:27] ADMIN: UptightPioneer81 has given UptightPioneer81 'AK-47'
+[2021-10-19 18:46:27] ADMIN: UptightPioneer81 has given UptightPioneer81 'AK-47'
+[2021-10-19 18:47:11] QUIT: UptightPioneer81 left the game [Quit]
+[2021-10-19 18:50:03] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 18:50:05] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 18:55:46] QUIT: UptightPioneer81 left the game [Quit]
+[2021-10-19 18:56:56] CONNECT: UptightPioneer81 connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-19 18:56:57] JOIN: UptightPioneer81 joined the game (IP: 192.168.1.6)
+[2021-10-19 18:58:41] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) UptightPioneer81 successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-19 18:58:53] Starting [REN]PainelCorp
+[2021-10-19 18:58:53] INFO: resource foi iniciado com sucesso
+[2021-10-19 18:58:53] INFO: Criação database sucess
+[2021-10-19 18:58:53] Criação database sucess
+[2021-10-19 18:58:53] startResource: Resource '[REN]PainelCorp' started
+[2021-10-19 18:58:53] ADMIN: Resource '[REN]PainelCorp' started by UptightPioneer81(Lucas)
+[2021-10-19 19:01:54] QUIT: UptightPioneer81 left the game [Quit]
+[2021-10-19 19:32:35] Server stopped!
+[2021-10-19 19:32:35] Stopping resources........................
+[2021-10-19 19:32:35] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-20 12:46:39] Resources: 205 loaded, 0 failed
+[2021-10-20 12:46:39] Starting resources...
+[2021-10-20 12:46:40] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-20 12:46:40] Gamemode 'play' started.
+[2021-10-20 12:46:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-20 12:46:40] WARNING: <owner_email_address> not set
+[2021-10-20 12:46:40] Server started and is ready to accept connections!
+[2021-10-20 12:46:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-20 12:46:40] Type 'help' for a list of commands.
+[2021-10-20 12:46:40] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-20 12:48:05] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 12:48:07] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 12:48:18] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-20 12:48:39] start: Requested by Console
+[2021-10-20 12:48:39] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-20 12:48:39] Starting [BGR]Armas
+[2021-10-20 12:48:39] start: Resource '[BGR]Armas' started
+[2021-10-20 12:50:20] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 12:50:20] Stopping [BGR]Armas
+[2021-10-20 12:50:20] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-20 12:50:20] Starting [BGR]Armas
+[2021-10-20 12:50:21] [BGR]Armas restarted successfully
+[2021-10-20 12:52:28] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 12:53:37] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 12:53:39] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 12:53:43] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-20 12:55:25] start: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 12:55:25] Starting editor
+[2021-10-20 12:55:25] Starting edf
+[2021-10-20 12:55:25] Starting editor_main
+[2021-10-20 12:55:25] Starting freecam
+[2021-10-20 12:55:25] Starting move_freecam
+[2021-10-20 12:55:25] Starting move_cursor
+[2021-10-20 12:55:25] Starting move_keyboard
+[2021-10-20 12:55:25] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-20 12:55:26] Starting editor_gui
+[2021-10-20 12:55:26] Starting msgbox
+[2021-10-20 12:55:26] Starting tooltip
+[2021-10-20 12:55:26] Stopping play
+[2021-10-20 12:55:26] Stopping freeroam
+[2021-10-20 12:57:19] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 12:57:19] Stopping [BGR]Armas
+[2021-10-20 12:57:19] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-20 12:57:19] Starting [BGR]Armas
+[2021-10-20 12:57:19] [BGR]Armas restarted successfully
+[2021-10-20 13:44:48] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 13:58:53] Server stopped!
+[2021-10-20 13:58:53] Stopping resources........................
+[2021-10-20 13:58:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-20 16:33:18] Resources: 298 loaded, 0 failed
+[2021-10-20 16:33:18] Starting resources...
+[2021-10-20 16:33:18] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-20 16:33:19] Gamemode 'play' started.
+[2021-10-20 16:33:19] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-20 16:33:19] WARNING: <owner_email_address> not set
+[2021-10-20 16:33:19] Server started and is ready to accept connections!
+[2021-10-20 16:33:19] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-20 16:33:19] Type 'help' for a list of commands.
+[2021-10-20 16:33:19] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-20 16:34:18] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 16:34:19] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 16:34:27] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-20 16:35:10] Starting [REN]PainelCorp
+[2021-10-20 16:35:10] INFO: resource foi iniciado com sucesso
+[2021-10-20 16:35:10] INFO: Criação database sucess
+[2021-10-20 16:35:10] Criação database sucess
+[2021-10-20 16:35:10] startResource: Resource '[REN]PainelCorp' started
+[2021-10-20 16:35:10] ADMIN: Resource '[REN]PainelCorp' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:24] Starting [MTA]P-Armas
+[2021-10-20 16:35:24] startResource: Resource '[MTA]P-Armas' started
+[2021-10-20 16:35:24] ADMIN: Resource '[MTA]P-Armas' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:34] Starting [MTA]P-Veiculo
+[2021-10-20 16:35:34] WARNING: [MTA]P-Veiculo\s.lua:1: Bad argument @ 'addEventHandler' [Expected function at argument 3, got nil]
+[2021-10-20 16:35:34] startResource: Resource '[MTA]P-Veiculo' started
+[2021-10-20 16:35:34] ADMIN: Resource '[MTA]P-Veiculo' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:40] Starting [MTA]P-Skins
+[2021-10-20 16:35:40] startResource: Resource '[MTA]P-Skins' started
+[2021-10-20 16:35:40] ADMIN: Resource '[MTA]P-Skins' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:54] Starting [MTA]P-Eventos
+[2021-10-20 16:35:54] startResource: Resource '[MTA]P-Eventos' started
+[2021-10-20 16:35:54] ADMIN: Resource '[MTA]P-Eventos' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:56] Starting [MTA]P-Ocutar
+[2021-10-20 16:35:56] startResource: Resource '[MTA]P-Ocutar' started
+[2021-10-20 16:35:56] ADMIN: Resource '[MTA]P-Ocutar' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:35:58] Starting [MTA]P-Policial
+[2021-10-20 16:35:58] startResource: Resource '[MTA]P-Policial' started
+[2021-10-20 16:35:58] ADMIN: Resource '[MTA]P-Policial' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:36:02] Starting [MTA]P-Tag
+[2021-10-20 16:36:02] startResource: Resource '[MTA]P-Tag' started
+[2021-10-20 16:36:02] ADMIN: Resource '[MTA]P-Tag' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:36:06] WARNING: admin\server\admin_server.lua:1264: Attempt to restart a stopped resource
+[2021-10-20 16:36:07] Starting [MTA]P-Viaturas
+[2021-10-20 16:36:07] startResource: Resource '[MTA]P-Viaturas' started
+[2021-10-20 16:36:07] ADMIN: Resource '[MTA]P-Viaturas' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:36:09] ADMIN: Resource '[MTA]P-Veiculo' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:36:09] Stopping [MTA]P-Veiculo
+[2021-10-20 16:36:09] Starting [MTA]P-Veiculo
+[2021-10-20 16:36:09] [MTA]P-Veiculo restarted successfully
+[2021-10-20 16:36:12] WARNING: [MTA]P-Veiculo\s.lua:1: Bad argument @ 'addEventHandler' [Expected function at argument 3, got nil]
+[2021-10-20 16:37:31] start: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:37:31] Starting editor
+[2021-10-20 16:37:31] Starting edf
+[2021-10-20 16:37:31] Starting editor_main
+[2021-10-20 16:37:32] Starting freecam
+[2021-10-20 16:37:32] Starting move_freecam
+[2021-10-20 16:37:32] Starting move_cursor
+[2021-10-20 16:37:32] Starting move_keyboard
+[2021-10-20 16:37:32] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-20 16:37:32] Starting editor_gui
+[2021-10-20 16:37:32] Starting msgbox
+[2021-10-20 16:37:32] Starting tooltip
+[2021-10-20 16:37:32] Stopping play
+[2021-10-20 16:37:32] Stopping freeroam
+[2021-10-20 16:37:40] Starting [BGR]Armas
+[2021-10-20 16:37:40] startResource: Resource '[BGR]Armas' started
+[2021-10-20 16:37:40] ADMIN: Resource '[BGR]Armas' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:37:48] stop: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 16:37:48] Stopping editor
+[2021-10-20 16:37:48] Stopping edf
+[2021-10-20 16:37:48] Stopping editor_main
+[2021-10-20 16:37:48] Stopping freecam
+[2021-10-20 16:37:48] Stopping move_freecam
+[2021-10-20 16:37:48] Stopping move_cursor
+[2021-10-20 16:37:48] Stopping move_keyboard
+[2021-10-20 16:37:48] Stopping editor_gui
+[2021-10-20 16:37:48] Stopping msgbox
+[2021-10-20 16:37:48] Stopping tooltip
+[2021-10-20 16:37:48] ERROR: Client (EB|09-B|2SGT.Renan) triggered serverside event doSaveMapSettings, but event is not added serverside
+[2021-10-20 16:37:52] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 16:37:56] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 16:37:56] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 16:40:03] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 16:41:00] Server stopped!
+[2021-10-20 16:41:00] Stopping resources...............................
+[2021-10-20 16:41:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-20 16:41:15] Resources: 298 loaded, 0 failed
+[2021-10-20 16:41:15] Starting resources...
+[2021-10-20 16:41:15] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-20 16:41:15] Gamemode 'play' started.
+[2021-10-20 16:41:15] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-20 16:41:15] WARNING: <owner_email_address> not set
+[2021-10-20 16:41:15] Server started and is ready to accept connections!
+[2021-10-20 16:41:15] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-20 16:41:15] Type 'help' for a list of commands.
+[2021-10-20 16:41:15] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-20 16:41:36] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 16:41:41] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 16:58:38] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 19:03:38] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-20 19:03:38] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-20 19:03:55] LOGIN: EB|09-B|2SGT.Renan tried to log in as 'Lucas' with an invalid password (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-20 19:03:58] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-20 19:04:30] ADMIN: EB|09-B|2SGT.Renan has given EB|09-B|2SGT.Renan a 'Police LS'" 
+[2021-10-20 19:04:35] Starting [CARE]CAR1
+[2021-10-20 19:04:35] startResource: Resource '[CARE]CAR1' started
+[2021-10-20 19:04:35] ADMIN: Resource '[CARE]CAR1' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:04:37] Starting [CARE]CAR2
+[2021-10-20 19:04:37] startResource: Resource '[CARE]CAR2' started
+[2021-10-20 19:04:37] ADMIN: Resource '[CARE]CAR2' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:05:19] ADMIN: Resource '[CARE]CAR2' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:05:19] Stopping [CARE]CAR2
+[2021-10-20 19:05:20] Resource '[CARE]CAR2' changed, reloading and starting
+[2021-10-20 19:05:20] Starting [CARE]CAR2
+[2021-10-20 19:05:20] [CARE]CAR2 restarted successfully
+[2021-10-20 19:05:21] ADMIN: Resource '[CARE]CAR1' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:05:21] Stopping [CARE]CAR1
+[2021-10-20 19:05:22] Resource '[CARE]CAR1' changed, reloading and starting
+[2021-10-20 19:05:22] Starting [CARE]CAR1
+[2021-10-20 19:05:22] [CARE]CAR1 restarted successfully
+[2021-10-20 19:07:37] New resource '[REN]HANDS' loaded
+[2021-10-20 19:07:37] Resources: 299 loaded, 0 failed
+[2021-10-20 19:08:10] Starting [REN]HANDS
+[2021-10-20 19:08:10] WARNING: [gameplay]\[REN]HANDS\server.lua:84: Bad argument @ 'addEventHandler' [Expected function at argument 3, got nil]
+[2021-10-20 19:08:10] startResource: Resource '[REN]HANDS' started
+[2021-10-20 19:08:10] ADMIN: Resource '[REN]HANDS' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:09:28] ADMIN: Resource '[REN]HANDS' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:09:28] Stopping [REN]HANDS
+[2021-10-20 19:09:28] Resource '[REN]HANDS' changed, reloading and starting
+[2021-10-20 19:09:28] Starting [REN]HANDS
+[2021-10-20 19:09:28] SCRIPT ERROR: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:09:28] ERROR: Loading script failed: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:09:28] [REN]HANDS restarted successfully
+[2021-10-20 19:09:54] ADMIN: Resource '[REN]HANDS' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:09:54] Stopping [REN]HANDS
+[2021-10-20 19:09:56] Starting [MTA]Hand
+[2021-10-20 19:09:56] startResource: Resource '[MTA]Hand' started
+[2021-10-20 19:09:56] ADMIN: Resource '[MTA]Hand' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:19] Starting [MTA]NoBluer
+[2021-10-20 19:10:19] startResource: Resource '[MTA]NoBluer' started
+[2021-10-20 19:10:19] ADMIN: Resource '[MTA]NoBluer' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:38] ADMIN: Resource '[MTA]Hand' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:38] Stopping [MTA]Hand
+[2021-10-20 19:10:39] Starting [REN]HANDS
+[2021-10-20 19:10:39] SCRIPT ERROR: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:10:39] ERROR: Loading script failed: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:10:39] startResource: Resource '[REN]HANDS' started
+[2021-10-20 19:10:39] ADMIN: Resource '[REN]HANDS' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:45] WARNING: admin\server\admin_server.lua:1264: Attempt to restart a stopped resource
+[2021-10-20 19:10:45] Starting [MTA]Hand
+[2021-10-20 19:10:45] startResource: Resource '[MTA]Hand' started
+[2021-10-20 19:10:45] ADMIN: Resource '[MTA]Hand' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:47] ADMIN: Resource '[REN]HANDS' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:47] Stopping [REN]HANDS
+[2021-10-20 19:10:48] ADMIN: Resource '[MTA]Hand' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:10:48] Stopping [MTA]Hand
+[2021-10-20 19:10:49] Starting [REN]HANDS
+[2021-10-20 19:10:49] SCRIPT ERROR: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:10:49] ERROR: Loading script failed: [gameplay]\[REN]HANDS\server.lua:17: unexpected symbol near ','
+[2021-10-20 19:10:49] startResource: Resource '[REN]HANDS' started
+[2021-10-20 19:10:49] ADMIN: Resource '[REN]HANDS' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:11:22] ADMIN: EB|09-B|2SGT.Renan has given EB|09-B|2SGT.Renan a 'Police LV'" 
+[2021-10-20 19:13:33] New resource 'Handling_BR' loaded
+[2021-10-20 19:13:33] Resources: 300 loaded, 0 failed
+[2021-10-20 19:13:47] Starting Handling_BR
+[2021-10-20 19:13:47] INFO: ===============================================================================
+[2021-10-20 19:13:47] INFO:  MTA:SA HANDLING EDITOR [hedit.googlecode.com]
+[2021-10-20 19:13:47] startResource: Resource 'Handling_BR' started
+[2021-10-20 19:13:47] ADMIN: Resource 'Handling_BR' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:13:50] ADMIN: Resource '[REN]HANDS' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:13:50] Stopping [REN]HANDS
+[2021-10-20 19:13:53] INFO: ===============================================================================
+[2021-10-20 19:14:55] INFO: Can't change property driveType to value 'rodas traseiras'
+[2021-10-20 19:17:06] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:18:47] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:18:48] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:18:48] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:18:56] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:24:54] INFO: Can't change property suspensionDamping to value '0'
+[2021-10-20 19:25:00] INFO: Can't change property suspensionDamping to value '0'
+[2021-10-20 19:29:07] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:29:47] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:29:48] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:30:06] Starting [MTA]P-Animacao
+[2021-10-20 19:30:06] startResource: Resource '[MTA]P-Animacao' started
+[2021-10-20 19:30:06] ADMIN: Resource '[MTA]P-Animacao' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:08] Starting [MTA]P-Armas
+[2021-10-20 19:30:08] startResource: Resource '[MTA]P-Armas' started
+[2021-10-20 19:30:08] ADMIN: Resource '[MTA]P-Armas' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:09] Starting [MTA]P-Ocutar
+[2021-10-20 19:30:09] startResource: Resource '[MTA]P-Ocutar' started
+[2021-10-20 19:30:09] ADMIN: Resource '[MTA]P-Ocutar' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:12] Starting [MTA]P-Eventos
+[2021-10-20 19:30:12] startResource: Resource '[MTA]P-Eventos' started
+[2021-10-20 19:30:12] ADMIN: Resource '[MTA]P-Eventos' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:15] Starting [MTA]P-Policial
+[2021-10-20 19:30:15] startResource: Resource '[MTA]P-Policial' started
+[2021-10-20 19:30:15] ADMIN: Resource '[MTA]P-Policial' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:17] Starting [MTA]P-Skins
+[2021-10-20 19:30:17] startResource: Resource '[MTA]P-Skins' started
+[2021-10-20 19:30:17] ADMIN: Resource '[MTA]P-Skins' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:19] Starting [MTA]P-Veiculo
+[2021-10-20 19:30:19] WARNING: [MTA]P-Veiculo\s.lua:1: Bad argument @ 'addEventHandler' [Expected function at argument 3, got nil]
+[2021-10-20 19:30:19] startResource: Resource '[MTA]P-Veiculo' started
+[2021-10-20 19:30:19] ADMIN: Resource '[MTA]P-Veiculo' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:22] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:30:23] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:30:23] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:30:25] ADMIN: EB|09-B|2SGT.Renan has fixed vehicle of EB|09-B|2SGT.Renan
+[2021-10-20 19:30:35] Starting [MTA]P-Viaturas
+[2021-10-20 19:30:35] startResource: Resource '[MTA]P-Viaturas' started
+[2021-10-20 19:30:35] ADMIN: Resource '[MTA]P-Viaturas' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-20 19:30:39] ERROR: [MTA]P-Viaturas\server.lua:169: exports: Call to non-running server resource (infobox) [string "?"]
+[2021-10-20 19:42:57] QUIT: EB|09-B|2SGT.Renan left the game [Quit]
+[2021-10-20 19:43:11] Server stopped!
+[2021-10-20 19:43:11] Stopping resources...................................
+[2021-10-20 19:43:11] Closing SQLite3 database

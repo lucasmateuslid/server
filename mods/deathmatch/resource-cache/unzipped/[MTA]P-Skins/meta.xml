@@ -1,0 +1,6 @@
+<meta>
+     <info author="Fp" version="1" name="Painel Fardas" description="" type="script" />
+     <script src="client.lua" type="client"/>
+     <script src="server.lua" type="server"/>
+
+</meta>

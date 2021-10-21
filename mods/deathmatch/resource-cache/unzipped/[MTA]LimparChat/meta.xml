@@ -1,0 +1,5 @@
+<meta>
+    <info author="~[w]are^" version="1.0" name="Limpar Chat com animação" />
+	<script src="server.lua" type="server" />
+    <script src="client.lua" type="client" cache="false"/>
+</meta>

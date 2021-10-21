@@ -1,0 +1,6 @@
+<meta>
+     <file src="blip.wav" />
+     <script src="util.lua" type="client" />
+     <script src="client.lua" type="client" />
+     <script src="server.lua" type="server" />
+</meta>

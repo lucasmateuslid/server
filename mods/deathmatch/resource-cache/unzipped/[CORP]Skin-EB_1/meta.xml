@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="RENAN" type="misc" name="EBSKIN" description="EBSKIN" />
+     <script src="script.lua" type="client" />
+     <file src="skin.txd" />
+     <file src="skin.dff" />
+</meta>

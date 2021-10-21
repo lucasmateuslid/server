@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="BRISAMODS" type="misc" name="BRISAMODS" description="BRISAMODS" />
+     <script src="script.lua" type="client" />
+     <file src="SkinFNOperacional.txd" />
+     <file src="SkinFNOperacional.dff" />
+</meta>

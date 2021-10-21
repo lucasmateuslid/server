@@ -1,4 +1,4 @@
-servernamer = "Default MTA Server"
+servernamer = "[TRN] CORPORAÇÕES - ALIADAS [TRN]"
 
 addEventHandler("onResourceStart", resourceRoot, function(resource)
 	if (resource == getThisResource()) then
@@ -80,6 +80,7 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 
 
 
+
 			elseif Vip == "Ouro" and ID == 1 then
 				vehiclesVips[source] = createVehicle(configS.ouro.veiculoO_1, x, y, z)
 
@@ -95,10 +96,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				outputChatBox("INFO > #00ff00(Você acaba de pegar um veiculo 3, Espere 5m para pegar outro veiculo novamente)", source, 255, 255, 255, true)
 				TimerCar = setTimer(function() end, 1, 1)
 
-			elseif Vip == "Diamante" and ID == 1 then
-				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_1, x, y, z)
 
-				TimerCar = setTimer(function() end, 1, 1)
+
+
 
 			elseif Vip == "Diamante" and ID == 2 then
 				vehiclesVips[source] = createVehicle(configS.diamante.veiculoD_2, x, y, z)
@@ -232,6 +232,7 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 			elseif Vip == "Ouro" and ID == 26 then
 				setElementModel(source, configS.ouro.personagemO_26)
 				TimerSkin = setTimer(function() end, 1, 1)
+
 
 
 				dbFree(dbQuery(mysql, "INSERT INTO skinsVip (Id, nick, skin_id) VALUES (?, ?, ?) ", getElementData(source, "ID"), getPlayerName(source),getElementModel(source), 0))
@@ -406,10 +407,9 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				return
 			end
 
-			if Vip == "Prata" and ID == 1 then
-				setElementHealth(source, configS.prata.vidaP_1)
-				outputChatBox("INFO > (Você acaba de pegar um kit de vida, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
-				TimerHealth = setTimer(function() end, 10, 1)
+			if Vip == "Bronze" and ID == 1 then
+				setElementHealth(source, configS.bronze.vidaB_1)
+				TimerHealth = setTimer(function() end, 1, 1)
 
 			elseif Vip == "Ouro" and ID == 1 then
 				setElementHealth(source, configS.ouro.vidaO_1)
@@ -429,9 +429,8 @@ addEventHandler("asto.vipClicks", root, function(Tipo, Vip, ID)
 				return
 			end
 
-			if Vip == "Ouro" and ID == 1 then
-				setPedArmor(source, configS.ouro.coleteO_1)
-				outputChatBox("INFO > (Você acaba de pegar um colete aprova de bala, Espere 10m para pegar novamente)", source, 255, 255, 255, true)
+			if Vip == "Bronze" and ID == 1 then
+				setPedArmor(source, configS.bronze.coleteB_1)
 				TimerArmor = setTimer(function() end, 10, 1)
 
 			elseif Vip == "Diamante" and ID == 1 then

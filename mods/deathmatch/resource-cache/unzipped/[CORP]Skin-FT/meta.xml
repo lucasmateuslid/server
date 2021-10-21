@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="HOFF" type="misc" name="ByHoff_FT_CMD" description="ByHoff_FT_CMD" />
+     <script src="script.lua" type="client" />
+     <file src="ByHoffFT-BGR.txd" />
+     <file src="ByHoffFT-BGR.dff" />
+</meta>

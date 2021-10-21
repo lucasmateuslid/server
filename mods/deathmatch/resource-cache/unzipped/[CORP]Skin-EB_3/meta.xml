@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Fp MTA:SA" type="misc" name="PQD DA EB" description="Skin PQD EB: 60" />
+     <script src="script.lua" type="client" />
+     <file src="pqd.txd" />
+     <file src="pqd.dff" />
+</meta>

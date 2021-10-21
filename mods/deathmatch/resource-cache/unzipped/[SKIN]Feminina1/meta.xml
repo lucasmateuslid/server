@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Ygao" type="misc" name="Ygao" description="Ygao" />
+     <script src="script.lua" type="client" />
+     <file src="Ygao.txd" />
+     <file src="Ygao.dff" />
+</meta>

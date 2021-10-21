@@ -1,0 +1,4 @@
+<meta>
+	<info author="!Mr.JooTa" version="2.0" type="script" name="Teletranporte Mta" description="" />
+	<script src="server.lua" type="server" />
+</meta>

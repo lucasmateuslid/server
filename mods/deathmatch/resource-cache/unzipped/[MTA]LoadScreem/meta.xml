@@ -1,0 +1,18 @@
+<meta>
+
+    <!--   ARQUIVOS    !-->
+		
+    <script src = "Client.lua" type = "client" cache = "false"/>
+    <script src = "Server.lua" type = "server" cache = "false"/>
+
+
+    <!--   IMAGENS    !-->
+    <file src = "Files/Fundo.png"/>
+    <file src = "Files/Logo.png"/>
+    <file src = "Files/Play.png"/>
+	<file src = "Files/Quadrado.png"/>
+    <file src = "Files/Pause.png"/>
+    <file src = "Files/musica.mp3"/>
+
+    <download_priority_group>1</download_priority_group>
+</meta>

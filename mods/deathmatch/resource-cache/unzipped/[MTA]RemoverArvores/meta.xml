@@ -1,0 +1,5 @@
+<meta>
+    <info author="Luan|Mdz" name="Remover-Arvores" type="script" version="1.0.0"/>
+    
+	<script src="server.lua" type="client" />
+</meta>

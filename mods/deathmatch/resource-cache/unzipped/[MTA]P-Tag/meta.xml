@@ -1,0 +1,6 @@
+﻿<meta>
+	<script src="Edit.lua" type="shared" cache="false"/>
+	
+	<script src="sourceC.lua" type="client" cache="false"/>
+	<script src="sourceS.lua" type="server" cache="false"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<info author="Game[#]!" type="script" name="Anti Spam" description="For good server." version="1.0" />
+	<script src="anti_spam.lua" type="server"/>
+</meta>

@@ -1,0 +1,17 @@
+<meta>
+    <info version="0.1" author="Diogo" name="Velocimetro"/>
+
+    <script type="shared" cache="false" src="sadG.lua"/>
+    <script type="client" cache="false" src="sadC.lua"/>
+    <script type="client" cache="false" src="files/utils/hou_circle.lua"/>
+
+    <file src="files/gfx/car.png"/>
+    <file src="files/gfx/fuel.png"/>
+
+    <file src="files/fonts/font_light.ttf"/>
+    <file src="files/fonts/font_medium.ttf"/>
+
+    <file src="files/utils/hou_circle.fx"/>
+    <file src="files/utils/hud_mask.fx"/>
+    <file src="files/utils/tex_matrix.fx"/>
+</meta>

@@ -1,0 +1,23 @@
+<meta>
+	<info author="Filipin" name="Hud" description="HudByFilipin" version="2.0.0" type="script"/>
+
+	<script src="Fp_C.lua" type="client" cache="false"/>
+
+     <file src="files/Icons/Colete.png" cache="false"/>
+     <file src="files/Icons/Coracao.png" cache="false"/>
+ 
+      <file src="files/Icones/0.png"/>
+
+      <file src="files/Icones/4.png"/>
+
+      <file src="files/Icones/23.png"/>
+
+      <file src="files/Icones/30.png"/>
+
+      <file src="files/Icones/31.png"/>
+
+      
+           
+
+	
+</meta> 

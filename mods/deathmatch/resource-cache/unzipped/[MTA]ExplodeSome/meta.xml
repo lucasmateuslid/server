@@ -1,0 +1,4 @@
+<meta>
+	<info author="TomasitoCaram" name="Destroy Vehicle on Explode" version="1.0" type="script"/>
+	<script src="dvoe_s.lua" type="server" />
+</meta>
