@@ -40,8 +40,8 @@ configS = {
 		coleteB_1 = 100,
 	},
 	prata = {
-		veiculoP_1 = 598, -- Viatura Hilux
-		veiculoP_2 = 596, -- Viatura TrailBlazer
+		veiculoP_1 = 596, -- Viatura Hilux
+		veiculoP_2 = 598, -- Viatura TrailBlazer
 		veiculoP_3 = 523, -- Viatura Rocam
 		veiculoP_4 = 427, -- Viatura Blindado
 		veiculoP_5 = 425, -- Helicoptero 1
