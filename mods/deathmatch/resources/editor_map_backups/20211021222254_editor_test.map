@@ -1,0 +1,12 @@
+<map edf:definitions="editor_main">
+    <object id="object (1)" breakable="true" interior="0" alpha="255" dimension="0" model="356" scale="1" doublesided="false" collisions="true" frozen="false" posX="2490.8" posY="-1664.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (2)" breakable="true" interior="0" alpha="255" dimension="0" model="346" scale="1" doublesided="false" collisions="true" frozen="false" posX="2492.8" posY="-1664.7" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (3)" breakable="true" interior="0" alpha="255" dimension="0" model="355" scale="1" doublesided="false" collisions="true" frozen="false" posX="2494.3999" posY="-1664.6" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (4)" breakable="true" interior="0" alpha="255" dimension="0" model="348" scale="1" doublesided="false" collisions="true" frozen="false" posX="2495.6001" posY="-1664.9" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (5)" breakable="true" interior="0" alpha="255" dimension="0" model="346" scale="1" doublesided="false" collisions="true" frozen="false" posX="2498.2" posY="-1678.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <ped id="ped (1)" interior="0" rotZ="0.003" dimension="0" model="287" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2480.3" posY="-1672.7" posZ="13.33937" rotX="0" rotY="0"></ped>
+    <ped id="ped (3)" interior="0" rotZ="0.003" dimension="0" model="300" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2481.2" posY="-1672.6" posZ="13.33981" rotX="0" rotY="0"></ped>
+    <ped id="ped (4)" interior="0" rotZ="0.003" dimension="0" model="37" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2482.2" posY="-1672.5" posZ="13.3403" rotX="0" rotY="0"></ped>
+    <ped id="ped (7)" interior="0" rotZ="0.003" dimension="0" model="73" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2483.2" posY="-1672.5" posZ="13.33595" rotX="0" rotY="0"></ped>
+    <ped id="ped (8)" interior="0" rotZ="0.003" dimension="0" model="73" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2484.2" posY="-1672.5" posZ="13.3" rotX="0" rotY="0"></ped>
+</map>

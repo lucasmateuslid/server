@@ -7871,3 +7871,155 @@
 [2021-10-21 00:40:56] Server stopped!
 [2021-10-21 00:40:56] Stopping resources........................
 [2021-10-21 00:40:57] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-21 21:46:52] Compacting accounts database 'internal.db' ...
+[2021-10-21 21:47:15] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-21 21:47:15] Loading of resource '[REN]iNFO' failed
+[2021-10-21 21:48:00] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-21 21:48:00] Resources: 301 loaded, 1 failed
+[2021-10-21 21:48:00] Compacting database 'registry.db' ...
+[2021-10-21 21:48:00] Starting resources...
+[2021-10-21 21:48:00] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-21 21:48:00] Gamemode 'play' started.
+[2021-10-21 21:48:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-21 21:48:00] WARNING: <owner_email_address> not set
+[2021-10-21 21:48:00] Server started and is ready to accept connections!
+[2021-10-21 21:48:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-21 21:48:00] Type 'help' for a list of commands.
+[2021-10-21 21:48:01] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-21 21:48:08] start: Requested by Console
+[2021-10-21 21:48:09] Starting [REN]EBSKINSBC
+[2021-10-21 21:48:09] start: Resource '[REN]EBSKINSBC' started
+[2021-10-21 21:48:20] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-21 21:48:23] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.6)
+[2021-10-21 21:48:36] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-21 21:48:43] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 37
+[2021-10-21 21:49:03] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 73
+[2021-10-21 21:50:16] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 121
+[2021-10-21 21:50:24] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 125
+[2021-10-21 21:51:00] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 156
+[2021-10-21 21:51:29] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 183
+[2021-10-21 21:51:37] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 213
+[2021-10-21 21:52:22] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 248
+[2021-10-21 21:52:38] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 253
+[2021-10-21 21:52:51] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 258
+[2021-10-21 21:53:14] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 259
+[2021-10-21 21:53:25] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 268
+[2021-10-21 21:53:34] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 287
+[2021-10-21 21:54:04] CHAT: EB|09-B|2SGT.Renan: 121
+[2021-10-21 21:54:14] CHAT: EB|09-B|2SGT.Renan: 287
+[2021-10-21 21:54:19] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 121
+[2021-10-21 21:54:25] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 125
+[2021-10-21 21:54:30] CHAT: EB|09-B|2SGT.Renan: 125 
+[2021-10-21 21:54:34] CHAT: EB|09-B|2SGT.Renan: 287
+[2021-10-21 21:54:57] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 288
+[2021-10-21 21:55:08] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 297
+[2021-10-21 21:56:51] ADMIN: EB|09-B|2SGT.Renan has changed time to 12:00
+[2021-10-21 21:56:57] ADMIN: EB|09-B|2SGT.Renan has changed EB|09-B|2SGT.Renan's skin to 287
+[2021-10-21 22:05:17] ADMIN: Resource '[REN]EBSKINSBC' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:05:17] Stopping [REN]EBSKINSBC
+[2021-10-21 22:05:18] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:05:18] Starting [REN]EBSKINSBC
+[2021-10-21 22:05:18] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:05:32] ADMIN: EB|09-B|2SGT.Renan has changed time to 12:00
+[2021-10-21 22:08:45] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:08:45] Stopping [REN]EBSKINSBC
+[2021-10-21 22:08:46] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:08:46] Starting [REN]EBSKINSBC
+[2021-10-21 22:08:46] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:11:12] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:11:12] Stopping [REN]EBSKINSBC
+[2021-10-21 22:11:13] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:11:13] Starting [REN]EBSKINSBC
+[2021-10-21 22:11:13] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:11:27] Starting F10
+[2021-10-21 22:11:27] startResource: Resource 'F10' started
+[2021-10-21 22:11:27] ADMIN: Resource 'F10' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:11:43] Starting editor
+[2021-10-21 22:11:43] Starting edf
+[2021-10-21 22:11:43] Starting editor_main
+[2021-10-21 22:11:43] Starting freecam
+[2021-10-21 22:11:43] Starting move_freecam
+[2021-10-21 22:11:43] Starting move_cursor
+[2021-10-21 22:11:43] Starting move_keyboard
+[2021-10-21 22:11:43] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-21 22:11:44] Starting editor_gui
+[2021-10-21 22:11:44] Starting msgbox
+[2021-10-21 22:11:44] Starting tooltip
+[2021-10-21 22:11:44] startResource: Resource 'editor' started
+[2021-10-21 22:11:44] ADMIN: Resource 'editor' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:11:44] Stopping play
+[2021-10-21 22:11:44] Stopping freeroam
+[2021-10-21 22:11:44] Resource '[REN]iNFO' changed, reloading
+[2021-10-21 22:11:44] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-21 22:11:44] Loading of resource '[REN]iNFO' failed
+[2021-10-21 22:11:44] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-21 22:11:44] Resources: 301 loaded, 1 failed
+[2021-10-21 22:15:28] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:15:28] Stopping [REN]EBSKINSBC
+[2021-10-21 22:15:29] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:15:29] Starting [REN]EBSKINSBC
+[2021-10-21 22:15:29] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:16:46] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:16:46] Stopping [REN]EBSKINSBC
+[2021-10-21 22:16:47] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:16:47] Starting [REN]EBSKINSBC
+[2021-10-21 22:16:47] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:17:19] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:17:19] Stopping [REN]EBSKINSBC
+[2021-10-21 22:17:20] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:17:20] Starting [REN]EBSKINSBC
+[2021-10-21 22:17:20] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:21:12] Starting freeroam
+[2021-10-21 22:21:12] startResource: Resource 'freeroam' started
+[2021-10-21 22:21:12] Resource 'editor_test' changed, reloading and starting
+[2021-10-21 22:21:12] Starting editor_test
+[2021-10-21 22:21:12] startResource: Resource 'editor_test' started
+[2021-10-21 22:22:10] Stopping freeroam
+[2021-10-21 22:22:10] Stopping editor_test
+[2021-10-21 22:22:54] Starting freeroam
+[2021-10-21 22:22:54] startResource: Resource 'freeroam' started
+[2021-10-21 22:22:54] Resource 'editor_test' changed, reloading and starting
+[2021-10-21 22:22:54] Starting editor_test
+[2021-10-21 22:22:54] startResource: Resource 'editor_test' started
+[2021-10-21 22:23:52] Stopping freeroam
+[2021-10-21 22:23:52] Stopping editor_test
+[2021-10-21 22:26:20] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:26:20] Stopping [REN]EBSKINSBC
+[2021-10-21 22:26:20] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:26:20] Starting [REN]EBSKINSBC
+[2021-10-21 22:26:20] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:26:22] Starting freeroam
+[2021-10-21 22:26:22] startResource: Resource 'freeroam' started
+[2021-10-21 22:26:22] Starting editor_test
+[2021-10-21 22:26:22] startResource: Resource 'editor_test' started
+[2021-10-21 22:27:29] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:27:29] Stopping [REN]EBSKINSBC
+[2021-10-21 22:27:30] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:27:30] Starting [REN]EBSKINSBC
+[2021-10-21 22:27:30] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:28:36] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:28:36] Stopping [REN]EBSKINSBC
+[2021-10-21 22:28:37] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:28:37] Starting [REN]EBSKINSBC
+[2021-10-21 22:28:38] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:29:44] restart: Requested by EB|09-B|2SGT.Renan(Lucas)
+[2021-10-21 22:29:44] Stopping [REN]EBSKINSBC
+[2021-10-21 22:29:46] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-21 22:29:46] Starting [REN]EBSKINSBC
+[2021-10-21 22:29:46] [REN]EBSKINSBC restarted successfully
+[2021-10-21 22:34:17] Server stopped!
+[2021-10-21 22:34:17] Stopping resources...........................
+[2021-10-21 22:34:17] Closing SQLite3 database

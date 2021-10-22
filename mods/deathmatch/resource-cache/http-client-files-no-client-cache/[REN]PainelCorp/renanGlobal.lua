@@ -16,10 +16,10 @@ configC = {
 
 configS = {
 	groups = {
-		vip_1 = "CORPS",
-		vip_2 = "CORPS",
+		vip_1 = "EB",
+		vip_2 = "EB",
 		vip_3 = "EB",
-		vip_4 = "CMDS",
+		vip_4 = "Console",
 	},
 	bronze = {
 		kitArmasB_1 = { 24, 29 },
@@ -40,8 +40,8 @@ configS = {
 		coleteB_1 = 100,
 	},
 	prata = {
-		veiculoP_1 = 598, -- Viatura Hilux
-		veiculoP_2 = 596, -- Viatura TrailBlazer
+		veiculoP_1 = 596, -- Viatura Hilux
+		veiculoP_2 = 598, -- Viatura TrailBlazer
 		veiculoP_3 = 523, -- Viatura Rocam
 		veiculoP_4 = 427, -- Viatura Blindado
 		veiculoP_5 = 425, -- Helicoptero 1

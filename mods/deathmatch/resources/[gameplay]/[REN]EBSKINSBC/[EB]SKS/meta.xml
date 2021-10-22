@@ -1,0 +1,10 @@
+<meta>
+     <info author="GM2MC" type="misc" name="SkinHEIST" description="SkinHEIST" />
+     <script src="renanC.lua" type="client" />
+     <file src="37.txd" />
+     <file src="37.dff" />
+     <file src="287.txd" />
+     <file src="287.dff" />
+     <file src="eb.txd" />
+     <file src="eb.dff" />
+</meta>
