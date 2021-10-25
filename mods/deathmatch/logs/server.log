@@ -8023,3 +8023,748 @@
 [2021-10-21 22:34:17] Server stopped!
 [2021-10-21 22:34:17] Stopping resources...........................
 [2021-10-21 22:34:17] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-22 11:05:55] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 11:05:55] Loading of resource '[REN]iNFO' failed
+[2021-10-22 11:06:11] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 11:06:11] Resources: 303 loaded, 1 failed
+[2021-10-22 11:06:11] Starting resources...
+[2021-10-22 11:06:12] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-22 11:06:12] Gamemode 'play' started.
+[2021-10-22 11:06:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-22 11:06:12] WARNING: <owner_email_address> not set
+[2021-10-22 11:06:12] Server started and is ready to accept connections!
+[2021-10-22 11:06:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-22 11:06:12] Type 'help' for a list of commands.
+[2021-10-22 11:06:12] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-22 11:06:47] start: Requested by Console
+[2021-10-22 11:06:47] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 11:06:47] Starting [BGR]Armas
+[2021-10-22 11:06:48] start: Resource '[BGR]Armas' started
+[2021-10-22 11:06:50] start: Requested by Console
+[2021-10-22 11:06:50] Starting editor
+[2021-10-22 11:06:50] Starting edf
+[2021-10-22 11:06:50] Starting editor_main
+[2021-10-22 11:06:50] Starting freecam
+[2021-10-22 11:06:50] Starting move_freecam
+[2021-10-22 11:06:50] Starting move_cursor
+[2021-10-22 11:06:50] Starting move_keyboard
+[2021-10-22 11:06:50] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-22 11:06:50] Starting editor_gui
+[2021-10-22 11:06:50] Starting msgbox
+[2021-10-22 11:06:50] Starting tooltip
+[2021-10-22 11:06:50] start: Resource 'Editor' started
+[2021-10-22 11:06:50] Stopping play
+[2021-10-22 11:06:50] Stopping freeroam
+[2021-10-22 11:06:50] Resource '[REN]iNFO' changed, reloading
+[2021-10-22 11:06:50] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 11:06:50] Loading of resource '[REN]iNFO' failed
+[2021-10-22 11:06:50] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 11:06:50] Resources: 303 loaded, 1 failed
+[2021-10-22 11:06:52] start: Requested by Console
+[2021-10-22 11:06:52] Starting F10
+[2021-10-22 11:06:52] start: Resource 'f10' started
+[2021-10-22 11:15:26] CONNECT: Renan|B|EB connected (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-22 11:15:27] JOIN: Renan|B|EB joined the game (IP: 192.168.1.6)
+[2021-10-22 11:18:15] ACL: Denied 'Renan|B|EB' access to command 'restart'
+[2021-10-22 11:18:20] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.6  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-22 11:18:22] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 11:18:22] Stopping [BGR]Armas
+[2021-10-22 11:18:22] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 11:18:22] Starting [BGR]Armas
+[2021-10-22 11:18:22] [BGR]Armas restarted successfully
+[2021-10-22 11:19:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 11:19:53] Stopping [BGR]Armas
+[2021-10-22 11:19:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 11:19:53] Starting [BGR]Armas
+[2021-10-22 11:19:53] [BGR]Armas restarted successfully
+[2021-10-22 11:25:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 11:25:05] Stopping [BGR]Armas
+[2021-10-22 11:25:05] Starting [BGR]Armas
+[2021-10-22 11:25:05] [BGR]Armas restarted successfully
+[2021-10-22 11:25:33] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 11:25:33] Stopping [BGR]Armas
+[2021-10-22 11:25:33] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 11:25:33] Starting [BGR]Armas
+[2021-10-22 11:25:34] [BGR]Armas restarted successfully
+[2021-10-22 11:30:58] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 11:30:58] Stopping [BGR]Armas
+[2021-10-22 11:30:58] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 11:30:58] Starting [BGR]Armas
+[2021-10-22 11:30:58] [BGR]Armas restarted successfully
+[2021-10-22 12:14:06] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 12:14:06] Stopping [BGR]Armas
+[2021-10-22 12:14:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 12:14:06] Starting [BGR]Armas
+[2021-10-22 12:14:06] [BGR]Armas restarted successfully
+[2021-10-22 12:37:24] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 12:37:24] Stopping [BGR]Armas
+[2021-10-22 12:37:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 12:37:24] Starting [BGR]Armas
+[2021-10-22 12:37:25] [BGR]Armas restarted successfully
+[2021-10-22 12:37:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 12:37:53] Stopping [BGR]Armas
+[2021-10-22 12:37:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 12:37:54] Starting [BGR]Armas
+[2021-10-22 12:37:54] [BGR]Armas restarted successfully
+[2021-10-22 12:39:40] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 12:39:40] Stopping [BGR]Armas
+[2021-10-22 12:39:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 12:39:40] Starting [BGR]Armas
+[2021-10-22 12:39:40] [BGR]Armas restarted successfully
+[2021-10-22 12:40:44] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 12:40:44] Stopping [BGR]Armas
+[2021-10-22 12:40:44] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 12:40:44] Starting [BGR]Armas
+[2021-10-22 12:40:44] [BGR]Armas restarted successfully
+[2021-10-22 12:52:30] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-22 12:52:34] Starting freeroam
+[2021-10-22 12:52:34] startResource: Resource 'freeroam' started
+[2021-10-22 12:52:34] Starting editor_test
+[2021-10-22 12:52:34] startResource: Resource 'editor_test' started
+[2021-10-22 12:52:49] Starting [REN]EBSKINSBC
+[2021-10-22 12:52:49] startResource: Resource '[REN]EBSKINSBC' started
+[2021-10-22 12:52:49] ADMIN: Resource '[REN]EBSKINSBC' started by Renan|B|EB(Lucas)
+[2021-10-22 12:57:48] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 12:57:48] Stopping [REN]EBSKINSBC
+[2021-10-22 12:57:49] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 12:57:49] Starting [REN]EBSKINSBC
+[2021-10-22 12:57:49] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:09:59] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:09:59] Stopping [REN]EBSKINSBC
+[2021-10-22 13:09:59] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:10:00] Starting [REN]EBSKINSBC
+[2021-10-22 13:10:00] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:10:05] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-22 13:13:07] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 13:13:07] Stopping [BGR]Armas
+[2021-10-22 13:13:08] Starting [BGR]Armas
+[2021-10-22 13:13:08] [BGR]Armas restarted successfully
+[2021-10-22 13:13:13] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:13:13] Stopping [REN]EBSKINSBC
+[2021-10-22 13:13:13] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:13:14] Starting [REN]EBSKINSBC
+[2021-10-22 13:13:14] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:16:43] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:16:43] Stopping [REN]EBSKINSBC
+[2021-10-22 13:16:43] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:16:44] Starting [REN]EBSKINSBC
+[2021-10-22 13:16:44] [REN]EBSKINSBC restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-22 13:23:50] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:23:50] Loading of resource '[REN]iNFO' failed
+[2021-10-22 13:24:06] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:24:06] Resources: 303 loaded, 1 failed
+[2021-10-22 13:24:06] Starting resources...
+[2021-10-22 13:24:06] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-22 13:24:06] Gamemode 'play' started.
+[2021-10-22 13:24:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-22 13:24:06] WARNING: <owner_email_address> not set
+[2021-10-22 13:24:06] Server started and is ready to accept connections!
+[2021-10-22 13:24:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-22 13:24:06] Type 'help' for a list of commands.
+[2021-10-22 13:24:07] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-22 13:25:13] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-22 13:25:15] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-22 13:25:30] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-22 13:25:44] Starting [REN]EBSKINSBC
+[2021-10-22 13:25:45] startResource: Resource '[REN]EBSKINSBC' started
+[2021-10-22 13:25:45] ADMIN: Resource '[REN]EBSKINSBC' started by Renan|B|EB(Lucas)
+[2021-10-22 13:25:50] Starting editor
+[2021-10-22 13:25:50] Starting edf
+[2021-10-22 13:25:50] Starting editor_main
+[2021-10-22 13:25:50] Starting freecam
+[2021-10-22 13:25:50] Starting move_freecam
+[2021-10-22 13:25:50] Starting move_cursor
+[2021-10-22 13:25:50] Starting move_keyboard
+[2021-10-22 13:25:50] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-22 13:25:50] Starting editor_gui
+[2021-10-22 13:25:51] Starting msgbox
+[2021-10-22 13:25:51] Starting tooltip
+[2021-10-22 13:25:51] startResource: Resource 'editor' started
+[2021-10-22 13:25:51] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-22 13:25:51] Stopping play
+[2021-10-22 13:25:51] Stopping freeroam
+[2021-10-22 13:25:51] Resource '[REN]iNFO' changed, reloading
+[2021-10-22 13:25:51] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:25:51] Loading of resource '[REN]iNFO' failed
+[2021-10-22 13:25:51] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:25:51] Resources: 303 loaded, 1 failed
+[2021-10-22 13:25:55] Starting freeroam
+[2021-10-22 13:25:55] startResource: Resource 'freeroam' started
+[2021-10-22 13:25:55] Starting editor_test
+[2021-10-22 13:25:55] startResource: Resource 'editor_test' started
+[2021-10-22 13:26:08] Stopping freeroam
+[2021-10-22 13:26:08] Stopping editor_test
+[2021-10-22 13:28:13] ADMIN: Resource 'editor' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:28:13] Stopping editor
+[2021-10-22 13:28:13] Stopping edf
+[2021-10-22 13:28:13] Stopping editor_main
+[2021-10-22 13:28:13] Stopping freecam
+[2021-10-22 13:28:13] Stopping move_freecam
+[2021-10-22 13:28:13] Stopping move_cursor
+[2021-10-22 13:28:13] Stopping move_keyboard
+[2021-10-22 13:28:13] Stopping editor_gui
+[2021-10-22 13:28:13] Stopping msgbox
+[2021-10-22 13:28:13] Stopping tooltip
+[2021-10-22 13:28:13] Starting editor
+[2021-10-22 13:28:13] Starting edf
+[2021-10-22 13:28:13] Starting editor_main
+[2021-10-22 13:28:13] Starting freecam
+[2021-10-22 13:28:13] Starting move_freecam
+[2021-10-22 13:28:13] Starting move_cursor
+[2021-10-22 13:28:13] Starting move_keyboard
+[2021-10-22 13:28:14] Starting editor_gui
+[2021-10-22 13:28:14] Starting msgbox
+[2021-10-22 13:28:14] Starting tooltip
+[2021-10-22 13:28:14] editor restarted successfully
+[2021-10-22 13:28:14] Resource '[REN]iNFO' changed, reloading
+[2021-10-22 13:28:14] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:28:14] Loading of resource '[REN]iNFO' failed
+[2021-10-22 13:28:14] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-22 13:28:14] Resources: 303 loaded, 1 failed
+[2021-10-22 13:28:21] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:28:21] Stopping [REN]EBSKINSBC
+[2021-10-22 13:28:21] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:28:21] Starting [REN]EBSKINSBC
+[2021-10-22 13:28:22] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:28:36] Starting freeroam
+[2021-10-22 13:28:36] startResource: Resource 'freeroam' started
+[2021-10-22 13:28:36] Starting editor_test
+[2021-10-22 13:28:36] startResource: Resource 'editor_test' started
+[2021-10-22 13:28:43] Stopping freeroam
+[2021-10-22 13:28:43] Stopping editor_test
+[2021-10-22 13:30:51] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:30:51] Stopping [REN]EBSKINSBC
+[2021-10-22 13:30:51] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:30:51] Starting [REN]EBSKINSBC
+[2021-10-22 13:30:52] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:31:18] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:31:18] Stopping [REN]EBSKINSBC
+[2021-10-22 13:31:18] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:31:18] Starting [REN]EBSKINSBC
+[2021-10-22 13:31:19] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:31:33] Starting freeroam
+[2021-10-22 13:31:33] startResource: Resource 'freeroam' started
+[2021-10-22 13:31:33] Starting editor_test
+[2021-10-22 13:31:33] startResource: Resource 'editor_test' started
+[2021-10-22 13:33:06] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:33:06] Stopping [REN]EBSKINSBC
+[2021-10-22 13:33:06] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:33:07] Starting [REN]EBSKINSBC
+[2021-10-22 13:33:07] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:33:39] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-22 13:34:11] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-22 13:34:12] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-22 13:34:28] Stopping freeroam
+[2021-10-22 13:34:28] Stopping editor_test
+[2021-10-22 13:34:31] Starting freeroam
+[2021-10-22 13:34:31] startResource: Resource 'freeroam' started
+[2021-10-22 13:34:31] Starting editor_test
+[2021-10-22 13:34:31] startResource: Resource 'editor_test' started
+[2021-10-22 13:34:33] Stopping freeroam
+[2021-10-22 13:34:33] Stopping editor_test
+[2021-10-22 13:34:37] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-22 13:34:39] Starting freeroam
+[2021-10-22 13:34:39] startResource: Resource 'freeroam' started
+[2021-10-22 13:34:39] Starting editor_test
+[2021-10-22 13:34:39] startResource: Resource 'editor_test' started
+[2021-10-22 13:35:22] ADMIN: Renan|B|EB has changed Renan|B|EB's skin to 37
+[2021-10-22 13:39:58] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:39:58] Stopping [REN]EBSKINSBC
+[2021-10-22 13:39:58] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:39:58] Starting [REN]EBSKINSBC
+[2021-10-22 13:39:58] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:41:30] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:41:30] Stopping [REN]EBSKINSBC
+[2021-10-22 13:41:30] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:41:31] Starting [REN]EBSKINSBC
+[2021-10-22 13:41:31] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:42:56] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 13:42:56] Stopping [REN]EBSKINSBC
+[2021-10-22 13:42:56] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 13:42:56] Starting [REN]EBSKINSBC
+[2021-10-22 13:42:56] [REN]EBSKINSBC restarted successfully
+[2021-10-22 13:43:22] Starting F10
+[2021-10-22 13:43:22] startResource: Resource 'F10' started
+[2021-10-22 13:43:22] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-22 13:43:50] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-22 15:05:36] ADMIN: Resource '[REN]EBSKINSBC' restarted by Renan|B|EB(Lucas)
+[2021-10-22 15:05:36] Stopping [REN]EBSKINSBC
+[2021-10-22 15:05:37] Resource '[REN]EBSKINSBC' changed, reloading and starting
+[2021-10-22 15:05:37] Starting [REN]EBSKINSBC
+[2021-10-22 15:05:38] [REN]EBSKINSBC restarted successfully
+[2021-10-22 15:05:47] ADMIN: Renan|B|EB has changed Renan|B|EB's skin to 250
+[2021-10-22 15:06:03] ADMIN: Renan|B|EB has changed Renan|B|EB's skin to 282
+[2021-10-22 15:07:23] Stopping freeroam
+[2021-10-22 15:07:23] Stopping editor_test
+[2021-10-22 15:07:36] Starting [BGR]Armas
+[2021-10-22 15:07:36] startResource: Resource '[BGR]Armas' started
+[2021-10-22 15:07:36] ADMIN: Resource '[BGR]Armas' started by Renan|B|EB(Lucas)
+[2021-10-22 15:13:15] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 15:13:15] Stopping [BGR]Armas
+[2021-10-22 15:13:15] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 15:13:15] Starting [BGR]Armas
+[2021-10-22 15:13:16] [BGR]Armas restarted successfully
+[2021-10-22 15:14:30] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 15:14:30] Stopping [BGR]Armas
+[2021-10-22 15:14:30] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 15:14:30] Starting [BGR]Armas
+[2021-10-22 15:14:30] [BGR]Armas restarted successfully
+[2021-10-22 15:21:06] ADMIN: Resource '[BGR]Armas' restarted by Renan|B|EB(Lucas)
+[2021-10-22 15:21:06] Stopping [BGR]Armas
+[2021-10-22 15:21:06] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 15:21:06] Starting [BGR]Armas
+[2021-10-22 15:21:06] [BGR]Armas restarted successfully
+[2021-10-22 16:11:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:11:02] Stopping [BGR]Armas
+[2021-10-22 16:11:02] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:11:02] Starting [BGR]Armas
+[2021-10-22 16:11:03] [BGR]Armas restarted successfully
+[2021-10-22 16:12:01] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:12:01] Stopping [BGR]Armas
+[2021-10-22 16:12:01] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:12:01] Starting [BGR]Armas
+[2021-10-22 16:12:01] [BGR]Armas restarted successfully
+[2021-10-22 16:13:05] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:13:05] Stopping [BGR]Armas
+[2021-10-22 16:13:05] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:13:05] Starting [BGR]Armas
+[2021-10-22 16:13:06] [BGR]Armas restarted successfully
+[2021-10-22 16:14:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:14:37] Stopping [BGR]Armas
+[2021-10-22 16:14:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:14:37] Starting [BGR]Armas
+[2021-10-22 16:14:37] [BGR]Armas restarted successfully
+[2021-10-22 16:20:28] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:20:28] Stopping [BGR]Armas
+[2021-10-22 16:20:28] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:20:28] Starting [BGR]Armas
+[2021-10-22 16:20:28] [BGR]Armas restarted successfully
+[2021-10-22 16:25:21] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:25:21] Stopping [BGR]Armas
+[2021-10-22 16:25:21] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:25:21] Starting [BGR]Armas
+[2021-10-22 16:25:21] [BGR]Armas restarted successfully
+[2021-10-22 16:29:14] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:29:14] Stopping [BGR]Armas
+[2021-10-22 16:29:14] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:29:14] Starting [BGR]Armas
+[2021-10-22 16:29:14] [BGR]Armas restarted successfully
+[2021-10-22 16:30:34] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:30:34] Stopping [BGR]Armas
+[2021-10-22 16:30:34] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:30:34] Starting [BGR]Armas
+[2021-10-22 16:30:34] [BGR]Armas restarted successfully
+[2021-10-22 16:32:04] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:32:04] Stopping [BGR]Armas
+[2021-10-22 16:32:04] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:32:04] Starting [BGR]Armas
+[2021-10-22 16:32:04] [BGR]Armas restarted successfully
+[2021-10-22 16:36:54] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:36:54] Stopping [BGR]Armas
+[2021-10-22 16:36:54] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:36:54] Starting [BGR]Armas
+[2021-10-22 16:36:54] [BGR]Armas restarted successfully
+[2021-10-22 16:40:46] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 16:40:46] Stopping [BGR]Armas
+[2021-10-22 16:40:46] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 16:40:46] Starting [BGR]Armas
+[2021-10-22 16:40:46] [BGR]Armas restarted successfully
+[2021-10-22 16:44:55] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-22 16:56:06] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-22 16:56:06] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-22 17:05:54] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-22 17:05:56] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:05:56] Stopping [BGR]Armas
+[2021-10-22 17:05:56] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:05:56] Starting [BGR]Armas
+[2021-10-22 17:05:57] [BGR]Armas restarted successfully
+[2021-10-22 17:10:59] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:10:59] Stopping [BGR]Armas
+[2021-10-22 17:11:00] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:11:00] Starting [BGR]Armas
+[2021-10-22 17:11:00] [BGR]Armas restarted successfully
+[2021-10-22 17:25:49] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:25:49] Stopping [BGR]Armas
+[2021-10-22 17:25:49] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:25:49] Starting [BGR]Armas
+[2021-10-22 17:25:49] [BGR]Armas restarted successfully
+[2021-10-22 17:27:48] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:27:48] Stopping [BGR]Armas
+[2021-10-22 17:27:48] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:27:48] Starting [BGR]Armas
+[2021-10-22 17:27:48] [BGR]Armas restarted successfully
+[2021-10-22 17:29:01] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:29:01] Stopping [BGR]Armas
+[2021-10-22 17:29:01] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:29:02] Starting [BGR]Armas
+[2021-10-22 17:29:02] [BGR]Armas restarted successfully
+[2021-10-22 17:32:40] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:32:40] Stopping [BGR]Armas
+[2021-10-22 17:32:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:32:40] Starting [BGR]Armas
+[2021-10-22 17:32:40] [BGR]Armas restarted successfully
+[2021-10-22 17:33:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:33:17] Stopping [BGR]Armas
+[2021-10-22 17:33:17] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:33:17] Starting [BGR]Armas
+[2021-10-22 17:33:17] [BGR]Armas restarted successfully
+[2021-10-22 17:35:36] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:35:36] Stopping [BGR]Armas
+[2021-10-22 17:35:36] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:35:36] Starting [BGR]Armas
+[2021-10-22 17:35:36] [BGR]Armas restarted successfully
+[2021-10-22 17:35:58] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-22 17:36:25] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:36:25] Stopping [BGR]Armas
+[2021-10-22 17:36:25] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:36:25] Starting [BGR]Armas
+[2021-10-22 17:36:25] [BGR]Armas restarted successfully
+[2021-10-22 17:37:24] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:37:24] Stopping [BGR]Armas
+[2021-10-22 17:37:24] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:37:24] Starting [BGR]Armas
+[2021-10-22 17:37:24] [BGR]Armas restarted successfully
+[2021-10-22 17:37:46] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-22 17:37:46] Stopping [BGR]Armas
+[2021-10-22 17:37:46] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-22 17:37:46] Starting [BGR]Armas
+[2021-10-22 17:37:46] [BGR]Armas restarted successfully
+[2021-10-22 17:54:04] Starting freeroam
+[2021-10-22 17:54:04] startResource: Resource 'freeroam' started
+[2021-10-22 17:54:04] Starting editor_test
+[2021-10-22 17:54:04] startResource: Resource 'editor_test' started
+[2021-10-22 17:54:21] ADMIN: Renan|B|EB has changed Renan|B|EB's skin to 37
+[2021-10-22 17:56:36] QUIT: Renan|B|EB left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-23 16:49:26] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-23 16:49:26] Loading of resource '[REN]iNFO' failed
+[2021-10-23 16:49:44] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-23 16:49:44] Resources: 303 loaded, 1 failed
+[2021-10-23 16:49:44] Starting resources...
+[2021-10-23 16:49:44] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-23 16:49:44] Gamemode 'play' started.
+[2021-10-23 16:49:44] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-23 16:49:44] WARNING: <owner_email_address> not set
+[2021-10-23 16:49:44] Server started and is ready to accept connections!
+[2021-10-23 16:49:44] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-23 16:49:44] Type 'help' for a list of commands.
+[2021-10-23 16:49:44] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-23 16:53:53] start: Requested by Console
+[2021-10-23 16:53:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 16:53:53] Starting [BGR]Armas
+[2021-10-23 16:53:54] start: Resource '[BGR]Armas' started
+[2021-10-23 16:54:31] CONNECT: Renan|B|EB connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-23 16:54:32] JOIN: Renan|B|EB joined the game (IP: 192.168.1.2)
+[2021-10-23 16:54:46] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) Renan|B|EB successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-23 16:54:53] Starting F10
+[2021-10-23 16:54:53] startResource: Resource 'F10' started
+[2021-10-23 16:54:53] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-23 16:54:57] Starting editor
+[2021-10-23 16:54:57] Starting edf
+[2021-10-23 16:54:57] Starting editor_main
+[2021-10-23 16:54:57] Starting freecam
+[2021-10-23 16:54:57] Starting move_freecam
+[2021-10-23 16:54:57] Starting move_cursor
+[2021-10-23 16:54:57] Starting move_keyboard
+[2021-10-23 16:54:57] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-23 16:54:58] Starting editor_gui
+[2021-10-23 16:54:58] Starting msgbox
+[2021-10-23 16:54:58] Starting tooltip
+[2021-10-23 16:54:58] startResource: Resource 'editor' started
+[2021-10-23 16:54:58] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-23 16:54:58] Stopping play
+[2021-10-23 16:54:58] Stopping freeroam
+[2021-10-23 16:54:58] Resource '[REN]iNFO' changed, reloading
+[2021-10-23 16:54:58] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-23 16:54:58] Loading of resource '[REN]iNFO' failed
+[2021-10-23 16:54:58] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-23 16:54:58] Resources: 303 loaded, 1 failed
+[2021-10-23 16:56:40] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 16:56:40] Stopping [BGR]Armas
+[2021-10-23 16:56:40] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 16:56:40] Starting [BGR]Armas
+[2021-10-23 16:56:40] [BGR]Armas restarted successfully
+[2021-10-23 16:58:10] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 16:58:10] Stopping [BGR]Armas
+[2021-10-23 16:58:10] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 16:58:10] Starting [BGR]Armas
+[2021-10-23 16:58:10] [BGR]Armas restarted successfully
+[2021-10-23 16:58:46] Starting freeroam
+[2021-10-23 16:58:46] startResource: Resource 'freeroam' started
+[2021-10-23 16:58:46] Starting editor_test
+[2021-10-23 16:58:46] startResource: Resource 'editor_test' started
+[2021-10-23 16:58:57] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:42] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:42] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:42] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:42] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:44] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:44] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 16:59:44] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:05:50] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:05:50] Stopping [BGR]Armas
+[2021-10-23 17:05:50] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:05:50] Starting [BGR]Armas
+[2021-10-23 17:05:51] [BGR]Armas restarted successfully
+[2021-10-23 17:06:07] Stopping freeroam
+[2021-10-23 17:06:07] Stopping editor_test
+[2021-10-23 17:07:55] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:07:55] Stopping [BGR]Armas
+[2021-10-23 17:07:55] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:07:55] Starting [BGR]Armas
+[2021-10-23 17:07:55] [BGR]Armas restarted successfully
+[2021-10-23 17:10:52] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:10:52] Stopping [BGR]Armas
+[2021-10-23 17:10:52] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:10:53] Starting [BGR]Armas
+[2021-10-23 17:10:53] [BGR]Armas restarted successfully
+[2021-10-23 17:12:12] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:12:12] Stopping [BGR]Armas
+[2021-10-23 17:12:12] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:12:12] Starting [BGR]Armas
+[2021-10-23 17:12:12] [BGR]Armas restarted successfully
+[2021-10-23 17:19:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:19:53] Stopping [BGR]Armas
+[2021-10-23 17:19:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:19:53] Starting [BGR]Armas
+[2021-10-23 17:19:53] [BGR]Armas restarted successfully
+[2021-10-23 17:20:48] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:20:48] Stopping [BGR]Armas
+[2021-10-23 17:20:48] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:20:48] Starting [BGR]Armas
+[2021-10-23 17:20:48] [BGR]Armas restarted successfully
+[2021-10-23 17:21:30] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:21:30] Stopping [BGR]Armas
+[2021-10-23 17:21:30] Starting [BGR]Armas
+[2021-10-23 17:21:31] [BGR]Armas restarted successfully
+[2021-10-23 17:21:41] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:21:41] Stopping [BGR]Armas
+[2021-10-23 17:21:41] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:21:41] Starting [BGR]Armas
+[2021-10-23 17:21:41] [BGR]Armas restarted successfully
+[2021-10-23 17:24:49] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 17:24:49] Stopping [BGR]Armas
+[2021-10-23 17:24:49] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 17:24:49] Starting [BGR]Armas
+[2021-10-23 17:24:49] [BGR]Armas restarted successfully
+[2021-10-23 17:25:33] Starting freeroam
+[2021-10-23 17:25:33] startResource: Resource 'freeroam' started
+[2021-10-23 17:25:33] Starting editor_test
+[2021-10-23 17:25:33] startResource: Resource 'editor_test' started
+[2021-10-23 17:25:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:43] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:44] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 17:25:44] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 18:43:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 18:43:11] Stopping [BGR]Armas
+[2021-10-23 18:43:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 18:43:11] Starting [BGR]Armas
+[2021-10-23 18:43:12] [BGR]Armas restarted successfully
+[2021-10-23 18:43:15] Stopping freeroam
+[2021-10-23 18:43:15] Stopping editor_test
+[2021-10-23 18:44:02] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 18:44:02] Stopping [BGR]Armas
+[2021-10-23 18:44:02] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 18:44:02] Starting [BGR]Armas
+[2021-10-23 18:44:02] [BGR]Armas restarted successfully
+[2021-10-23 18:45:55] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 18:45:55] Stopping [BGR]Armas
+[2021-10-23 18:45:55] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 18:45:56] Starting [BGR]Armas
+[2021-10-23 18:45:56] [BGR]Armas restarted successfully
+[2021-10-23 18:46:05] Starting freeroam
+[2021-10-23 18:46:05] startResource: Resource 'freeroam' started
+[2021-10-23 18:46:05] Starting editor_test
+[2021-10-23 18:46:05] startResource: Resource 'editor_test' started
+[2021-10-23 18:46:08] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 18:46:47] Stopping freeroam
+[2021-10-23 18:46:47] Stopping editor_test
+[2021-10-23 18:50:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 18:50:53] Stopping [BGR]Armas
+[2021-10-23 18:50:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 18:50:53] Starting [BGR]Armas
+[2021-10-23 18:50:53] [BGR]Armas restarted successfully
+[2021-10-23 18:52:13] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 18:52:13] Stopping [BGR]Armas
+[2021-10-23 18:52:13] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 18:52:13] Starting [BGR]Armas
+[2021-10-23 18:52:13] [BGR]Armas restarted successfully
+[2021-10-23 19:01:57] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 19:01:57] Stopping [BGR]Armas
+[2021-10-23 19:01:57] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 19:01:57] Starting [BGR]Armas
+[2021-10-23 19:01:57] [BGR]Armas restarted successfully
+[2021-10-23 19:11:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 19:11:37] Stopping [BGR]Armas
+[2021-10-23 19:11:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 19:11:37] Starting [BGR]Armas
+[2021-10-23 19:11:37] [BGR]Armas restarted successfully
+[2021-10-23 19:15:11] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 19:15:11] Stopping [BGR]Armas
+[2021-10-23 19:15:11] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 19:15:11] Starting [BGR]Armas
+[2021-10-23 19:15:11] [BGR]Armas restarted successfully
+[2021-10-23 19:16:18] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 19:16:18] Stopping [BGR]Armas
+[2021-10-23 19:16:18] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 19:16:18] Starting [BGR]Armas
+[2021-10-23 19:16:18] [BGR]Armas restarted successfully
+[2021-10-23 19:17:23] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-23 19:17:23] Stopping [BGR]Armas
+[2021-10-23 19:17:23] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-23 19:17:23] Starting [BGR]Armas
+[2021-10-23 19:17:23] [BGR]Armas restarted successfully
+[2021-10-23 19:17:37] Starting freeroam
+[2021-10-23 19:17:37] startResource: Resource 'freeroam' started
+[2021-10-23 19:17:37] Starting editor_test
+[2021-10-23 19:17:37] startResource: Resource 'editor_test' started
+[2021-10-23 19:17:42] ADMIN: Renan|B|EB has given Renan|B|EB 'M4'
+[2021-10-23 19:17:59] Stopping freeroam
+[2021-10-23 19:17:59] Stopping editor_test
+[2021-10-23 20:02:37] Server stopped!
+[2021-10-23 20:02:37] Stopping resources.........................
+[2021-10-23 20:02:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-24 14:23:45] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-24 14:23:45] Loading of resource '[REN]iNFO' failed
+[2021-10-24 14:24:20] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-24 14:24:20] Resources: 303 loaded, 1 failed
+[2021-10-24 14:24:20] Starting resources...
+[2021-10-24 14:24:21] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-24 14:24:21] Gamemode 'play' started.
+[2021-10-24 14:24:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-24 14:24:21] WARNING: <owner_email_address> not set
+[2021-10-24 14:24:21] Server started and is ready to accept connections!
+[2021-10-24 14:24:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-24 14:24:21] Type 'help' for a list of commands.
+[2021-10-24 14:24:21] Querying MTA master server... success! (Auto detected IP:187.19.244.242)
+[2021-10-24 14:24:27] start: Requested by Console
+[2021-10-24 14:24:28] Starting [BGR]Armas
+[2021-10-24 14:24:28] start: Resource '[BGR]Armas' started
+[2021-10-24 14:24:33] CONNECT: TDT|CRIA.Lima^MDBALA connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21013.0)
+[2021-10-24 14:24:35] JOIN: TDT|CRIA.Lima^MDBALA joined the game (IP: 192.168.1.2)
+[2021-10-24 14:25:39] LOGIN: (Everyone, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS) TDT|CRIA.Lima^MDBALA successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-10-24 14:25:41] NICK: TDT|CRIA.Lima^MDBALA is now known as Renan|B|EB
+[2021-10-24 14:25:46] ADMIN: Resource '[BGR]Armas' restarted by Renan|B|EB(Lucas)
+[2021-10-24 14:25:46] Stopping [BGR]Armas
+[2021-10-24 14:25:46] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:25:46] Starting [BGR]Armas
+[2021-10-24 14:25:46] [BGR]Armas restarted successfully
+[2021-10-24 14:28:21] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:28:21] Stopping [BGR]Armas
+[2021-10-24 14:28:21] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:28:21] Starting [BGR]Armas
+[2021-10-24 14:28:21] [BGR]Armas restarted successfully
+[2021-10-24 14:28:37] Starting editor
+[2021-10-24 14:28:37] Starting edf
+[2021-10-24 14:28:37] Starting editor_main
+[2021-10-24 14:28:38] Starting freecam
+[2021-10-24 14:28:38] Starting move_freecam
+[2021-10-24 14:28:38] Starting move_cursor
+[2021-10-24 14:28:38] Starting move_keyboard
+[2021-10-24 14:28:38] 'FREEROAM' resource is currently running.  The resource has been shut off as a precaution!
+[2021-10-24 14:28:38] Starting editor_gui
+[2021-10-24 14:28:38] Starting msgbox
+[2021-10-24 14:28:38] Starting tooltip
+[2021-10-24 14:28:38] startResource: Resource 'editor' started
+[2021-10-24 14:28:38] ADMIN: Resource 'editor' started by Renan|B|EB(Lucas)
+[2021-10-24 14:28:38] Stopping play
+[2021-10-24 14:28:38] Stopping freeroam
+[2021-10-24 14:28:38] Resource '[REN]iNFO' changed, reloading
+[2021-10-24 14:28:38] ERROR: Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-24 14:28:38] Loading of resource '[REN]iNFO' failed
+[2021-10-24 14:28:38] ERROR: Problem with resource: [REN]iNFO; Couldn't find script painelsilveira.lua for resource [REN]iNFO
+[2021-10-24 14:28:38] Resources: 303 loaded, 1 failed
+[2021-10-24 14:29:10] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:29:10] Stopping [BGR]Armas
+[2021-10-24 14:29:10] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:29:10] Starting [BGR]Armas
+[2021-10-24 14:29:10] [BGR]Armas restarted successfully
+[2021-10-24 14:29:53] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:29:53] Stopping [BGR]Armas
+[2021-10-24 14:29:53] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:29:53] Starting [BGR]Armas
+[2021-10-24 14:29:54] [BGR]Armas restarted successfully
+[2021-10-24 14:30:17] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:30:17] Stopping [BGR]Armas
+[2021-10-24 14:30:17] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:30:18] Starting [BGR]Armas
+[2021-10-24 14:30:18] [BGR]Armas restarted successfully
+[2021-10-24 14:31:37] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:31:37] Stopping [BGR]Armas
+[2021-10-24 14:31:37] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:31:37] Starting [BGR]Armas
+[2021-10-24 14:31:37] [BGR]Armas restarted successfully
+[2021-10-24 14:32:08] restart: Requested by Renan|B|EB(Lucas)
+[2021-10-24 14:32:08] Stopping [BGR]Armas
+[2021-10-24 14:32:08] Resource '[BGR]Armas' changed, reloading and starting
+[2021-10-24 14:32:08] Starting [BGR]Armas
+[2021-10-24 14:32:09] [BGR]Armas restarted successfully
+[2021-10-24 15:32:22] ADMIN: Renan|B|EB has changed time to 12:00
+[2021-10-24 15:32:29] Starting F10
+[2021-10-24 15:32:30] startResource: Resource 'F10' started
+[2021-10-24 15:32:30] ADMIN: Resource 'F10' started by Renan|B|EB(Lucas)
+[2021-10-24 15:33:09] QUIT: Renan|B|EB left the game [Quit]
+[2021-10-24 20:55:02] Server stopped!
+[2021-10-24 20:55:02] Stopping resources.........................
+[2021-10-24 20:55:03] Closing SQLite3 database

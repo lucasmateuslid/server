@@ -126,6 +126,21 @@ engineReplaceModel( dff, 300 )
 end)
 -- Skin eb
 
+addEventHandler('onClientResourceStart',resourceRoot,function ()
+txd = engineLoadTXD( '282.txd' )
+engineImportTXD( txd, 282 )
+dff = engineLoadDFF('282.dff', 282)
+engineReplaceModel( dff, 282 )
+end)
+-- Skin 282
+
+addEventHandler('onClientResourceStart',resourceRoot,function ()
+txd = engineLoadTXD( '250.txd' )
+engineImportTXD( txd, 250 )
+dff = engineLoadDFF('250.dff', 250)
+engineReplaceModel( dff, 250 )
+end)
+-- Skin 250
 
 
 
