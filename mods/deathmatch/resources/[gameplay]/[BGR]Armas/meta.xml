@@ -10,5 +10,7 @@
   <file src="deagle/deagle.dff" />
   <file src="colt45/colt45.txd" />
   <file src="colt45/colt45.dff" />
-  
+  <file src="mp5/mp5.txd" />
+  <file src="mp5/mp5.dff" />
+
 </meta>

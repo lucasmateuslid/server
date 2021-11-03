@@ -1,4 +1,4 @@
-servernamer = "[TRN] CORPORAÇÕES ALIADAS [TRN]"
+servernamer = "[1] ✱ SERVIDOR DE TREINAMENTO ✱ EXÉRCITO BRASILEIRO - ROTA [1] BGR"
 
 addEventHandler("onResourceStart", resourceRoot, function(resource)
 	if (resource == getThisResource()) then

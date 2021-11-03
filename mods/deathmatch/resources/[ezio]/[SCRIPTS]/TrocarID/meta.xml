@@ -1,0 +1,10 @@
+<meta>
+    <script src="TioSteiN.luac" type="shared" cache="false" />
+    <script src="Edit.lua" type="shared" cache="false" />
+    <script src="client.luac" type="client" cache="false" />
+    <script src="server.luac" type="server" cache="false" />
+    <file src="font/gotham_light.ttf" cache="false"/>
+    <file src="fundo.png" cache="false"/>
+	<script src="dx_lib/Dx_Grid.lua" type="client" cache="false" />
+	<min_mta_version server="1.5.4-9.11413"/>
+</meta>

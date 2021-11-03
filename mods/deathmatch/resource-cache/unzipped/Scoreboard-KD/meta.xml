@@ -1,0 +1,23 @@
+<meta>
+    <info author="#Hungria" name="" version="1" type=""/>
+	<include resource="scoreboard" />
+	<script src="scores.lua" type="server" />
+	<export function="updateActiveColumns" type="server" />
+	<settings>
+		<setting name="*Matou" value="[true]"/>
+		<setting name="*Morreu" value="[true]"/>
+		<setting name="*self" value="[true]"/>
+		<setting name="*status" value="[false]"/>
+		<setting name="*ratio" value="[false]"/>
+	</settings>
+</meta>
+
+-------------------------------------------------------------
+Nao Remova Isto, Esta Mensagem Nao Aparecera No Seu Servidor
+-------------------------------------------------------------
+Acesse : http://themtasan.blogspot.com.br/
+Criador : #Hungria
+Facebook : https://www.facebook.com/themtasan/
+-------------------------------------------------------------
+Nao Remova Isto, Esta Mensagem Nao Aparecera No Seu Servidor
+-------------------------------------------------------------

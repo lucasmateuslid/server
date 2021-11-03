@@ -9,4 +9,12 @@
     <ped id="ped (4)" interior="0" rotZ="0.003" dimension="0" model="37" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2482.2" posY="-1672.5" posZ="13.3403" rotX="0" rotY="0"></ped>
     <ped id="ped (7)" interior="0" rotZ="0.003" dimension="0" model="73" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2483.2" posY="-1672.5" posZ="13.33595" rotX="0" rotY="0"></ped>
     <ped id="ped (8)" interior="0" rotZ="0.003" dimension="0" model="213" health="100" armor="0" collisions="true" alpha="255" frozen="true" posX="2484.2" posY="-1672.5" posZ="13.33595" rotX="0" rotY="0"></ped>
+    <object id="object (6)" breakable="true" interior="0" alpha="255" dimension="0" model="353" scale="1" doublesided="false" collisions="true" frozen="false" posX="2496.6001" posY="-1664.8" posZ="12.6" rotX="0" rotY="0" rotZ="0"></object>
+    <ped id="ped (2)" interior="0" rotZ="0" dimension="0" model="0" health="100" armor="0" collisions="true" alpha="255" frozen="false" posX="2501.8" posY="-1675.1" posZ="13.4" rotX="0" rotY="0"></ped>
+    <object id="object (7)" breakable="true" interior="0" alpha="255" dimension="0" model="353" scale="1" doublesided="false" collisions="true" frozen="false" posX="210.9209" posY="1818.96289" posZ="7.58121" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (8)" breakable="true" interior="0" alpha="255" dimension="0" model="355" scale="1" doublesided="false" collisions="true" frozen="false" posX="215.89999" posY="1815.1" posZ="7.9" rotX="0" rotY="338" rotZ="154"></object>
+    <object id="object (9)" breakable="true" interior="0" alpha="255" dimension="0" model="356" scale="1" doublesided="false" collisions="true" frozen="false" posX="215.3" posY="1815.2" posZ="7.7" rotX="0" rotY="336" rotZ="148"></object>
+    <object id="object (10)" breakable="true" interior="0" alpha="255" dimension="0" model="353" scale="1" doublesided="false" collisions="true" frozen="false" posX="215.89999" posY="1814.9" posZ="8.4" rotX="0" rotY="342" rotZ="158"></object>
+    <object id="object (11)" breakable="true" interior="0" alpha="255" dimension="0" model="348" scale="1" doublesided="false" collisions="true" frozen="false" posX="214.8" posY="1815.6" posZ="7.8" rotX="0" rotY="0" rotZ="142"></object>
+    <object id="object (12)" breakable="true" interior="0" alpha="255" dimension="0" model="346" scale="1" doublesided="false" collisions="true" frozen="false" posX="214.7" posY="1815.6" posZ="7.6" rotX="0" rotY="6" rotZ="140"></object>
 </map>

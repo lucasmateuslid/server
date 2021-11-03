@@ -1,0 +1,28 @@
+<meta>
+	<info author="Filipin" name="Hud" description="HudByFilipin" version="2.0.0" type="script"/>
+
+	<script src="Fp_C.lua" type="client" cache="false"/>
+
+      <file src="img/hud.png" />
+      <file src="img/colete.png" />
+      <file src="img/vida.png" />
+      <file src="img/coracao.png" />
+      <file src="img/escudo.png" />
+
+      <file src="fonts/bold.ttf" />
+      <file src="fonts/icons.otf" />
+      <file src="fonts/icons2.otf" />
+      <file src="fonts/regular.ttf" />
+
+      <file src="Icones/0.png"/>
+
+      <file src="Icones/4.png"/>
+
+      <file src="Icones/23.png"/>
+
+      <file src="Icones/30.png"/>
+
+      <file src="Icones/31.png"/>
+
+      
+</meta> 

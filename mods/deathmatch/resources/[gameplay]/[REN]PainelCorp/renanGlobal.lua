@@ -1,6 +1,6 @@
 configC = {
 	binds = {
-		tecla = "F2",
+		tecla = "F1",
 		tipo = "down",
 	},
 	precosV = {
@@ -10,15 +10,15 @@ configC = {
 		preco_4 = "null",
 	},
 	links = {
-		discord = "discord.gg/R7vnXN5P2U",
+		discord = "",
 	},
 }
 
 configS = {
 	groups = {
-		vip_1 = "EB",
-		vip_2 = "EB",
-		vip_3 = "EB",
+		vip_1 = "Console",
+		vip_2 = "Console",
+		vip_3 = "Console",
 		vip_4 = "Console",
 	},
 	bronze = {

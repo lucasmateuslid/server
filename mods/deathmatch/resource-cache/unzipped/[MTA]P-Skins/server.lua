@@ -96,10 +96,10 @@ addEventHandler("EventSkin08",getRootElement(),Skin08F)
 --------------------------------------------------------------------------------------------------------------------
 
 function Skin09F()
- if getElementModel(source) == 288 then
+ if getElementModel(source) == 154 then
    else
-   setElementModel(source,288)
-   exports["infobox"]:addBox(source, "success", "Você Pegou a Skin do ID 288")
+   setElementModel(source,154)
+   exports["infobox"]:addBox(source, "success", "Você Pegou a Skin do ID 154")
    end
 end
 addEvent("EventSkin09",true)

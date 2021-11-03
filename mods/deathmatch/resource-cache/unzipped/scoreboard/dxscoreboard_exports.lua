@@ -1,10 +1,11 @@
 MAX_PRIRORITY_SLOT = 500
 
 scoreboardColumns = {
-	{ ["name"] = "name", ["width"] = 200, ["friendlyName"] = "Name", ["priority"] = 1 },
-	{ ["name"] = "ping", ["width"] = 40, ["friendlyName"] = "Ping", ["priority"] = MAX_PRIRORITY_SLOT },
+	{ ["name"] = "ID", ["width"] = 20, ["friendlyName"] = "ID", ["priority"] = 1 },
+	{ ["name"] = "name", ["width"] = 200, ["friendlyName"] = "Name", ["priority"] = 2 },
+	{ ["name"] = "fps", ["width"] = 30, ["friendlyName"] = "FPS", ["priority"] = 3 },
+	{ ["name"] = "ping", ["width"] = 40, ["friendlyName"] = "Ping", ["priority"] = MAX_PRIRORITY_SLOT }
 }
-
 resourceColumns = {}
 
 function toboolean( bool )
@@ -21,12 +22,7 @@ end
 forceShowTeams = toboolean( get( "forceShowTeams" ) ) or false
 forceHideTeams = toboolean( get( "forceHideTeams" ) ) or false
 allowColorcodedNames = toboolean( get( "allowColorcodedNames" ) ) or false
-showCountries = toboolean( get( "showCountries" ) ) or false
 scrollStep = tonumber( get( "scrollStep" ) ) or 1
-
-if showCountries then
-	table.insert (scoreboardColumns, { ["name"] = "Country", ["width"] = 50, ["friendlyName"] = "Country", ["priority"] = MAX_PRIRORITY_SLOT-1, ["isImage"] = true, ["imageW"] = 18, ["imageH"] = 12 })
-end
 
 local function iif( cond, arg1, arg2 )
 	if cond then
@@ -35,15 +31,14 @@ local function iif( cond, arg1, arg2 )
 	return arg2
 end
 
---scoreboardAddColumn (dataName,source,width,friendlyName,priority,isImage,imageW,imageH)
-function scoreboardAddColumn( name, forElement, width, friendlyName, priority, isImage, imageW, imageH )
+function scoreboardAddColumn( name, forElement, width, friendlyName, priority )
 	if type( name ) == "string" then
 		width = tonumber( width ) or 70
 		friendlyName = friendlyName or name
 		priority = tonumber( priority ) or getNextFreePrioritySlot( scoreboardGetColumnPriority( "name" ) )
 		fixPrioritySlot( priority )
 		forElement = iif( type( forElement ) == "userdata" and isElement( forElement ), forElement, getRootElement() )
-
+		
 		if forElement == getRootElement() then
 			if not (priority > MAX_PRIRORITY_SLOT or priority < 1) then
 				for key, value in ipairs( scoreboardColumns ) do
@@ -51,16 +46,16 @@ function scoreboardAddColumn( name, forElement, width, friendlyName, priority, i
 						return false
 					end
 				end
-				table.insert( scoreboardColumns, { ["name"] = name, ["width"] = width, ["friendlyName"] = friendlyName, ["priority"] = priority, ["isImage"] = isImage, ["imageW"] = imageW, ["imageH"] = imageH } )
+				table.insert( scoreboardColumns, { ["name"] = name, ["width"] = width, ["friendlyName"] = friendlyName, ["priority"] = priority } )
 				table.sort( scoreboardColumns, function ( a, b ) return a.priority < b.priority end )
 				if sourceResource then
 					if not resourceColumns[sourceResource] then resourceColumns[sourceResource] = {} end
 					table.insert ( resourceColumns[sourceResource], name )
 				end
-				return triggerClientEvent( getRootElement(), "doScoreboardAddColumn", getRootElement(), name, width, friendlyName, priority, sourceResource, isImage, imageW, imageH )
+				return triggerClientEvent( getRootElement(), "doScoreboardAddColumn", getRootElement(), name, width, friendlyName, priority, sourceResource )
 			end
 		else
-			return triggerClientEvent( forElement, "doScoreboardAddColumn", getRootElement(), name, width, friendlyName, priority, sourceResource, isImage, imageW, imageH )
+			return triggerClientEvent( forElement, "doScoreboardAddColumn", getRootElement(), name, width, friendlyName, priority, sourceResource )
 		end
 	end
 	return false
@@ -69,7 +64,7 @@ end
 function scoreboardRemoveColumn( name, forElement )
 	if type( name ) == "string" then
 		forElement = iif( type( forElement ) == "userdata" and isElement( forElement ), forElement, getRootElement() )
-
+		
 		if forElement == getRootElement() then
 			for key, value in ipairs( scoreboardColumns ) do
 				if name == value.name then
@@ -89,7 +84,7 @@ end
 
 function scoreboardClearColumns( forElement )
 	forElement = iif( type( forElement ) == "userdata" and isElement( forElement ), forElement, getRootElement() )
-
+	
 	if forElement == getRootElement() then
 		while ( scoreboardColumns[1] ) do
 			table.remove( scoreboardColumns, 1 )
@@ -103,7 +98,7 @@ end
 
 function scoreboardResetColumns( forElement )
 	forElement = iif( type( forElement ) == "userdata" and isElement( forElement ), forElement, getRootElement() )
-
+	
 	if forElement == getRootElement() then
 		while ( scoreboardColumns[1] ) do
 			table.remove( scoreboardColumns, 1 )
@@ -113,7 +108,6 @@ function scoreboardResetColumns( forElement )
 		if result then
 			scoreboardAddColumn( "name", 200, "Name" )
 			scoreboardAddColumn( "ping", 40, "Ping" )
-			scoreboardAddColumn( "Country", 50, "Country", 20, true, 12, 8 )
 		end
 		return result
 	else
@@ -203,13 +197,13 @@ end
 
 function onClientDXScoreboardResourceStart()
 	for key, column in ipairs( scoreboardColumns ) do
-		triggerClientEvent( client, "doScoreboardAddColumn", getRootElement(), column.name, column.width, column.friendlyName, column.priority, nil, column.isImage, column.imageW, column.imageH )
+		triggerClientEvent( client, "doScoreboardAddColumn", getRootElement(), column.name, column.width, column.friendlyName, column.priority )
 	end
 end
 addEvent( "onClientDXScoreboardResourceStart", true )
 addEventHandler( "onClientDXScoreboardResourceStart", getResourceRootElement( getThisResource() ), onClientDXScoreboardResourceStart )
 
-function requestServerInfo()
+function requestServerInfoHandler()
 	local mapmanager = getResourceFromName( "mapmanager" )
 	local output = {}
 	output.forceshowteams = forceShowTeams
@@ -230,10 +224,10 @@ function requestServerInfo()
 			output.map = getResourceInfo( map, "name" ) or getResourceName( map )
 		end
 	end
-	triggerClientEvent( client, "sendServerInfo", getRootElement(), output )
+	triggerClientEvent( source, "sendServerInfo", getRootElement(), output )
 end
 addEvent( "requestServerInfo", true )
-addEventHandler( "requestServerInfo", getResourceRootElement( getThisResource() ), requestServerInfo )
+addEventHandler( "requestServerInfo", getRootElement(), requestServerInfoHandler )
 
 function removeResourceScoreboardColumns( resource )
 	if resourceColumns[resource] then
@@ -256,3 +250,53 @@ addScoreboardColumn = 	function( name, forElement, position, size )
 removeScoreboardColumn = scoreboardRemoveColumn
 resetScoreboardColumns = scoreboardResetColumns
 setPlayerScoreboardForced = function( forElement, forced ) return scoreboardSetForced( forced, forElement ) end
+
+
+
+function onPlayerJoinToServer()
+	if source then
+		findIDForPlayer(source)
+		local country = call(getResourceFromName("admin"),"getPlayerCountry",source)
+		if country then
+			setElementData(source,"country",country)
+		else
+			setElementData(source,"country","?")
+		end
+	end
+end
+addEventHandler("onPlayerJoin",getRootElement(),onPlayerJoinToServer)
+
+
+function findIDForPlayer(thePlayer)
+	if thePlayer and not getElementData(thePlayer,"ID") then
+		local i = 0
+		local players = getElementsByType("player")
+		repeat 
+			local foundID = false
+			i = i + 1
+			for _,player in pairs(players) do
+				if player ~= thePlayer then
+					local playerID = tonumber(getElementData(player,"ID"))
+					if playerID == i then
+						foundID = true
+						break
+					end
+				end
+			end
+		until not foundID
+		setElementData(thePlayer,"ID",i)
+	end
+end
+
+function onServerIDStart()
+	for i,thePlayer in pairs(getElementsByType("player")) do
+		findIDForPlayer(thePlayer)
+		local country = call(getResourceFromName("admin"),"getPlayerCountry",source)
+		if country then
+			setElementData(source,"country",country)
+		else
+			setElementData(source,"country","?")
+		end
+	end
+end
+addEventHandler("onResourceStart",resourceRoot,onServerIDStart)

@@ -17,4 +17,9 @@ txd = engineLoadTXD ("colt45/colt45.txd")
 engineImportTXD(txd, 346)
 dff = engineLoadDFF("colt45/colt45.dff", 346)
 engineReplaceModel(dff, 346)
+---------------------------------------------
+txd = engineLoadTXD ("mp5/mp5.txd")
+engineImportTXD(txd, 353)
+dff = engineLoadDFF("mp5/mp5.dff", 353)
+engineReplaceModel(dff, 353)
 

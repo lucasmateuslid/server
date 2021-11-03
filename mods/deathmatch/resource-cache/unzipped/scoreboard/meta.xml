@@ -1,23 +1,25 @@
 <meta>
-	<info author="Awwu" type="script" name="Scoreboard" description="DirectX scoreboard resource" showInResourceBrowser="true" version="2.7.2"/>
+	<info author="#Hungria" type="" name="" description="" addon="race" showInResourceBrowser="true" version="1"/>
 
-	<script src="dxscoreboard_shared.lua" type="server" />
+	<file src="ITCKRIST.ttf" />
 	<script src="dxscoreboard_exports.lua" type="server" />
 	<script src="dxscoreboard_http.lua" type="server" />
 	<script src="dxscoreboard_client.lua" type="client" />
 	<script src="dxscoreboard_clientsettings.lua" type="client" />
+	<script src="dxscoreboard_shared.lua" type="server" />
 	<script src="dxscoreboard_shared.lua" type="client" />
-	<script src="dxscoreboard_countries.lua" type="server" />
-
+	<script src="countryCodes.lua" type="client" />
+	
 	<script src="colorpicker/colorpicker.lua" type="client" />
 	<file src="colorpicker/palette.png" />
 	<file src="colorpicker/alpha.png" />
-
+	
 	<file src="arrow.png" />
 
 	<!-- Render target speed up -->
 	<script src="dxscoreboard_rt.lua" type="client" />
-
+	<file src="rt_blend.fx" type="client" />
+	
 	<!-- HTTP functions, original files by jbeta -->
 	<export function="getScoreboardColumns" type="server" http="true" />
 	<export function="getScoreboardRows" type="server" http="true" />
@@ -39,7 +41,7 @@
 	<export function="scoreboardForceTeamsHidden" type="server" />
 	<export function="isPrioritySlotFree" type="server" />
 	<export function="getNextFreePrioritySlot" type="server" />
-
+	
 	<!-- Client functions -->
 	<export function="scoreboardAddColumn" type="client"/>
 	<export function="scoreboardRemoveColumn" type="client"/>
@@ -57,25 +59,20 @@
 	<export function="isPrioritySlotFree" type="client" />
 	<export function="getNextFreePrioritySlot" type="client" />
 	<export function="scoreboardGetSelectedRows" type="client" />
-
+	
 	<!-- Compability -->
 	<export function="addScoreboardColumn" type="server"/>
 	<export function="removeScoreboardColumn" type="server"/>
 	<export function="resetScoreboardColumns" type="server"/>
 	<export function="setPlayerScoreboardForced" type="server"/>
 	<export function="setScoreboardForced" type="client"/>
-
+	
 	<settings>
 		<setting name="*forceShowTeams" value="false"
 			friendlyname="Force teams to be shown"
 			group="General"
 			accept="false,true"
 			desc="Should the teams be always visible on the scoreboard, no matter what user has in the settings?" />
-		<setting name="*showCountries" value="true"
-			friendlyname="Show countries"
-			group="General"
-			accept="false,true"
-			desc="Should country flags be displayed in TAB?" />
 		<setting name="*forceHideTeams" value="false"
 			friendlyname="Force teams to be hidden"
 			group="General"
@@ -93,3 +90,13 @@
 			desc="How many lines to scroll each time the mouse wheel is moved or the up/down buttons pressed" />
 	</settings>
 </meta>
+
+-------------------------------------------------------------
+Nao Remova Isto, Esta Mensagem Nao Aparecera No Seu Servidor
+-------------------------------------------------------------
+Acesse : http://themtasan.blogspot.com.br/
+Criador : #Hungria
+Facebook : https://www.facebook.com/themtasan/
+-------------------------------------------------------------
+Nao Remova Isto, Esta Mensagem Nao Aparecera No Seu Servidor
+-------------------------------------------------------------

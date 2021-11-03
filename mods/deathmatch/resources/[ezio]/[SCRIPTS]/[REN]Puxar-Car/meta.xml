@@ -1,0 +1,6 @@
+<meta>
+    <info author="MeloSCR" type="script" name="Script Puxar Carro" version="1.0"/>
+
+    <script src="gMeloSCR.lua" type="shared" />
+    <script src="sMeloSCR.lua" type="server" />
+</meta>

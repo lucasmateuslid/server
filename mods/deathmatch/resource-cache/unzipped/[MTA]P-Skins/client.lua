@@ -59,7 +59,7 @@ dxDrawText(" Farda 1", screenW * 0.3859, screenH * 0.2764, screenW * 0.5766, scr
         dxDrawText(" Farda 6", screenW * 0.3859, screenH * 0.4482, screenW * 0.5766, screenH * 0.4834, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
         dxDrawText(" Farda 7", screenW * 0.3859, screenH * 0.4824, screenW * 0.5766, screenH * 0.5176, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
         dxDrawText(" Farda 8", screenW * 0.3859, screenH * 0.5166, screenW * 0.5766, screenH * 0.5518, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
-        dxDrawText(" Farda 9", screenW * 0.3859, screenH * 0.5498, screenW * 0.5766, screenH * 0.5850, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
+        dxDrawText(" Peladinho", screenW * 0.3859, screenH * 0.5498, screenW * 0.5766, screenH * 0.5850, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
         dxDrawText(" Feminina 01", screenW * 0.3859, screenH * 0.5840, screenW * 0.5766, screenH * 0.6191, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
         dxDrawText(" Defensores 01", screenW * 0.3859, screenH * 0.6191, screenW * 0.5766, screenH * 0.6543, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
         dxDrawText(" Defensores 02", screenW * 0.3859, screenH * 0.6523, screenW * 0.5766, screenH * 0.6875, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
@@ -110,7 +110,7 @@ dxDrawText(" Farda 1", screenW * 0.3859, screenH * 0.2764, screenW * 0.5766, scr
 		
     if isCursorOnElement ( screenW * 0.3859, screenH * 0.5508, screenW * 0.1906, screenH * 0.0342 ) then ---- Fechar 
         dxDrawRectangle(screenW * 0.3859, screenH * 0.5508, screenW * 0.1906, screenH * 0.0342, tocolor(187, 13, 197, 255), false)
-        dxDrawText(" Farda 9", screenW * 0.3859, screenH * 0.5498, screenW * 0.5766, screenH * 0.5850, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
+        dxDrawText(" Peladinho", screenW * 0.3859, screenH * 0.5498, screenW * 0.5766, screenH * 0.5850, tocolor(255, 255, 255, 255), 1.10, "default-bold", "center", "center", false, false, false, false, false)
 	else
 	end
 
