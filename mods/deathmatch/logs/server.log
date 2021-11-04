@@ -18191,3 +18191,161 @@
 [2021-11-04 00:25:11] Server stopped!
 [2021-11-04 00:25:11] Stopping resources...............................................................
 [2021-11-04 00:25:13] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : .. 1.5/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Quality [4];  Sample Rate: [16000Hz]
+= Bandwidth saving : Medium
+==================================================================
+[2021-11-04 04:29:50] ERROR: Not processing resource '[REN]PainelCorp' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\[REN]PainelCorp"
+                  Path #2: "resources\[ezio]\[SCRIPTS]\[REN]PainelCorp"
+[2021-11-04 04:29:50] Resources: 320 loaded, 0 failed
+[2021-11-04 04:29:50] Starting resources...
+[2021-11-04 04:29:50] Server minclientversion is now 1.5.8-9.20927.0
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]LoadScreemr. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]HudBGR. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]AntiLag. Check it exists.
+[2021-11-04 04:29:50] WARNING: [MTA]NaoExplodir <min_mta_version> section in the meta.xml is incorrect or missing (expected at least server 1.5.6-9.18728 because of 'Crown_Scr.luac')
+[2021-11-04 04:29:50] WARNING: [MTA]NaoExplodir requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least server 1.5.6-9.18728 because of 'Crown_Scr.luac')
+[2021-11-04 04:29:50] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]P-Anim. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]P-F10. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]P-Miras. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]PainelArmasF5. Check it exists.
+[2021-11-04 04:29:50] ERROR: Couldn't find resource [MTA]PainelSkinsF5. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [MTA]RemoverTirosLS. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [MTA]VoiceLocal. Check it exists.
+[2021-11-04 04:29:51] WARNING: [ARMAS]Som/client.lua [Client] is encoded in ANSI instead of UTF-8.  Please convert your file to UTF-8.
+[2021-11-04 04:29:51] Some files in '[ARMAS]Som' use deprecated functions.
+[2021-11-04 04:29:51] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [MAPA]CDD-Dimensao1. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [ORG]Viatura1. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [ORG]Viatura2. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [CORP]Skin-BAEP. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [CORP]Skin-COE. Check it exists.
+[2021-11-04 04:29:51] WARNING: File 'skin.dff' in resource '[CORP]Skin-EB_1' contains errors.
+[2021-11-04 04:29:51] WARNING: File 'byScoobiy.dff' in resource '[CORP]Skin-PF' contains errors.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [CORP]Skin-PMESP. Check it exists.
+[2021-11-04 04:29:51] WARNING: File 'BRISAMODS.dff' in resource '[CORP]Skin-ROTA_2' contains errors.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [SKIN]Feminina2. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [SKIN]LOS. Check it exists.
+[2021-11-04 04:29:51] WARNING: [STAFF]Comandos/server_S.lua(Line 187) [Server] setVehicleTurnVelocity is deprecated and may not work in future versions. Please replace with setElementAngularVelocity before Tuesday.
+[2021-11-04 04:29:51] Some files in '[STAFF]Comandos' use deprecated functions.
+[2021-11-04 04:29:51] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource Login. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource Login. Check it exists.
+[2021-11-04 04:29:51] ERROR: Couldn't find resource [MTA]PainelSkinsF5 [FAC]. Check it exists.
+[2021-11-04 04:29:51] Gamemode 'play' started.
+[2021-11-04 04:29:51] Querying MTA master server... success! (Auto detected IP:187.19.246.74)
+[2021-11-04 04:29:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-11-04 04:29:51] WARNING: <owner_email_address> not set
+[2021-11-04 04:29:51] Server started and is ready to accept connections!
+[2021-11-04 04:29:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-04 04:29:51] Type 'help' for a list of commands.
+[2021-11-04 04:32:23] CONNECT: EB|09-B|2SGT.Renan connected (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3  Version: 1.5.9-9.21024.0)
+[2021-11-04 04:32:25] JOIN: EB|09-B|2SGT.Renan joined the game (IP: 192.168.1.2)
+[2021-11-04 04:32:32] ERROR: Client (EB|09-B|2SGT.Renan) triggered serverside event proximity-voice::broadcastUpdate, but event is not added serverside
+[2021-11-04 04:32:49] LOGIN: (Everyone, Admin, Console, Bronze, Prata, Ouro, Diamante, EB, CORPS, CMDS, Staff, Ruby, ativarvip) EB|09-B|2SGT.Renan successfully logged in as 'Lucas' (IP: 192.168.1.2  Serial: 57AC3496D00DC498B3DAF40CF91806F3)
+[2021-11-04 04:33:05] ERROR: Not processing resource '[REN]PainelCorp' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\[REN]PainelCorp"
+                  Path #2: "resources\[ezio]\[SCRIPTS]\[REN]PainelCorp"
+[2021-11-04 04:33:33] New resource 'gtadev_assets' loaded
+[2021-11-04 04:33:34] New resource 'gtadev_chat' loaded
+[2021-11-04 04:33:34] ERROR: Not processing resource '[REN]PainelCorp' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\[REN]PainelCorp"
+                  Path #2: "resources\[ezio]\[SCRIPTS]\[REN]PainelCorp"
+[2021-11-04 04:33:34] Resources: 322 loaded, 0 failed
+[2021-11-04 04:33:47] Starting gtadev_assets
+[2021-11-04 04:33:47] startResource: Resource 'gtadev_assets' started
+[2021-11-04 04:33:47] ADMIN: Resource 'gtadev_assets' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:33:48] WARNING: gtadev_chat <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:33:48] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:33:48] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:33:48] Starting gtadev_chat
+[2021-11-04 04:33:48] startResource: Resource 'gtadev_chat' started
+[2021-11-04 04:33:48] ADMIN: Resource 'gtadev_chat' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:34:13] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:34:32] ADMIN: Resource 'gtadev_chat' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:34:32] Stopping gtadev_chat
+[2021-11-04 04:34:34] ADMIN: Resource 'gtadev_assets' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:34:34] Stopping gtadev_assets
+[2021-11-04 04:34:35] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:34:35] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:34:35] Starting gtadev_chat
+[2021-11-04 04:34:35] startResource: Resource 'gtadev_chat' started
+[2021-11-04 04:34:35] ADMIN: Resource 'gtadev_chat' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:34:44] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:35:41] WARNING: [ASC]\[RESOURCES]\gtadev_chat\server.lua:25: Access denied @ 'executeCommandHandler'
+[2021-11-04 04:35:50] WARNING: [ASC]\[RESOURCES]\gtadev_chat\server.lua:25: Access denied @ 'executeCommandHandler'
+[2021-11-04 04:35:54] WARNING: [ASC]\[RESOURCES]\gtadev_chat\server.lua:25: Access denied @ 'executeCommandHandler'
+[2021-11-04 04:36:18] WARNING: [ASC]\[RESOURCES]\gtadev_chat\server.lua:25: Access denied @ 'executeCommandHandler'
+[2021-11-04 04:36:42] Starting gtadev_assets
+[2021-11-04 04:36:42] startResource: Resource 'gtadev_assets' started
+[2021-11-04 04:36:42] ADMIN: Resource 'gtadev_assets' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:36:46] ADMIN: Resource 'gtadev_assets' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:36:46] Stopping gtadev_assets
+[2021-11-04 04:36:47] ADMIN: Resource 'gtadev_chat' stopped by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:36:47] Stopping gtadev_chat
+[2021-11-04 04:36:56] Starting gtadev_assets
+[2021-11-04 04:36:56] startResource: Resource 'gtadev_assets' started
+[2021-11-04 04:36:56] ADMIN: Resource 'gtadev_assets' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:36:57] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:36:57] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:36:57] Starting gtadev_chat
+[2021-11-04 04:36:57] startResource: Resource 'gtadev_chat' started
+[2021-11-04 04:36:57] ADMIN: Resource 'gtadev_chat' started by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:37:13] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:37:24] WARNING: [ASC]\[RESOURCES]\gtadev_chat\server.lua:25: Access denied @ 'executeCommandHandler'
+[2021-11-04 04:38:54] ADMIN: Resource 'gtadev_chat' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:38:54] Stopping gtadev_chat
+[2021-11-04 04:38:54] Resource 'gtadev_chat' changed, reloading and starting
+[2021-11-04 04:38:54] WARNING: gtadev_chat <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:38:54] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:38:54] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:38:54] Starting gtadev_chat
+[2021-11-04 04:38:54] gtadev_chat restarted successfully
+[2021-11-04 04:38:55] ADMIN: Resource 'gtadev_assets' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:38:55] Stopping gtadev_assets
+[2021-11-04 04:38:55] Starting gtadev_assets
+[2021-11-04 04:38:55] gtadev_assets restarted successfully
+[2021-11-04 04:39:14] ADMIN: Resource 'gtadev_chat' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:39:14] Stopping gtadev_chat
+[2021-11-04 04:39:14] Resource 'gtadev_chat' changed, reloading and starting
+[2021-11-04 04:39:15] WARNING: gtadev_chat <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:39:15] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:39:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:39:15] Starting gtadev_chat
+[2021-11-04 04:39:15] gtadev_chat restarted successfully
+[2021-11-04 04:39:40] ADMIN: Resource 'gtadev_chat' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:39:40] Stopping gtadev_chat
+[2021-11-04 04:39:40] Resource 'gtadev_chat' changed, reloading and starting
+[2021-11-04 04:39:40] WARNING: gtadev_chat <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:39:40] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:39:40] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:39:40] Starting gtadev_chat
+[2021-11-04 04:39:40] gtadev_chat restarted successfully
+[2021-11-04 04:39:50] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:40:07] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:40:34] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:42:15] ADMIN: Resource 'gtadev_chat' restarted by EB|09-B|2SGT.Renan(Lucas)
+[2021-11-04 04:42:15] Stopping gtadev_chat
+[2021-11-04 04:42:15] Resource 'gtadev_chat' changed, reloading and starting
+[2021-11-04 04:42:15] WARNING: gtadev_chat <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:42:15] WARNING: gtadev_chat requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.6-9.16361 because of 'guiFocus')
+[2021-11-04 04:42:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-11-04 04:42:15] Starting gtadev_chat
+[2021-11-04 04:42:15] gtadev_chat restarted successfully
+[2021-11-04 04:42:50] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:43:05] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:43:40] CHAT: EB|09-B|2SGT.Renan: *comeu alguma coisa (Sua mãe)
+[2021-11-04 04:45:33] Server stopped!
+[2021-11-04 04:45:34] Stopping resources...............................................................
+[2021-11-04 04:45:41] Closing SQLite3 database

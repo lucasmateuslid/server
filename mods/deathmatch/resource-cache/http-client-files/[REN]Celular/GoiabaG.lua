@@ -13,7 +13,7 @@ config = {
 
     blipLocID = 41, -- // Id do blip de localização.
     tempoLoc = 60000, -- // Tempo que a localização ficara no mapa.
-    maxContatos = 10, -- // Máximo de contatos permitido por conta.
+    maxContatos = 25, -- // Máximo de contatos permitido por conta.
 
     planos = {
         [1] = {50, 100}, -- // crédito que iria receber, preço

@@ -1,0 +1,19 @@
+<meta>
+
+	<script src="draw.lua" type="client" cache="false" />
+
+	<!-- Fonts -->
+
+		<file src="fonts/gtadevFont.ttf" />
+
+		<export function="dxDrawCircle" type="client" />
+		<export function="dxDrawRoundedRectangle" type="client" />
+		<export function="isInSlot" type="client" />
+		<export function="isCursorClient" type="client" />
+		<export function="cursorOnElement" type="client" />
+		<export function="getCreateFont" type="client" />
+		<export function="dxDrawRoundedRectangle" type="client" />
+		<export function="dxDrawRectangleRounded" type="client" />
+		<export function="dxDrawCircleHou" type="client" />
+
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+
+	<oop>true</oop>
+
+	<script src="server.lua" type="server" />
+	<script src="util_c.lua" type="client" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+
+	<file src="assets/icons/arrow.png" />
+	<file src="assets/icons/anonymous.png" />
+	<file src="assets/icons/local.png" />
+	<file src="assets/icons/olx.png" />
+	<file src="assets/icons/twitter.png" />
+	<file src="assets/icons/circle.png" />
+
+</meta>
