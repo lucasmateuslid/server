@@ -1,0 +1,14 @@
+<meta>
+
+    <info author = 'Caio' name = 'Painel Vip' />
+
+    <script src = 'caioG.lua' type = 'shared' />
+    <script src = 'caioC.lua' type = 'client' cache = 'false' />
+    <script src = 'caioS.lua' type = 'server' />
+
+    <file src = 'files/barra.png' />
+    <file src = 'files/fundo.png' />
+    <file src = 'files/pegar.png' />
+    <file src = 'files/seta.png'  />
+
+</meta>

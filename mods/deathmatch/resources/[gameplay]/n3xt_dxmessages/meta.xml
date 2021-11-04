@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.luac" type="client" cache="false" />
+	
+    <file src="files/fonts/roboto.ttf" cache="false" />
+    
+	<file src="files/img/background.png" cache="false" />
+    <file src="files/img/info.png" cache="false" />
+    <file src="files/img/succes.png" cache="false" />
+    <file src="files/img/error.png" cache="false" /> 
+
+    <file src="files/sfx/sound.mp3" cache="false" />
+</meta>

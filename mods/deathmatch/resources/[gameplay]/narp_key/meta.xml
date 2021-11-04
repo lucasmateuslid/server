@@ -1,0 +1,19 @@
+<meta>
+
+    <info author = 'Caio' name = 'Gerenciador VIP' /> 
+
+    <script src = 'caioG.lua' type = 'shared' />
+    <script src = 'caioC.lua' type = 'client' cache = 'false' />
+    <script src = 'caioS.lua' type = 'server' />
+
+    <file src = 'files/ativador.png' />
+    <file src = 'files/gerador.png' />
+
+    <file src = 'files/Gold.mp3' />
+    <file src = 'files/Diamond.mp3' />
+    <file src = 'files/Esmerald.mp3' />
+    <file src = 'files/Ruby.mp3' />
+
+    <file src = 'font.ttf' />
+
+</meta>

@@ -1,6 +1,6 @@
 config = {
 
-    tecla = {'f4', 'down'}, -- // Tecla and State.
+    tecla = {'f1', 'down'}, -- // Tecla and State.
     wallpapers = 4, -- // Quantidade máxima de wallpapers.
 
     notify_server = function (player, message, type)

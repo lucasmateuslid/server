@@ -23,6 +23,8 @@
         <object name="resource.admin"></object>
         <object name="resource.webadmin"></object>
         <object name="resource.acpanel"></object>
+        <object name="user.Lucas"></object>
+        <object name="resource.narp_key"></object>
     </group>
     <group name="Console">
         <acl name="Moderator"></acl>
@@ -71,6 +73,15 @@
         <object name="user.Lucas"></object>
     </group>
     <group name="Staff">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="Gold"></group>
+    <group name="Diamond"></group>
+    <group name="Esmerald"></group>
+    <group name="Ruby">
+        <object name="user.Lucas"></object>
+    </group>
+    <group name="ativarvip">
         <object name="user.Lucas"></object>
     </group>
     <acl name="Default">
